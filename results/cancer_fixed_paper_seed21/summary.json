@@ -1,0 +1,99 @@
+{
+  "task": "cancer",
+  "run_type": "MQNE_search",
+  "best": {
+    "fitness": 0.6608084358523726,
+    "final": {
+      "epoch": 150,
+      "train": {
+        "loss": 0.5859348674984229,
+        "accuracy": 0.66
+      },
+      "validation": {
+        "loss": 0.5824730927363939,
+        "accuracy": 0.6627218934911243
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.8992166401099246,
+          "accuracy": 0.3725
+        },
+        "validation": {
+          "loss": 0.8979637533545936,
+          "accuracy": 0.3727810650887574
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6024186471891462,
+          "accuracy": 0.645
+        },
+        "validation": {
+          "loss": 0.5996702328172822,
+          "accuracy": 0.6449704142011834
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.5892051449133204,
+          "accuracy": 0.66
+        },
+        "validation": {
+          "loss": 0.5858124544786761,
+          "accuracy": 0.6568047337278107
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.5859348674984229,
+          "accuracy": 0.66
+        },
+        "validation": {
+          "loss": 0.5824730927363939,
+          "accuracy": 0.6627218934911243
+        }
+      }
+    ],
+    "training_seed": 44,
+    "seconds": 1.940793499999927,
+    "optimizer_updates": 3000,
+    "path_1based": [
+      895,
+      51,
+      678,
+      289,
+      338,
+      785,
+      225
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 7,
+    "R_gates": 12,
+    "elementary_single_qubit_gates": 36,
+    "CRx_gates": 10,
+    "parameters": 46,
+    "generation": 3,
+    "candidate": 3
+  },
+  "independent_test": null,
+  "seconds": 210.8375477999998,
+  "circuits_trained": 60,
+  "optimizer_updates": 180000,
+  "protocol": "fixed_v2",
+  "backend": "numba",
+  "source_architecture": null,
+  "library_nonempty": 895,
+  "environment": {
+    "python": "3.13.6",
+    "torch": "2.11.0+cu128",
+    "numpy": "2.2.6",
+    "device": "cpu",
+    "platform": "Windows-11-10.0.26200-SP0"
+  }
+}

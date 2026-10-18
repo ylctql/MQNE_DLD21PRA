@@ -1,0 +1,9 @@
+Failed to find real location of C:\Python313\python.exe
+Traceback (most recent call last):
+  File "C:\Users\32769\.codex\.chatgpt-projects\g-p-6accbb469bf48191a2302acd301a4fd6\review_20261013\snapshot\predict.py", line 47, in <module>
+    if __name__=='__main__':main()
+                            ~~~~^^
+  File "C:\Users\32769\.codex\.chatgpt-projects\g-p-6accbb469bf48191a2302acd301a4fd6\review_20261013\snapshot\predict.py", line 34, in main
+    assert abs(computed['accuracy']-expected['accuracy'])<1e-12
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

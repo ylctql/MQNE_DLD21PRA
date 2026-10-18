@@ -1,0 +1,113 @@
+{
+  "task": "mnist",
+  "run_type": "paper_s11",
+  "best": {
+    "fitness": 0.9724,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.4591638452842777,
+        "accuracy": 0.971
+      },
+      "validation": {
+        "loss": 0.45428742636296704,
+        "accuracy": 0.978
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7200644868442599,
+          "accuracy": 0.3435
+        },
+        "validation": {
+          "loss": 0.716636958130554,
+          "accuracy": 0.35
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.47984542718199086,
+          "accuracy": 0.9495
+        },
+        "validation": {
+          "loss": 0.4759429128527831,
+          "accuracy": 0.95
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4739918063430328,
+          "accuracy": 0.9655
+        },
+        "validation": {
+          "loss": 0.4693830194938887,
+          "accuracy": 0.972
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.4680145069358546,
+          "accuracy": 0.965
+        },
+        "validation": {
+          "loss": 0.46344836116365473,
+          "accuracy": 0.966
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.4591638452842777,
+          "accuracy": 0.971
+        },
+        "validation": {
+          "loss": 0.45428742636296704,
+          "accuracy": 0.978
+        }
+      }
+    ],
+    "training_seed": 23,
+    "seconds": 90.7185841999999,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      2145,
+      5698,
+      449,
+      6319,
+      2017,
+      4397,
+      1315,
+      4007,
+      5160,
+      5793,
+      4065,
+      5668,
+      4033,
+      5668
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 15,
+    "R_gates": 28,
+    "elementary_single_qubit_gates": 84,
+    "CRx_gates": 22,
+    "parameters": 106,
+    "generation": 1,
+    "candidate": 0
+  },
+  "independent_test": {
+    "loss": 0.46127584209851563,
+    "accuracy": 0.968
+  },
+  "seconds": 91.43877109999994,
+  "circuits_trained": 1,
+  "optimizer_updates": 13400,
+  "protocol": "fixed_v2",
+  "backend": "numba",
+  "architecture_source": "SI_MQNE.pdf page 6 Fig. S11, manually transcribed"
+}

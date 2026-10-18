@@ -1,0 +1,9 @@
+{
+  "partial_file_retained": true,
+  "retry_download_calls": 0,
+  "retry_errors": [
+    "BadGzipFile",
+    "BadGzipFile"
+  ],
+  "copied_record_corrupted_for_verification_probe": true
+}

@@ -1,0 +1,98 @@
+{
+  "task": "spt",
+  "run_type": "legacy_spt_control",
+  "best": {
+    "fitness": 0.9615,
+    "final": {
+      "epoch": 150,
+      "train": {
+        "loss": 0.4361765367207036,
+        "accuracy": 0.956875
+      },
+      "validation": {
+        "loss": 0.4226272473108637,
+        "accuracy": 0.98
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.6978917239945462,
+          "accuracy": 0.58875
+        },
+        "validation": {
+          "loss": 0.6958099120956922,
+          "accuracy": 0.59
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.4365973229890153,
+          "accuracy": 0.949375
+        },
+        "validation": {
+          "loss": 0.42285923932093894,
+          "accuracy": 0.9725
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.43619885006847814,
+          "accuracy": 0.956875
+        },
+        "validation": {
+          "loss": 0.42265953649502847,
+          "accuracy": 0.98
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.4361765367207036,
+          "accuracy": 0.956875
+        },
+        "validation": {
+          "loss": 0.4226272473108637,
+          "accuracy": 0.98
+        }
+      }
+    ],
+    "training_seed": 21,
+    "seconds": 28.29643969999961,
+    "optimizer_updates": 12000,
+    "path_1based": [
+      6687,
+      785,
+      5256,
+      827,
+      3686,
+      5678,
+      1297,
+      6073,
+      4385,
+      6240,
+      4385
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 11,
+    "R_gates": 23,
+    "elementary_single_qubit_gates": 69,
+    "CRx_gates": 16,
+    "parameters": 85,
+    "generation": 1,
+    "candidate": 0
+  },
+  "independent_test": {
+    "loss": 0.4376939798769502,
+    "accuracy": 0.976
+  },
+  "seconds": 29.07903609999994,
+  "circuits_trained": 1,
+  "optimizer_updates": 12000,
+  "protocol": "fixed_v2",
+  "backend": "numba",
+  "architecture_source": "Historical spt_random6_seed21 architecture, fresh fixed_v2 data, no shared lambda; diagnostic control, not a new search"
+}

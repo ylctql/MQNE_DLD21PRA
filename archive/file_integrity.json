@@ -1,0 +1,677 @@
+[
+  {
+    "Original": "backup_before_fix_20261013/before_fix_files_sha256.json",
+    "Archived": "archive/code_before_fix_20261013/before_fix_files_sha256.json",
+    "SHA256": "696504769BD8BEC67642E8D30C8290E40C30D4BFFCD50DA3FB7E5D8184CC3B6F"
+  },
+  {
+    "Original": "backup_before_fix_20261013/mqne.py",
+    "Archived": "archive/code_before_fix_20261013/mqne.py",
+    "SHA256": "3A4825FDE3992009CBB1B575336004CC267E6FE75E418FCCCB1475D5342BD713"
+  },
+  {
+    "Original": "backup_before_fix_20261013/predict.py",
+    "Archived": "archive/code_before_fix_20261013/predict.py",
+    "SHA256": "7E6622423A13FA1E6E51E7636E3D20110F0252FFE470FE27655299A0BA866C53"
+  },
+  {
+    "Original": "backup_before_fix_20261013/README.md",
+    "Archived": "archive/code_before_fix_20261013/README.md",
+    "SHA256": "D7CF8B84745E7822F67DBA28C35CDA48DEE645C000338B115925BA9996770EF5"
+  },
+  {
+    "Original": "backup_before_fix_20261013/requirements.txt",
+    "Archived": "archive/code_before_fix_20261013/requirements.txt",
+    "SHA256": "D3583F00403A96A668DEF2FEAA9AD95754741B1F0B5A68D87F2BFDADCB8718E1"
+  },
+  {
+    "Original": "backup_before_fix_20261013/run.ps1",
+    "Archived": "archive/code_before_fix_20261013/run.ps1",
+    "SHA256": "3489C7EC7F90B263F329184797565E4F6449C7D8ADC2E598474D773720E4AB5E"
+  },
+  {
+    "Original": "backup_before_fix_20261013/summarize.py",
+    "Archived": "archive/code_before_fix_20261013/summarize.py",
+    "SHA256": "502697568BD9A196C230B2A2B36F2ED89F18786BA48FC76E859B96DD47C92C78"
+  },
+  {
+    "Original": "backup_before_fix_20261013/test_mqne.py",
+    "Archived": "archive/code_before_fix_20261013/test_mqne.py",
+    "SHA256": "A02161545B4AA338DE40BAF8E616BB2F71BE26F89568F779AFECC8815BEDA48A"
+  },
+  {
+    "Original": "native_backend_primitive.py",
+    "Archived": "archive/code_intermediate_20261013/native_backend_primitive.py",
+    "SHA256": "25271DA9470265EE40BAFBE8555E269F021B453CBCEAC76E78EEFB99246C6E23"
+  },
+  {
+    "Original": "fix_evidence_20261013/datasets_v2_before_temp_nonce.py",
+    "Archived": "archive/code_intermediate_20261013/datasets_v2_before_temp_nonce.py",
+    "SHA256": "04F2A718F336823FD6E80FB5E5DA1716CC9B07697B7014D91158FBF1A451E9C3"
+  },
+  {
+    "Original": "review_evidence_20261013/review_probe_observations.json",
+    "Archived": "archive/review_evidence_20261013/review_probe_observations.json",
+    "SHA256": "31E9548F12513CC2E41BBEA7773F43F2BFCD1FAD604665652FD388E12E209ACA"
+  },
+  {
+    "Original": "review_evidence_20261013/reviewed_file_hashes.json",
+    "Archived": "archive/review_evidence_20261013/reviewed_file_hashes.json",
+    "SHA256": "6644E62DFA36272F5DE096F3FD9862D7F17DE3814FBF81ABB7B1600A781CEC2B"
+  },
+  {
+    "Original": "review_evidence_20261013/verification_normal_final.log",
+    "Archived": "archive/review_evidence_20261013/verification_normal_final.log",
+    "SHA256": "9F06924345BF3CC3A4A85AFE86350035393A8D3916D8854226D7497816B2972A"
+  },
+  {
+    "Original": "review_evidence_20261013/verification_optimized_final.log",
+    "Archived": "archive/review_evidence_20261013/verification_optimized_final.log",
+    "SHA256": "986182D93564209DB4E61C87797982E55304D2017E10359C5C90618B8DF14674"
+  },
+  {
+    "Original": "CODE_REVIEW_20261013.md",
+    "Archived": "archive/reports/CODE_REVIEW_20261013.md",
+    "SHA256": "57E97D1ADABD8CCA59079E53C9F5C6FB484851487C4F609F6F85ADB3363983D1"
+  },
+  {
+    "Original": "REPRODUCTION_REPORT.md",
+    "Archived": "archive/reports/REPRODUCTION_REPORT.md",
+    "SHA256": "223CB4CBA3782321FDCEEA94AE13F46D03B5A5C3BBA5AB3FFA92262C6C145602"
+  },
+  {
+    "Original": "environment_versions.json",
+    "Archived": "archive/reports/environment_versions.json",
+    "SHA256": "4F2D84C64DF4E114F23A02239D3526337618CDB723E2953B63A32B3C2DF21FA7"
+  },
+  {
+    "Original": "requirements-tested.txt",
+    "Archived": "archive/reports/requirements-tested.txt",
+    "SHA256": "BA0793A8AB01624FF14E6581A97DC2009DD033417E406C72125E068B64EB6D11"
+  },
+  {
+    "Original": "results/cancer_pilot_seed21/best_circuit.json",
+    "Archived": "archive/results_legacy/cancer_pilot_seed21/best_circuit.json",
+    "SHA256": "53C49974C6B9DEDCD916D9375505C39606120CA927C8BC946ABC248349534092"
+  },
+  {
+    "Original": "results/cancer_pilot_seed21/best_parameters.pt",
+    "Archived": "archive/results_legacy/cancer_pilot_seed21/best_parameters.pt",
+    "SHA256": "039EE2797D0ECED1E1224AB72F162E4E5D3B8ACD7BE5EA72C6E5062981FAAD40"
+  },
+  {
+    "Original": "results/cancer_pilot_seed21/candidates.json",
+    "Archived": "archive/results_legacy/cancer_pilot_seed21/candidates.json",
+    "SHA256": "7F20B0F78BF8325D4EB4611672E418DFFC6FC7E92F03BFEFDB8B37AA223A2AD7"
+  },
+  {
+    "Original": "results/cancer_pilot_seed21/circuit.png",
+    "Archived": "archive/results_legacy/cancer_pilot_seed21/circuit.png",
+    "SHA256": "D88CC2BCF103712157FC552CE92F2B58FEBEFB24A9105C125F38219FB08A915F"
+  },
+  {
+    "Original": "results/cancer_pilot_seed21/config.json",
+    "Archived": "archive/results_legacy/cancer_pilot_seed21/config.json",
+    "SHA256": "17C0C97287EC928794383198DD526D3E152AFA1655F3A03F6AD5CCFD3E6BBE24"
+  },
+  {
+    "Original": "results/cancer_pilot_seed21/data_manifest.json",
+    "Archived": "archive/results_legacy/cancer_pilot_seed21/data_manifest.json",
+    "SHA256": "4DBAF23F196D7065B1C68DA18324411BE46D3829CEA04770931E39CB123CA972"
+  },
+  {
+    "Original": "results/cancer_pilot_seed21/fitness.png",
+    "Archived": "archive/results_legacy/cancer_pilot_seed21/fitness.png",
+    "SHA256": "2B8FF8EEAD4ED632F61ADA2A01B2D307B8529D14C81A15207430FFE1111497E7"
+  },
+  {
+    "Original": "results/cancer_pilot_seed21/summary.json",
+    "Archived": "archive/results_legacy/cancer_pilot_seed21/summary.json",
+    "SHA256": "6F52E7CC9B61491E7B7211DE6365963B06345AD597FC364E98314A9BCE890457"
+  },
+  {
+    "Original": "results/cancer_pilot_seed21/training.png",
+    "Archived": "archive/results_legacy/cancer_pilot_seed21/training.png",
+    "SHA256": "DF3BA5F2D1FE5739DB8E913A141536102CC6DD0153BF71C5E66652D43D593ADA"
+  },
+  {
+    "Original": "results/cancer_random6_seed21/best_circuit.json",
+    "Archived": "archive/results_legacy/cancer_random6_seed21/best_circuit.json",
+    "SHA256": "323F732388A6DE586AA9D68B4FCCBD905E8E66B1BF7134ED28FD69536B226018"
+  },
+  {
+    "Original": "results/cancer_random6_seed21/best_parameters.pt",
+    "Archived": "archive/results_legacy/cancer_random6_seed21/best_parameters.pt",
+    "SHA256": "85CA2DE24AD0D9AF0414B3D71E358E399803F93BB808F146D7BF600692F2F399"
+  },
+  {
+    "Original": "results/cancer_random6_seed21/candidates.json",
+    "Archived": "archive/results_legacy/cancer_random6_seed21/candidates.json",
+    "SHA256": "6036563DD1CB51E9B00C3EA89FD7AD833E8E2A362557265A24BB79D2CF7B3CB1"
+  },
+  {
+    "Original": "results/cancer_random6_seed21/circuit.png",
+    "Archived": "archive/results_legacy/cancer_random6_seed21/circuit.png",
+    "SHA256": "D88CC2BCF103712157FC552CE92F2B58FEBEFB24A9105C125F38219FB08A915F"
+  },
+  {
+    "Original": "results/cancer_random6_seed21/config.json",
+    "Archived": "archive/results_legacy/cancer_random6_seed21/config.json",
+    "SHA256": "9DEF7B9929C5F58AA3C15D6A890976FDBCBB90188E168E7CF9EDD4B5C137DF95"
+  },
+  {
+    "Original": "results/cancer_random6_seed21/data_manifest.json",
+    "Archived": "archive/results_legacy/cancer_random6_seed21/data_manifest.json",
+    "SHA256": "4DBAF23F196D7065B1C68DA18324411BE46D3829CEA04770931E39CB123CA972"
+  },
+  {
+    "Original": "results/cancer_random6_seed21/fitness.png",
+    "Archived": "archive/results_legacy/cancer_random6_seed21/fitness.png",
+    "SHA256": "FABB3BBC8191430682192B10EB23AA74695204C42786158F3149EF6595F5C8F9"
+  },
+  {
+    "Original": "results/cancer_random6_seed21/summary.json",
+    "Archived": "archive/results_legacy/cancer_random6_seed21/summary.json",
+    "SHA256": "50B5086871ADF686FC74B77BCCC7EA6B02724B58F5DC9BBE115BF70B1E745ECB"
+  },
+  {
+    "Original": "results/cancer_random6_seed21/training.png",
+    "Archived": "archive/results_legacy/cancer_random6_seed21/training.png",
+    "SHA256": "A687BEBFC6F9C11D1AD83C31997BF72FA8C78E26D7ECB17228356D38CA7B1E7F"
+  },
+  {
+    "Original": "results/cancer_standard_depth13_seed42/best_circuit.json",
+    "Archived": "archive/results_legacy/cancer_standard_depth13_seed42/best_circuit.json",
+    "SHA256": "D9710851A986385E725869972C893AC3A0D0C5EE05FCD1ABD22A0252308EC9EE"
+  },
+  {
+    "Original": "results/cancer_standard_depth13_seed42/best_parameters.pt",
+    "Archived": "archive/results_legacy/cancer_standard_depth13_seed42/best_parameters.pt",
+    "SHA256": "CB74B7766A4C9C099FCD3E1FE6515181FC34F202BCA7C6D10F8AFE3CA7027E74"
+  },
+  {
+    "Original": "results/cancer_standard_depth13_seed42/candidates.json",
+    "Archived": "archive/results_legacy/cancer_standard_depth13_seed42/candidates.json",
+    "SHA256": "7F179DFE3BD41D0F7D5C3D3371938AF71E54B76AADD7B0F7B0E83CE5A5ED0596"
+  },
+  {
+    "Original": "results/cancer_standard_depth13_seed42/circuit.png",
+    "Archived": "archive/results_legacy/cancer_standard_depth13_seed42/circuit.png",
+    "SHA256": "1B963E686CB1EC9FA62F4E94A3A6247F7D485780067D831E14CC914E188D502B"
+  },
+  {
+    "Original": "results/cancer_standard_depth13_seed42/config.json",
+    "Archived": "archive/results_legacy/cancer_standard_depth13_seed42/config.json",
+    "SHA256": "4E4FCF414673B1D726FA6448488D9DE7E1C840BB7B9AF19690CCB8570E01057A"
+  },
+  {
+    "Original": "results/cancer_standard_depth13_seed42/data_manifest.json",
+    "Archived": "archive/results_legacy/cancer_standard_depth13_seed42/data_manifest.json",
+    "SHA256": "DA7C1423B9B25FDC822E438ECF0A5FF27759DD8C2B0AB40122E38E194B2C903B"
+  },
+  {
+    "Original": "results/cancer_standard_depth13_seed42/fitness.png",
+    "Archived": "archive/results_legacy/cancer_standard_depth13_seed42/fitness.png",
+    "SHA256": "BB9EC17708191D2C8226C1895E2F05E3B48D209BF1BB9800D147AD876ABF4F51"
+  },
+  {
+    "Original": "results/cancer_standard_depth13_seed42/restored_verification.json",
+    "Archived": "archive/results_legacy/cancer_standard_depth13_seed42/restored_verification.json",
+    "SHA256": "41A90094A1BDFCFF44648C42674B2A082986D3885A270FBB16F49108CCB99BE7"
+  },
+  {
+    "Original": "results/cancer_standard_depth13_seed42/summary.json",
+    "Archived": "archive/results_legacy/cancer_standard_depth13_seed42/summary.json",
+    "SHA256": "BD1068DD5B2CC1616AC5E9E4556906E032757EB43BAD179FE0B3B58DCCCD8DC0"
+  },
+  {
+    "Original": "results/cancer_standard_depth13_seed42/train_predictions.csv",
+    "Archived": "archive/results_legacy/cancer_standard_depth13_seed42/train_predictions.csv",
+    "SHA256": "36C12C797730E17F1AB390FB2232B4A795583497D93E5CEDA8C857E50D0CBF0D"
+  },
+  {
+    "Original": "results/cancer_standard_depth13_seed42/training.png",
+    "Archived": "archive/results_legacy/cancer_standard_depth13_seed42/training.png",
+    "SHA256": "81A97771BD6B64B7DEA195874849E620E5B4C58ABB936E53200E24DFE154C3B4"
+  },
+  {
+    "Original": "results/cancer_standard_depth13_seed42/validation_predictions.csv",
+    "Archived": "archive/results_legacy/cancer_standard_depth13_seed42/validation_predictions.csv",
+    "SHA256": "64F6D37AD96235D70B86AFC5BF4DF7A5DF2057197ED0ED4AAF26B6AFBB409526"
+  },
+  {
+    "Original": "results/cancer_standard_seed21/best_circuit.json",
+    "Archived": "archive/results_legacy/cancer_standard_seed21/best_circuit.json",
+    "SHA256": "2B5E5A7D421AF46C15F95B255991E8F39A19D0BC5994A3D9183E6B62AFA0FC95"
+  },
+  {
+    "Original": "results/cancer_standard_seed21/best_parameters.pt",
+    "Archived": "archive/results_legacy/cancer_standard_seed21/best_parameters.pt",
+    "SHA256": "5BC179CBEAE25163E3F898811ADFCB333E4A229A07C6E9DCBADF34A97FE811B6"
+  },
+  {
+    "Original": "results/cancer_standard_seed21/candidates.json",
+    "Archived": "archive/results_legacy/cancer_standard_seed21/candidates.json",
+    "SHA256": "147C93CECF88029ECA4794067160357E292C098962066B9B7B183630ED495FF8"
+  },
+  {
+    "Original": "results/cancer_standard_seed21/circuit.png",
+    "Archived": "archive/results_legacy/cancer_standard_seed21/circuit.png",
+    "SHA256": "D88CC2BCF103712157FC552CE92F2B58FEBEFB24A9105C125F38219FB08A915F"
+  },
+  {
+    "Original": "results/cancer_standard_seed21/config.json",
+    "Archived": "archive/results_legacy/cancer_standard_seed21/config.json",
+    "SHA256": "8B21E30107BBA3FD446F6C14C6865E6043FCE3965AD6C4E6D4B42D19A11E825F"
+  },
+  {
+    "Original": "results/cancer_standard_seed21/data_manifest.json",
+    "Archived": "archive/results_legacy/cancer_standard_seed21/data_manifest.json",
+    "SHA256": "1AB9EF12B43E96E9ED435E9FC4F0975DFDC0CFC59E788785609D73CCBB1C0A20"
+  },
+  {
+    "Original": "results/cancer_standard_seed21/fitness.png",
+    "Archived": "archive/results_legacy/cancer_standard_seed21/fitness.png",
+    "SHA256": "2B8FF8EEAD4ED632F61ADA2A01B2D307B8529D14C81A15207430FFE1111497E7"
+  },
+  {
+    "Original": "results/cancer_standard_seed21/summary.json",
+    "Archived": "archive/results_legacy/cancer_standard_seed21/summary.json",
+    "SHA256": "36D2890D0F30336188ABA231A2D58B659468B3630F1750C5FAAD07E1B11879DF"
+  },
+  {
+    "Original": "results/cancer_standard_seed21/training.png",
+    "Archived": "archive/results_legacy/cancer_standard_seed21/training.png",
+    "SHA256": "6EBBC6759501AE9DB59B6057E7BEF6FF5FAC37975B4D0C87580F01927B80B35A"
+  },
+  {
+    "Original": "results/library_audit/published_path_numbering_audit.json",
+    "Archived": "archive/results_legacy/library_audit/published_path_numbering_audit.json",
+    "SHA256": "95EC313E1C6670D7FD5E99C8616C1A6D2A76E240FEAD417FA983551256058048"
+  },
+  {
+    "Original": "results/library_audit/scaling.json",
+    "Archived": "archive/results_legacy/library_audit/scaling.json",
+    "SHA256": "F23F8DA0A5C64DD913869BF7AA2127F709DE8960D89356DC5D4833E87EA9D764"
+  },
+  {
+    "Original": "results/library_audit/scaling.png",
+    "Archived": "archive/results_legacy/library_audit/scaling.png",
+    "SHA256": "8A17ED8F6E8368D5F333B5ED372B99357BF7CC7D16D26ADFAC9C48EAF3BCF486"
+  },
+  {
+    "Original": "results/mnist_fixed_paper_seed21/best_circuit.json",
+    "Archived": "archive/results_interrupted/mnist_fixed_paper_seed21/best_circuit.json",
+    "SHA256": "3DEF70ADF2867B2B6A0820D4E472D3F951EB42347C7B28C4E38C0D470CFE5009"
+  },
+  {
+    "Original": "results/mnist_fixed_paper_seed21/best_parameters.pt",
+    "Archived": "archive/results_interrupted/mnist_fixed_paper_seed21/best_parameters.pt",
+    "SHA256": "DD58677EE730B4035E18A073313CDAB3C3DCBBE071BB996022A8D9901BFA444E"
+  },
+  {
+    "Original": "results/mnist_fixed_paper_seed21/candidates.json",
+    "Archived": "archive/results_interrupted/mnist_fixed_paper_seed21/candidates.json",
+    "SHA256": "7E24FCDC2CCAAFC529E7CF089A7F58E3F5581CAA690F2D62EDB4FC8D4132C8A9"
+  },
+  {
+    "Original": "results/mnist_fixed_paper_seed21/config.json",
+    "Archived": "archive/results_interrupted/mnist_fixed_paper_seed21/config.json",
+    "SHA256": "3BEAA0C9DA13A670D0164605EF9F09199D90BC8F6FD557EAC36DB90D4FD462D8"
+  },
+  {
+    "Original": "results/mnist_fixed_paper_seed21/data_manifest.json",
+    "Archived": "archive/results_interrupted/mnist_fixed_paper_seed21/data_manifest.json",
+    "SHA256": "52F2FDC4E8E7403E3EDA0CD3EBE951FB407709E49F99F65054293D74CF2BD908"
+  },
+  {
+    "Original": "results/mnist_pilot_seed21/best_circuit.json",
+    "Archived": "archive/results_legacy/mnist_pilot_seed21/best_circuit.json",
+    "SHA256": "B813E7E5CBEBE255C2DB6CD5EB8011EC62901E6641F5256C8566109685BFD430"
+  },
+  {
+    "Original": "results/mnist_pilot_seed21/best_parameters.pt",
+    "Archived": "archive/results_legacy/mnist_pilot_seed21/best_parameters.pt",
+    "SHA256": "48838A42FA07178B1E98924CD004566486FCD0EC3E651A50EC822EC1C887C543"
+  },
+  {
+    "Original": "results/mnist_pilot_seed21/candidates.json",
+    "Archived": "archive/results_legacy/mnist_pilot_seed21/candidates.json",
+    "SHA256": "B6DD42E827B33D5D783FD3FDCCD98AEDFAC606C815F8324E2181BA833482F3CF"
+  },
+  {
+    "Original": "results/mnist_pilot_seed21/circuit.png",
+    "Archived": "archive/results_legacy/mnist_pilot_seed21/circuit.png",
+    "SHA256": "0A7063E4CE59987EDCA5EC681DB41ED4A975470F2D6F77A948184F92A8915012"
+  },
+  {
+    "Original": "results/mnist_pilot_seed21/config.json",
+    "Archived": "archive/results_legacy/mnist_pilot_seed21/config.json",
+    "SHA256": "9DCDFD83FB34A7FCD325AB4680175E300B5055879C39DC5B3908E842FA6953FF"
+  },
+  {
+    "Original": "results/mnist_pilot_seed21/data_manifest.json",
+    "Archived": "archive/results_legacy/mnist_pilot_seed21/data_manifest.json",
+    "SHA256": "205E337A2104C6CC1E71143AF021CD7CB7D3894A781A6B6322CAA74F3D73392F"
+  },
+  {
+    "Original": "results/mnist_pilot_seed21/fitness.png",
+    "Archived": "archive/results_legacy/mnist_pilot_seed21/fitness.png",
+    "SHA256": "00ACDF831497E028B16161F54667E1E553B31F66546539E5B655D0912858CEB3"
+  },
+  {
+    "Original": "results/mnist_pilot_seed21/summary.json",
+    "Archived": "archive/results_legacy/mnist_pilot_seed21/summary.json",
+    "SHA256": "0EEBF4C79EF85B0CD2E6C630AE7CE3B6654364D008001260F14F33FDF9367422"
+  },
+  {
+    "Original": "results/mnist_pilot_seed21/training.png",
+    "Archived": "archive/results_legacy/mnist_pilot_seed21/training.png",
+    "SHA256": "2F68F8508CBF3657FC2F10CC6E8165CA2CE75FCCF2869E697F06D96E445426D3"
+  },
+  {
+    "Original": "results/mnist_retrain_full_data_seed21/best_circuit.json",
+    "Archived": "archive/results_legacy/mnist_retrain_full_data_seed21/best_circuit.json",
+    "SHA256": "25E3C6858E08F8D232C6532313EAD455A3308FAD2ED2BA4E8488CB0B686DD7AE"
+  },
+  {
+    "Original": "results/mnist_retrain_full_data_seed21/best_parameters.pt",
+    "Archived": "archive/results_legacy/mnist_retrain_full_data_seed21/best_parameters.pt",
+    "SHA256": "689C1EE0D6BCE34F167F5170B2732A85075C4C310F65BA3FD8119C2B285ECD3C"
+  },
+  {
+    "Original": "results/mnist_retrain_full_data_seed21/candidates.json",
+    "Archived": "archive/results_legacy/mnist_retrain_full_data_seed21/candidates.json",
+    "SHA256": "0FD6DBC16683442673AC2B36D0C36EF905AC2623632EA4BA89AA302148E74127"
+  },
+  {
+    "Original": "results/mnist_retrain_full_data_seed21/circuit.png",
+    "Archived": "archive/results_legacy/mnist_retrain_full_data_seed21/circuit.png",
+    "SHA256": "0A7063E4CE59987EDCA5EC681DB41ED4A975470F2D6F77A948184F92A8915012"
+  },
+  {
+    "Original": "results/mnist_retrain_full_data_seed21/config.json",
+    "Archived": "archive/results_legacy/mnist_retrain_full_data_seed21/config.json",
+    "SHA256": "93092C41F3FB82D0EC839846DE154385229ADCA852ACDBE3B94AF5670F75A0CC"
+  },
+  {
+    "Original": "results/mnist_retrain_full_data_seed21/data_manifest.json",
+    "Archived": "archive/results_legacy/mnist_retrain_full_data_seed21/data_manifest.json",
+    "SHA256": "5FCA63E9E54454A1BAEE60254E4C45A4EF486356B1FF2373ED23F8EF944A5068"
+  },
+  {
+    "Original": "results/mnist_retrain_full_data_seed21/fitness.png",
+    "Archived": "archive/results_legacy/mnist_retrain_full_data_seed21/fitness.png",
+    "SHA256": "EA5CE4AD7AEC2B91147D9C0D748E3631E603BBD0EB1574F161FD90F3ABFE7D02"
+  },
+  {
+    "Original": "results/mnist_retrain_full_data_seed21/restored_verification.json",
+    "Archived": "archive/results_legacy/mnist_retrain_full_data_seed21/restored_verification.json",
+    "SHA256": "1C947452D7D8F8E7D022BF8EB3BD77F9D7FB769B89751C5E8C3DCB882436ED83"
+  },
+  {
+    "Original": "results/mnist_retrain_full_data_seed21/summary.json",
+    "Archived": "archive/results_legacy/mnist_retrain_full_data_seed21/summary.json",
+    "SHA256": "C727F62AA58E36B87FA0E3ABB61BA30D3228732093B774001387BBE6F96025F2"
+  },
+  {
+    "Original": "results/mnist_retrain_full_data_seed21/test_predictions.csv",
+    "Archived": "archive/results_legacy/mnist_retrain_full_data_seed21/test_predictions.csv",
+    "SHA256": "B0881DB13049636CE3D83A83FFDE9C40C67CD8DDC9CCC1B51956247BFD392434"
+  },
+  {
+    "Original": "results/mnist_retrain_full_data_seed21/train_predictions.csv",
+    "Archived": "archive/results_legacy/mnist_retrain_full_data_seed21/train_predictions.csv",
+    "SHA256": "BC8236F5557E5C6E4489C0AE8D8504BA620F23B573E89DD89BE380AE46EFB353"
+  },
+  {
+    "Original": "results/mnist_retrain_full_data_seed21/training.png",
+    "Archived": "archive/results_legacy/mnist_retrain_full_data_seed21/training.png",
+    "SHA256": "98B677D4FBC38FCC111944EB0B58DD3D6535EFC6A81BA1B1BFE6751B054C2B0D"
+  },
+  {
+    "Original": "results/mnist_retrain_full_data_seed21/validation_predictions.csv",
+    "Archived": "archive/results_legacy/mnist_retrain_full_data_seed21/validation_predictions.csv",
+    "SHA256": "BF4B7C44D3E1EAA89684CDD65BFCDB310BFE4D31D24FED6AFF6D83F0E83116F5"
+  },
+  {
+    "Original": "results/spt_fixed_paper_seed21/best_circuit.json",
+    "Archived": "archive/results_interrupted/spt_fixed_paper_seed21/best_circuit.json",
+    "SHA256": "56F0AEA5C4BC8CD2AA4DAFA762ACB2B8AF5887A61194ED5EEDDBF92127ACC71E"
+  },
+  {
+    "Original": "results/spt_fixed_paper_seed21/best_parameters.pt",
+    "Archived": "archive/results_interrupted/spt_fixed_paper_seed21/best_parameters.pt",
+    "SHA256": "488DCFC3A603D92D8A1D908362672AA176C86BFBDFB3BFB1FA6F2CBAF82F81FD"
+  },
+  {
+    "Original": "results/spt_fixed_paper_seed21/candidates.json",
+    "Archived": "archive/results_interrupted/spt_fixed_paper_seed21/candidates.json",
+    "SHA256": "92F35CC22C2556E0D74A46FE5682A6BD33CB7FA07E319D4BC102C99E5C9FE663"
+  },
+  {
+    "Original": "results/spt_fixed_paper_seed21/config.json",
+    "Archived": "archive/results_interrupted/spt_fixed_paper_seed21/config.json",
+    "SHA256": "85522AC730EB6A8ED1089A0A14BD8C413E9F9396B2639022D0EFD75B4D981957"
+  },
+  {
+    "Original": "results/spt_fixed_paper_seed21/data_manifest.json",
+    "Archived": "archive/results_interrupted/spt_fixed_paper_seed21/data_manifest.json",
+    "SHA256": "63498335BACE753BF4D71892051F7CB40315DC05DA0B890A3B8492077E8E5089"
+  },
+  {
+    "Original": "results/spt_pilot_seed21/best_circuit.json",
+    "Archived": "archive/results_legacy/spt_pilot_seed21/best_circuit.json",
+    "SHA256": "42BF4190DF3B5F01EE281A2729212232726A23860C025B3B0D6CB4BB79EE3F4A"
+  },
+  {
+    "Original": "results/spt_pilot_seed21/best_parameters.pt",
+    "Archived": "archive/results_legacy/spt_pilot_seed21/best_parameters.pt",
+    "SHA256": "2066A6178526E207AC1A7625B776743634EB2C22B12AFB9D627F305D72FEE0AD"
+  },
+  {
+    "Original": "results/spt_pilot_seed21/candidates.json",
+    "Archived": "archive/results_legacy/spt_pilot_seed21/candidates.json",
+    "SHA256": "8EFDDBF209608F246F40279EE0E7FA9B40884BB5077FA2DAB81F28CF9155EAC8"
+  },
+  {
+    "Original": "results/spt_pilot_seed21/circuit.png",
+    "Archived": "archive/results_legacy/spt_pilot_seed21/circuit.png",
+    "SHA256": "1540FFAC3C5C1252DDDBCADCFB61CB3B4EC21F2663D74A00DCEE52DB1380F9E1"
+  },
+  {
+    "Original": "results/spt_pilot_seed21/config.json",
+    "Archived": "archive/results_legacy/spt_pilot_seed21/config.json",
+    "SHA256": "DDBFF428742CA40B096263BDD159A9885358B9964B82EB2FF6825967E58FC2A9"
+  },
+  {
+    "Original": "results/spt_pilot_seed21/data_manifest.json",
+    "Archived": "archive/results_legacy/spt_pilot_seed21/data_manifest.json",
+    "SHA256": "A23E1FC4EFB86C438807D8F75797E014FB0E8B5F77D5451D225C15949552B118"
+  },
+  {
+    "Original": "results/spt_pilot_seed21/fitness.png",
+    "Archived": "archive/results_legacy/spt_pilot_seed21/fitness.png",
+    "SHA256": "93CEB3133FDC7FE19D2C28353F4C0530195641808C31FAA578A6F1585D121E91"
+  },
+  {
+    "Original": "results/spt_pilot_seed21/summary.json",
+    "Archived": "archive/results_legacy/spt_pilot_seed21/summary.json",
+    "SHA256": "627DF3B8D53084D41A570CF9B14592BC953F5E58BF4DC9BECA66196B7AC4CFA9"
+  },
+  {
+    "Original": "results/spt_pilot_seed21/training.png",
+    "Archived": "archive/results_legacy/spt_pilot_seed21/training.png",
+    "SHA256": "F6D650B9C6B47B1C26C06AF96DB28554B4FEFC63705D731AC0553F3DB45E1DF0"
+  },
+  {
+    "Original": "results/spt_random6_seed21/best_circuit.json",
+    "Archived": "archive/results_legacy/spt_random6_seed21/best_circuit.json",
+    "SHA256": "38D6AB9479777BA82B7C4A9AEEBE8D933DEAD8B621365FF1A27FD63BF06DC22B"
+  },
+  {
+    "Original": "results/spt_random6_seed21/best_parameters.pt",
+    "Archived": "archive/results_legacy/spt_random6_seed21/best_parameters.pt",
+    "SHA256": "001D883007DBB7FCFFFAF3BB3EAE8DF378114AEDE28EC8CD84E7EA89B8521250"
+  },
+  {
+    "Original": "results/spt_random6_seed21/candidates.json",
+    "Archived": "archive/results_legacy/spt_random6_seed21/candidates.json",
+    "SHA256": "5CD47DB425EB56438E60AE23BF8DE12F348C0BEC2ABE6900C2100E8C98ADC249"
+  },
+  {
+    "Original": "results/spt_random6_seed21/circuit.png",
+    "Archived": "archive/results_legacy/spt_random6_seed21/circuit.png",
+    "SHA256": "F9F5E8E7AD773F44DFE36AC2CBEB803A11AE12482C01C098003A8560FF3CF775"
+  },
+  {
+    "Original": "results/spt_random6_seed21/config.json",
+    "Archived": "archive/results_legacy/spt_random6_seed21/config.json",
+    "SHA256": "57AD0CFFECD0BCEEFACEFDD3CF968E67C822A0F5AA12C6E5D9412FCBFD6C2A92"
+  },
+  {
+    "Original": "results/spt_random6_seed21/data_manifest.json",
+    "Archived": "archive/results_legacy/spt_random6_seed21/data_manifest.json",
+    "SHA256": "A23E1FC4EFB86C438807D8F75797E014FB0E8B5F77D5451D225C15949552B118"
+  },
+  {
+    "Original": "results/spt_random6_seed21/fitness.png",
+    "Archived": "archive/results_legacy/spt_random6_seed21/fitness.png",
+    "SHA256": "756B4D8D4F896A3D25A32182C01F7D6FA1392D39B175ED455FA21027806EF047"
+  },
+  {
+    "Original": "results/spt_random6_seed21/restored_verification.json",
+    "Archived": "archive/results_legacy/spt_random6_seed21/restored_verification.json",
+    "SHA256": "59B8E68CDFEAB1D59180C102A5825309CCD86BF03046F41BC862F4440E839130"
+  },
+  {
+    "Original": "results/spt_random6_seed21/summary.json",
+    "Archived": "archive/results_legacy/spt_random6_seed21/summary.json",
+    "SHA256": "7B1BF24C5344AAD3C2C14A5BDB7268A26E63D88BCB848814AE709C6710B317F0"
+  },
+  {
+    "Original": "results/spt_random6_seed21/train_predictions.csv",
+    "Archived": "archive/results_legacy/spt_random6_seed21/train_predictions.csv",
+    "SHA256": "B7A8DEF36E90BA9CD9B9F9404DE23829E64CC149C2EF5D3DF09DA8896E91853A"
+  },
+  {
+    "Original": "results/spt_random6_seed21/training.png",
+    "Archived": "archive/results_legacy/spt_random6_seed21/training.png",
+    "SHA256": "CF2D6D761C9B6DB5AAE27C61456F0E62936F3886A62684C28186FC6182B66746"
+  },
+  {
+    "Original": "results/spt_random6_seed21/validation_predictions.csv",
+    "Archived": "archive/results_legacy/spt_random6_seed21/validation_predictions.csv",
+    "SHA256": "1CE748EE94832A19FE9AE5877B697AE547166D433CEC61CFDDC5CF97257D3290"
+  },
+  {
+    "Original": "results/spt_retrain_full_data_seed21/best_circuit.json",
+    "Archived": "archive/results_legacy/spt_retrain_full_data_seed21/best_circuit.json",
+    "SHA256": "97BAC1121B75C3864D2362D39A0B63BA228D7DA0BB4BE3D7C79589158B24C2AE"
+  },
+  {
+    "Original": "results/spt_retrain_full_data_seed21/best_parameters.pt",
+    "Archived": "archive/results_legacy/spt_retrain_full_data_seed21/best_parameters.pt",
+    "SHA256": "D0ABF158064DD15A0A72937F3089515B0FDE275D072256F839C2D9F21D15D508"
+  },
+  {
+    "Original": "results/spt_retrain_full_data_seed21/candidates.json",
+    "Archived": "archive/results_legacy/spt_retrain_full_data_seed21/candidates.json",
+    "SHA256": "5FCB5F5D0C117EB105890BC551C4BFD0D94CC3E4CADFA70A9B170B17F208A282"
+  },
+  {
+    "Original": "results/spt_retrain_full_data_seed21/circuit.png",
+    "Archived": "archive/results_legacy/spt_retrain_full_data_seed21/circuit.png",
+    "SHA256": "F9F5E8E7AD773F44DFE36AC2CBEB803A11AE12482C01C098003A8560FF3CF775"
+  },
+  {
+    "Original": "results/spt_retrain_full_data_seed21/config.json",
+    "Archived": "archive/results_legacy/spt_retrain_full_data_seed21/config.json",
+    "SHA256": "BBA8F0F9651BAEC19E5F519F02E4D483BDEE5D2901AC753C4A5E0B33ED28AA9C"
+  },
+  {
+    "Original": "results/spt_retrain_full_data_seed21/data_manifest.json",
+    "Archived": "archive/results_legacy/spt_retrain_full_data_seed21/data_manifest.json",
+    "SHA256": "D848C558ED5D84A4D78E37D3B2EAB29B04FC531E213E841FC6C696B1C1C8BC47"
+  },
+  {
+    "Original": "results/spt_retrain_full_data_seed21/fitness.png",
+    "Archived": "archive/results_legacy/spt_retrain_full_data_seed21/fitness.png",
+    "SHA256": "627EB9338EFE606A47ED92FEB0D205774EFFB7FEB23456941B13C84188111D5D"
+  },
+  {
+    "Original": "results/spt_retrain_full_data_seed21/restored_verification.json",
+    "Archived": "archive/results_legacy/spt_retrain_full_data_seed21/restored_verification.json",
+    "SHA256": "583B773FDA975735F9F8E465CD210CC626F30D11ADDBD458B46D76CBCBB66DEE"
+  },
+  {
+    "Original": "results/spt_retrain_full_data_seed21/summary.json",
+    "Archived": "archive/results_legacy/spt_retrain_full_data_seed21/summary.json",
+    "SHA256": "9E97D88D5627ECAE8CBB099DC4ED48231CE4057E0FAA0CA49A36DD40D5C74AAD"
+  },
+  {
+    "Original": "results/spt_retrain_full_data_seed21/train_predictions.csv",
+    "Archived": "archive/results_legacy/spt_retrain_full_data_seed21/train_predictions.csv",
+    "SHA256": "394F1A44B9225EAB9013DF9480FB20CDF1FEFF38F1BACD7F4E2C084ED52CE5EF"
+  },
+  {
+    "Original": "results/spt_retrain_full_data_seed21/training.png",
+    "Archived": "archive/results_legacy/spt_retrain_full_data_seed21/training.png",
+    "SHA256": "30BC23FFD777793DE347CA06AF500E32E51580C984F80DF5D56B007C31D95DB9"
+  },
+  {
+    "Original": "results/spt_retrain_full_data_seed21/validation_predictions.csv",
+    "Archived": "archive/results_legacy/spt_retrain_full_data_seed21/validation_predictions.csv",
+    "SHA256": "EB07E16D81CE61D5523883FA371108B5E5EE9C4C0CB85816CEC67125B6B0CB1D"
+  },
+  {
+    "Original": "configs/cancer_paper.json",
+    "Archived": "archive/configs_legacy/cancer_paper.json",
+    "SHA256": "FF22544D1BDA279725DECBCFF6AC9C21515FB51DB9F92961D83EFFCCAEBE51F4"
+  },
+  {
+    "Original": "configs/cancer_pilot6.json",
+    "Archived": "archive/configs_legacy/cancer_pilot6.json",
+    "SHA256": "9DEF7B9929C5F58AA3C15D6A890976FDBCBB90188E168E7CF9EDD4B5C137DF95"
+  },
+  {
+    "Original": "configs/cancer_standard_depth13.json",
+    "Archived": "archive/configs_legacy/cancer_standard_depth13.json",
+    "SHA256": "4E4FCF414673B1D726FA6448488D9DE7E1C840BB7B9AF19690CCB8570E01057A"
+  },
+  {
+    "Original": "configs/cancer_standard_pilot.json",
+    "Archived": "archive/configs_legacy/cancer_standard_pilot.json",
+    "SHA256": "8B21E30107BBA3FD446F6C14C6865E6043FCE3965AD6C4E6D4B42D19A11E825F"
+  },
+  {
+    "Original": "configs/mnist_paper.json",
+    "Archived": "archive/configs_legacy/mnist_paper.json",
+    "SHA256": "93092C41F3FB82D0EC839846DE154385229ADCA852ACDBE3B94AF5670F75A0CC"
+  },
+  {
+    "Original": "configs/spt_full_data50.json",
+    "Archived": "archive/configs_legacy/spt_full_data50.json",
+    "SHA256": "BBA8F0F9651BAEC19E5F519F02E4D483BDEE5D2901AC753C4A5E0B33ED28AA9C"
+  },
+  {
+    "Original": "configs/spt_paper.json",
+    "Archived": "archive/configs_legacy/spt_paper.json",
+    "SHA256": "AAFB23525724759433F3226B1B0F88B2549912F4F292E92F139754CE3BA008F5"
+  },
+  {
+    "Original": "configs/spt_pilot6.json",
+    "Archived": "archive/configs_legacy/spt_pilot6.json",
+    "SHA256": "57AD0CFFECD0BCEEFACEFDD3CF968E67C822A0F5AA12C6E5D9412FCBFD6C2A92"
+  },
+  {
+    "Original": "logs/spt_fixed_paper.log",
+    "Archived": "archive/logs_interrupted/spt_fixed_paper.log",
+    "SHA256": "C571CA883360006FEC392B9A0A170A20D21B740092F6C41493176CEDEEA7E2A8"
+  },
+  {
+    "Original": "logs/mnist_fixed_paper.log",
+    "Archived": "archive/logs_interrupted/mnist_fixed_paper.log",
+    "SHA256": "5DF13489D770AACF3EDE12F2E6B24459F1A5CAD65A2E606D081E9F71F1D698B9"
+  }
+]

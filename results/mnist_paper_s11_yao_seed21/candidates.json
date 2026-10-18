@@ -1,0 +1,101 @@
+[
+  {
+    "fitness": 0.956,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.47025397876703423,
+        "accuracy": 0.9545
+      },
+      "validation": {
+        "loss": 0.46493298098575403,
+        "accuracy": 0.962
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.6709625456356685,
+          "accuracy": 0.533
+        },
+        "validation": {
+          "loss": 0.6713050589735433,
+          "accuracy": 0.53
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.4721354388194975,
+          "accuracy": 0.9555
+        },
+        "validation": {
+          "loss": 0.4667049467923506,
+          "accuracy": 0.966
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.47106817593338796,
+          "accuracy": 0.961
+        },
+        "validation": {
+          "loss": 0.4655268275362734,
+          "accuracy": 0.964
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.47068075025521905,
+          "accuracy": 0.9665
+        },
+        "validation": {
+          "loss": 0.46518419500731645,
+          "accuracy": 0.968
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.47025397876703423,
+          "accuracy": 0.9545
+        },
+        "validation": {
+          "loss": 0.46493298098575403,
+          "accuracy": 0.962
+        }
+      }
+    ],
+    "training_seed": 21,
+    "seconds": 52.00805429999855,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      2145,
+      5698,
+      449,
+      6319,
+      2017,
+      4397,
+      1315,
+      4007,
+      5160,
+      5793,
+      4065,
+      5668,
+      4033,
+      5668
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 15,
+    "R_gates": 28,
+    "elementary_single_qubit_gates": 84,
+    "CRx_gates": 22,
+    "parameters": 106,
+    "generation": 1,
+    "candidate": 0
+  }
+]

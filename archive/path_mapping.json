@@ -1,0 +1,122 @@
+[
+  {
+    "From": "backup_before_fix_20261013",
+    "To": "archive/code_before_fix_20261013"
+  },
+  {
+    "From": "native_backend_primitive.py",
+    "To": "archive/code_intermediate_20261013/native_backend_primitive.py"
+  },
+  {
+    "From": "fix_evidence_20261013/datasets_v2_before_temp_nonce.py",
+    "To": "archive/code_intermediate_20261013/datasets_v2_before_temp_nonce.py"
+  },
+  {
+    "From": "review_evidence_20261013",
+    "To": "archive/review_evidence_20261013"
+  },
+  {
+    "From": "CODE_REVIEW_20261013.md",
+    "To": "archive/reports/CODE_REVIEW_20261013.md"
+  },
+  {
+    "From": "REPRODUCTION_REPORT.md",
+    "To": "archive/reports/REPRODUCTION_REPORT.md"
+  },
+  {
+    "From": "environment_versions.json",
+    "To": "archive/reports/environment_versions.json"
+  },
+  {
+    "From": "requirements-tested.txt",
+    "To": "archive/reports/requirements-tested.txt"
+  },
+  {
+    "From": "results/cancer_pilot_seed21",
+    "To": "archive/results_legacy/cancer_pilot_seed21"
+  },
+  {
+    "From": "results/cancer_random6_seed21",
+    "To": "archive/results_legacy/cancer_random6_seed21"
+  },
+  {
+    "From": "results/cancer_standard_depth13_seed42",
+    "To": "archive/results_legacy/cancer_standard_depth13_seed42"
+  },
+  {
+    "From": "results/cancer_standard_seed21",
+    "To": "archive/results_legacy/cancer_standard_seed21"
+  },
+  {
+    "From": "results/library_audit",
+    "To": "archive/results_legacy/library_audit"
+  },
+  {
+    "From": "results/mnist_fixed_paper_seed21",
+    "To": "archive/results_interrupted/mnist_fixed_paper_seed21"
+  },
+  {
+    "From": "results/mnist_pilot_seed21",
+    "To": "archive/results_legacy/mnist_pilot_seed21"
+  },
+  {
+    "From": "results/mnist_retrain_full_data_seed21",
+    "To": "archive/results_legacy/mnist_retrain_full_data_seed21"
+  },
+  {
+    "From": "results/spt_fixed_paper_seed21",
+    "To": "archive/results_interrupted/spt_fixed_paper_seed21"
+  },
+  {
+    "From": "results/spt_pilot_seed21",
+    "To": "archive/results_legacy/spt_pilot_seed21"
+  },
+  {
+    "From": "results/spt_random6_seed21",
+    "To": "archive/results_legacy/spt_random6_seed21"
+  },
+  {
+    "From": "results/spt_retrain_full_data_seed21",
+    "To": "archive/results_legacy/spt_retrain_full_data_seed21"
+  },
+  {
+    "From": "configs/cancer_paper.json",
+    "To": "archive/configs_legacy/cancer_paper.json"
+  },
+  {
+    "From": "configs/cancer_pilot6.json",
+    "To": "archive/configs_legacy/cancer_pilot6.json"
+  },
+  {
+    "From": "configs/cancer_standard_depth13.json",
+    "To": "archive/configs_legacy/cancer_standard_depth13.json"
+  },
+  {
+    "From": "configs/cancer_standard_pilot.json",
+    "To": "archive/configs_legacy/cancer_standard_pilot.json"
+  },
+  {
+    "From": "configs/mnist_paper.json",
+    "To": "archive/configs_legacy/mnist_paper.json"
+  },
+  {
+    "From": "configs/spt_full_data50.json",
+    "To": "archive/configs_legacy/spt_full_data50.json"
+  },
+  {
+    "From": "configs/spt_paper.json",
+    "To": "archive/configs_legacy/spt_paper.json"
+  },
+  {
+    "From": "configs/spt_pilot6.json",
+    "To": "archive/configs_legacy/spt_pilot6.json"
+  },
+  {
+    "From": "logs/spt_fixed_paper.log",
+    "To": "archive/logs_interrupted/spt_fixed_paper.log"
+  },
+  {
+    "From": "logs/mnist_fixed_paper.log",
+    "To": "archive/logs_interrupted/mnist_fixed_paper.log"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "qubits": 2,
+    "including_identity": 6,
+    "nonempty": 5,
+    "average_outdegree": 2.8,
+    "maximum_outdegree": 4
+  },
+  {
+    "qubits": 3,
+    "including_identity": 16,
+    "nonempty": 15,
+    "average_outdegree": 5.866666666666666,
+    "maximum_outdegree": 8
+  },
+  {
+    "qubits": 4,
+    "including_identity": 44,
+    "nonempty": 43,
+    "average_outdegree": 14.232558139534884,
+    "maximum_outdegree": 32
+  },
+  {
+    "qubits": 5,
+    "including_identity": 120,
+    "nonempty": 119,
+    "average_outdegree": 31.529411764705884,
+    "maximum_outdegree": 64
+  },
+  {
+    "qubits": 6,
+    "including_identity": 328,
+    "nonempty": 327,
+    "average_outdegree": 70.434250764526,
+    "maximum_outdegree": 220
+  },
+  {
+    "qubits": 7,
+    "including_identity": 896,
+    "nonempty": 895,
+    "average_outdegree": 155.31620111731843,
+    "maximum_outdegree": 436
+  },
+  {
+    "qubits": 8,
+    "including_identity": 2448,
+    "nonempty": 2447,
+    "average_outdegree": 342.2509194932571,
+    "maximum_outdegree": 1480
+  },
+  {
+    "qubits": 9,
+    "including_identity": 6688,
+    "nonempty": 6687,
+    "average_outdegree": 752.4905039629131,
+    "maximum_outdegree": 2936
+  },
+  {
+    "qubits": 10,
+    "including_identity": 18272,
+    "nonempty": 18271,
+    "average_outdegree": 1653.7314870559903,
+    "maximum_outdegree": 9924
+  }
+]

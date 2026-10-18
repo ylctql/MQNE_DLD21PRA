@@ -1,0 +1,131 @@
+{
+  "task": "mnist",
+  "run_type": "MQNE_search",
+  "best": {
+    "fitness": 0.6035714285714285,
+    "final": {
+      "epoch": 30,
+      "train": {
+        "loss": 0.668723394867414,
+        "accuracy": 0.605
+      },
+      "validation": {
+        "loss": 0.6740545874508643,
+        "accuracy": 0.6
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.6864840957249778,
+          "accuracy": 0.53
+        },
+        "validation": {
+          "loss": 0.686297790965688,
+          "accuracy": 0.5375
+        }
+      },
+      {
+        "epoch": 5,
+        "train": {
+          "loss": 0.6802559577206116,
+          "accuracy": 0.53
+        },
+        "validation": {
+          "loss": 0.6814648012753937,
+          "accuracy": 0.5375
+        }
+      },
+      {
+        "epoch": 10,
+        "train": {
+          "loss": 0.6765082924907719,
+          "accuracy": 0.53
+        },
+        "validation": {
+          "loss": 0.6788901096678441,
+          "accuracy": 0.5375
+        }
+      },
+      {
+        "epoch": 15,
+        "train": {
+          "loss": 0.6739982230617863,
+          "accuracy": 0.54
+        },
+        "validation": {
+          "loss": 0.677329427880941,
+          "accuracy": 0.5375
+        }
+      },
+      {
+        "epoch": 20,
+        "train": {
+          "loss": 0.6720302460499772,
+          "accuracy": 0.54
+        },
+        "validation": {
+          "loss": 0.6761087343525177,
+          "accuracy": 0.5375
+        }
+      },
+      {
+        "epoch": 25,
+        "train": {
+          "loss": 0.6702809705517772,
+          "accuracy": 0.59
+        },
+        "validation": {
+          "loss": 0.6750378564343741,
+          "accuracy": 0.5875
+        }
+      },
+      {
+        "epoch": 30,
+        "train": {
+          "loss": 0.668723394867414,
+          "accuracy": 0.605
+        },
+        "validation": {
+          "loss": 0.6740545874508643,
+          "accuracy": 0.6
+        }
+      }
+    ],
+    "training_seed": 26,
+    "seconds": 6.665239999998448,
+    "optimizer_updates": 210,
+    "path_1based": [
+      6687,
+      321,
+      3882,
+      2533,
+      6288,
+      4641,
+      6272
+    ],
+    "block_depth": 7,
+    "R_gates": 17,
+    "elementary_single_qubit_gates": 51,
+    "CRx_gates": 8,
+    "parameters": 59,
+    "generation": 2,
+    "candidate": 2
+  },
+  "independent_test": {
+    "loss": 0.6630757431080053,
+    "accuracy": 0.63
+  },
+  "seconds": 54.271592500001134,
+  "circuits_trained": 9,
+  "optimizer_updates": 1890,
+  "library_nonempty": 6687,
+  "environment": {
+    "python": "3.13.6",
+    "torch": "2.11.0+cu128",
+    "numpy": "2.2.6",
+    "device": "cpu",
+    "platform": "Windows-11-10.0.26200-SP0"
+  }
+}

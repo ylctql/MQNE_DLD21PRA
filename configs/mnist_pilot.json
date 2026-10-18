@@ -1,0 +1,23 @@
+{
+  "seed": 21,
+  "device": "cpu",
+  "threads": 1,
+  "population": 3,
+  "survivors": 1,
+  "generations": 3,
+  "extension_length": 2,
+  "learning_rate": 0.0015,
+  "initialization": "random",
+  "training_unit": "epoch",
+  "fitness": "combined",
+  "fitness_threshold": 1.01,
+  "evaluation_interval": 5,
+  "task": "mnist",
+  "initial_length": 5,
+  "epochs": 30,
+  "batch_size": 30,
+  "train_samples": 200,
+  "validation_samples": 80,
+  "test_samples": 500,
+  "crx_initialization": "random"
+}

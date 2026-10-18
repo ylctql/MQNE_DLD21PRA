@@ -1,0 +1,303 @@
+Failed to find real location of C:\Python313\python.exe
+Preparing mnist on cpu
+  epoch 50: train 0.5310, validation 0.5320
+  epoch 100: train 0.5310, validation 0.5320
+  epoch 150: train 0.5310, validation 0.5320
+  epoch 200: train 0.5310, validation 0.5320
+Generation 1 candidate 1/10: fitness=0.5312, validation=0.5320, parameters=52, 38.0s
+  epoch 50: train 0.6840, validation 0.6800
+  epoch 100: train 0.6965, validation 0.6940
+  epoch 150: train 0.6980, validation 0.6900
+  epoch 200: train 0.7005, validation 0.6820
+Generation 1 candidate 2/10: fitness=0.6968, validation=0.6820, parameters=61, 48.4s
+  epoch 50: train 0.7005, validation 0.6920
+  epoch 100: train 0.6985, validation 0.6900
+  epoch 150: train 0.6980, validation 0.6880
+  epoch 200: train 0.7040, validation 0.6820
+Generation 1 candidate 3/10: fitness=0.6996, validation=0.6820, parameters=52, 42.3s
+  epoch 50: train 0.7910, validation 0.8060
+  epoch 100: train 0.7760, validation 0.7800
+  epoch 150: train 0.7615, validation 0.7440
+  epoch 200: train 0.7505, validation 0.7500
+Generation 1 candidate 4/10: fitness=0.7504, validation=0.7500, parameters=48, 39.5s
+  epoch 50: train 0.7300, validation 0.7180
+  epoch 100: train 0.7045, validation 0.7040
+  epoch 150: train 0.7020, validation 0.6940
+  epoch 200: train 0.7005, validation 0.6900
+Generation 1 candidate 5/10: fitness=0.6984, validation=0.6900, parameters=47, 36.1s
+  epoch 50: train 0.5310, validation 0.5320
+  epoch 100: train 0.5310, validation 0.5320
+  epoch 150: train 0.5310, validation 0.5320
+  epoch 200: train 0.5310, validation 0.5320
+Generation 1 candidate 6/10: fitness=0.5312, validation=0.5320, parameters=42, 33.3s
+  epoch 50: train 0.7535, validation 0.7600
+  epoch 100: train 0.7515, validation 0.7540
+  epoch 150: train 0.7525, validation 0.7540
+  epoch 200: train 0.7525, validation 0.7520
+Generation 1 candidate 7/10: fitness=0.7524, validation=0.7520, parameters=52, 42.9s
+  epoch 50: train 0.5310, validation 0.5320
+  epoch 100: train 0.5310, validation 0.5320
+  epoch 150: train 0.5310, validation 0.5320
+  epoch 200: train 0.5310, validation 0.5320
+Generation 1 candidate 8/10: fitness=0.5312, validation=0.5320, parameters=33, 13.9s
+  epoch 50: train 0.5310, validation 0.5320
+  epoch 100: train 0.5310, validation 0.5320
+  epoch 150: train 0.5310, validation 0.5320
+  epoch 200: train 0.5310, validation 0.5320
+Generation 1 candidate 9/10: fitness=0.5312, validation=0.5320, parameters=36, 14.9s
+  epoch 50: train 0.6935, validation 0.6860
+  epoch 100: train 0.7000, validation 0.6900
+  epoch 150: train 0.7000, validation 0.6900
+  epoch 200: train 0.6995, validation 0.6900
+Generation 1 candidate 10/10: fitness=0.6976, validation=0.6900, parameters=45, 32.8s
+  epoch 50: train 0.7530, validation 0.7620
+  epoch 100: train 0.7530, validation 0.7520
+  epoch 150: train 0.7525, validation 0.7520
+  epoch 200: train 0.7525, validation 0.7540
+Generation 2 candidate 1/10: fitness=0.7528, validation=0.7540, parameters=64, 50.5s
+  epoch 50: train 0.7515, validation 0.7540
+  epoch 100: train 0.7530, validation 0.7540
+  epoch 150: train 0.7510, validation 0.7540
+  epoch 200: train 0.7530, validation 0.7540
+Generation 2 candidate 2/10: fitness=0.7532, validation=0.7540, parameters=63, 51.3s
+  epoch 50: train 0.7540, validation 0.7500
+  epoch 100: train 0.7535, validation 0.7520
+  epoch 150: train 0.7525, validation 0.7520
+  epoch 200: train 0.7525, validation 0.7540
+Generation 2 candidate 3/10: fitness=0.7528, validation=0.7540, parameters=71, 54.8s
+  epoch 50: train 0.7515, validation 0.7540
+  epoch 100: train 0.7530, validation 0.7540
+  epoch 150: train 0.7520, validation 0.7540
+  epoch 200: train 0.7525, validation 0.7540
+Generation 2 candidate 4/10: fitness=0.7528, validation=0.7540, parameters=59, 46.3s
+  epoch 50: train 0.7610, validation 0.7560
+  epoch 100: train 0.7530, validation 0.7540
+  epoch 150: train 0.7525, validation 0.7520
+  epoch 200: train 0.7520, validation 0.7540
+Generation 2 candidate 5/10: fitness=0.7524, validation=0.7540, parameters=62, 49.4s
+  epoch 50: train 0.7545, validation 0.7540
+  epoch 100: train 0.7525, validation 0.7520
+  epoch 150: train 0.7520, validation 0.7520
+  epoch 200: train 0.7525, validation 0.7540
+Generation 2 candidate 6/10: fitness=0.7528, validation=0.7540, parameters=54, 43.0s
+  epoch 50: train 0.7520, validation 0.7520
+  epoch 100: train 0.7520, validation 0.7540
+  epoch 150: train 0.7520, validation 0.7540
+  epoch 200: train 0.7535, validation 0.7500
+Generation 2 candidate 7/10: fitness=0.7528, validation=0.7500, parameters=64, 52.5s
+  epoch 50: train 0.7525, validation 0.7520
+  epoch 100: train 0.7525, validation 0.7540
+  epoch 150: train 0.7525, validation 0.7520
+  epoch 200: train 0.7525, validation 0.7540
+Generation 2 candidate 8/10: fitness=0.7528, validation=0.7540, parameters=61, 33.9s
+  epoch 50: train 0.7545, validation 0.7500
+  epoch 100: train 0.7505, validation 0.7520
+  epoch 150: train 0.7520, validation 0.7540
+  epoch 200: train 0.7520, validation 0.7540
+Generation 2 candidate 9/10: fitness=0.7524, validation=0.7540, parameters=62, 26.6s
+  epoch 50: train 0.7525, validation 0.7540
+  epoch 100: train 0.7505, validation 0.7520
+  epoch 150: train 0.7540, validation 0.7500
+  epoch 200: train 0.7525, validation 0.7540
+Generation 2 candidate 10/10: fitness=0.7528, validation=0.7540, parameters=67, 37.7s
+  epoch 50: train 0.7520, validation 0.7520
+  epoch 100: train 0.7520, validation 0.7540
+  epoch 150: train 0.7530, validation 0.7520
+  epoch 200: train 0.7545, validation 0.7500
+Generation 3 candidate 1/10: fitness=0.7536, validation=0.7500, parameters=76, 57.9s
+  epoch 50: train 0.7635, validation 0.7540
+  epoch 100: train 0.7540, validation 0.7520
+  epoch 150: train 0.7540, validation 0.7500
+  epoch 200: train 0.7525, validation 0.7540
+Generation 3 candidate 2/10: fitness=0.7528, validation=0.7540, parameters=74, 63.0s
+  epoch 50: train 0.7495, validation 0.7520
+  epoch 100: train 0.7540, validation 0.7500
+  epoch 150: train 0.7525, validation 0.7540
+  epoch 200: train 0.7525, validation 0.7520
+Generation 3 candidate 3/10: fitness=0.7524, validation=0.7520, parameters=69, 56.3s
+  epoch 50: train 0.7545, validation 0.7460
+  epoch 100: train 0.7530, validation 0.7520
+  epoch 150: train 0.7505, validation 0.7540
+  epoch 200: train 0.7525, validation 0.7520
+Generation 3 candidate 4/10: fitness=0.7524, validation=0.7520, parameters=75, 64.2s
+  epoch 50: train 0.7525, validation 0.7520
+  epoch 100: train 0.7545, validation 0.7500
+  epoch 150: train 0.7520, validation 0.7540
+  epoch 200: train 0.7530, validation 0.7520
+Generation 3 candidate 5/10: fitness=0.7528, validation=0.7520, parameters=68, 59.6s
+  epoch 50: train 0.7490, validation 0.7540
+  epoch 100: train 0.7525, validation 0.7540
+  epoch 150: train 0.7525, validation 0.7540
+  epoch 200: train 0.7520, validation 0.7540
+Generation 3 candidate 6/10: fitness=0.7524, validation=0.7540, parameters=67, 56.2s
+  epoch 50: train 0.7545, validation 0.7500
+  epoch 100: train 0.7525, validation 0.7520
+  epoch 150: train 0.7540, validation 0.7500
+  epoch 200: train 0.7525, validation 0.7520
+Generation 3 candidate 7/10: fitness=0.7524, validation=0.7520, parameters=73, 54.5s
+  epoch 50: train 0.7525, validation 0.7540
+  epoch 100: train 0.7520, validation 0.7540
+  epoch 150: train 0.7520, validation 0.7540
+  epoch 200: train 0.7525, validation 0.7520
+Generation 3 candidate 8/10: fitness=0.7524, validation=0.7520, parameters=66, 31.6s
+  epoch 50: train 0.7495, validation 0.7540
+  epoch 100: train 0.7535, validation 0.7500
+  epoch 150: train 0.7540, validation 0.7500
+  epoch 200: train 0.7525, validation 0.7540
+Generation 3 candidate 9/10: fitness=0.7528, validation=0.7540, parameters=69, 38.6s
+  epoch 50: train 0.7685, validation 0.7800
+  epoch 100: train 0.7535, validation 0.7580
+  epoch 150: train 0.7525, validation 0.7540
+  epoch 200: train 0.7510, validation 0.7540
+Generation 3 candidate 10/10: fitness=0.7516, validation=0.7540, parameters=72, 64.1s
+  epoch 50: train 0.7535, validation 0.7520
+  epoch 100: train 0.7535, validation 0.7520
+  epoch 150: train 0.7525, validation 0.7520
+  epoch 200: train 0.7525, validation 0.7540
+Generation 4 candidate 1/10: fitness=0.7528, validation=0.7540, parameters=86, 76.4s
+  epoch 50: train 0.7535, validation 0.7520
+  epoch 100: train 0.7525, validation 0.7520
+  epoch 150: train 0.7525, validation 0.7540
+  epoch 200: train 0.7520, validation 0.7540
+Generation 4 candidate 2/10: fitness=0.7524, validation=0.7540, parameters=86, 75.8s
+  epoch 50: train 0.7540, validation 0.7520
+  epoch 100: train 0.7530, validation 0.7520
+  epoch 150: train 0.7485, validation 0.7540
+  epoch 200: train 0.7530, validation 0.7520
+Generation 4 candidate 3/10: fitness=0.7528, validation=0.7520, parameters=85, 65.2s
+  epoch 50: train 0.7550, validation 0.7520
+  epoch 100: train 0.7510, validation 0.7540
+  epoch 150: train 0.7525, validation 0.7520
+  epoch 200: train 0.7525, validation 0.7520
+Generation 4 candidate 4/10: fitness=0.7524, validation=0.7520, parameters=90, 36.9s
+  epoch 50: train 0.7515, validation 0.7600
+  epoch 100: train 0.7515, validation 0.7540
+  epoch 150: train 0.7520, validation 0.7540
+  epoch 200: train 0.7520, validation 0.7540
+Generation 4 candidate 5/10: fitness=0.7524, validation=0.7540, parameters=83, 35.4s
+  epoch 50: train 0.7705, validation 0.7740
+  epoch 100: train 0.7535, validation 0.7520
+  epoch 150: train 0.7525, validation 0.7540
+  epoch 200: train 0.7520, validation 0.7540
+Generation 4 candidate 6/10: fitness=0.7524, validation=0.7540, parameters=82, 33.2s
+  epoch 50: train 0.7470, validation 0.7480
+  epoch 100: train 0.7500, validation 0.7520
+  epoch 150: train 0.7535, validation 0.7500
+  epoch 200: train 0.7520, validation 0.7540
+Generation 4 candidate 7/10: fitness=0.7524, validation=0.7540, parameters=92, 37.5s
+  epoch 50: train 0.7530, validation 0.7520
+  epoch 100: train 0.7525, validation 0.7540
+  epoch 150: train 0.7525, validation 0.7540
+  epoch 200: train 0.7525, validation 0.7520
+Generation 4 candidate 8/10: fitness=0.7524, validation=0.7520, parameters=78, 31.6s
+  epoch 50: train 0.7535, validation 0.7520
+  epoch 100: train 0.7520, validation 0.7540
+  epoch 150: train 0.7535, validation 0.7500
+  epoch 200: train 0.7530, validation 0.7520
+Generation 4 candidate 9/10: fitness=0.7528, validation=0.7520, parameters=85, 34.3s
+  epoch 50: train 0.7515, validation 0.7540
+  epoch 100: train 0.7510, validation 0.7520
+  epoch 150: train 0.7525, validation 0.7520
+  epoch 200: train 0.7490, validation 0.7520
+Generation 4 candidate 10/10: fitness=0.7496, validation=0.7520, parameters=83, 34.1s
+  epoch 50: train 0.8750, validation 0.8740
+  epoch 100: train 0.8815, validation 0.8840
+  epoch 150: train 0.8835, validation 0.8880
+  epoch 200: train 0.8825, validation 0.8860
+Generation 5 candidate 1/10: fitness=0.8832, validation=0.8860, parameters=106, 81.2s
+  epoch 50: train 0.9665, validation 0.9760
+  epoch 100: train 0.9650, validation 0.9720
+  epoch 150: train 0.9675, validation 0.9760
+  epoch 200: train 0.9650, validation 0.9700
+Generation 5 candidate 2/10: fitness=0.9660, validation=0.9700, parameters=96, 57.3s
+  epoch 50: train 0.8720, validation 0.8680
+  epoch 100: train 0.8745, validation 0.8800
+  epoch 150: train 0.8805, validation 0.8860
+  epoch 200: train 0.8815, validation 0.8860
+Generation 5 candidate 3/10: fitness=0.8824, validation=0.8860, parameters=104, 42.8s
+  epoch 50: train 0.9045, validation 0.9080
+  epoch 100: train 0.9655, validation 0.9700
+  epoch 150: train 0.9650, validation 0.9700
+  epoch 200: train 0.9650, validation 0.9700
+Generation 5 candidate 4/10: fitness=0.9660, validation=0.9700, parameters=97, 58.4s
+  epoch 50: train 0.7520, validation 0.7540
+  epoch 100: train 0.7525, validation 0.7540
+  epoch 150: train 0.7520, validation 0.7540
+  epoch 200: train 0.7515, validation 0.7540
+Generation 5 candidate 5/10: fitness=0.7520, validation=0.7540, parameters=93, 79.0s
+  epoch 50: train 0.7525, validation 0.7520
+  epoch 100: train 0.7520, validation 0.7520
+  epoch 150: train 0.7525, validation 0.7540
+  epoch 200: train 0.7525, validation 0.7540
+Generation 5 candidate 6/10: fitness=0.7528, validation=0.7540, parameters=104, 89.8s
+  epoch 50: train 0.9105, validation 0.9120
+  epoch 100: train 0.8870, validation 0.8880
+  epoch 150: train 0.8845, validation 0.8840
+  epoch 200: train 0.8845, validation 0.8840
+Generation 5 candidate 7/10: fitness=0.8844, validation=0.8840, parameters=102, 75.2s
+  epoch 50: train 0.9540, validation 0.9440
+  epoch 100: train 0.9555, validation 0.9520
+  epoch 150: train 0.9575, validation 0.9580
+  epoch 200: train 0.9605, validation 0.9660
+Generation 5 candidate 8/10: fitness=0.9616, validation=0.9660, parameters=107, 74.0s
+  epoch 50: train 0.9550, validation 0.9460
+  epoch 100: train 0.9385, validation 0.9300
+  epoch 150: train 0.9255, validation 0.9200
+  epoch 200: train 0.9210, validation 0.9200
+Generation 5 candidate 9/10: fitness=0.9208, validation=0.9200, parameters=104, 74.4s
+  epoch 50: train 0.9495, validation 0.9460
+  epoch 100: train 0.9450, validation 0.9440
+  epoch 150: train 0.9490, validation 0.9460
+  epoch 200: train 0.9445, validation 0.9440
+Generation 5 candidate 10/10: fitness=0.9444, validation=0.9440, parameters=99, 71.5s
+  epoch 50: train 0.9700, validation 0.9780
+  epoch 100: train 0.9655, validation 0.9720
+  epoch 150: train 0.9700, validation 0.9760
+  epoch 200: train 0.9655, validation 0.9740
+Generation 6 candidate 1/10: fitness=0.9672, validation=0.9740, parameters=101, 71.7s
+  epoch 50: train 0.9630, validation 0.9660
+  epoch 100: train 0.9670, validation 0.9740
+  epoch 150: train 0.9645, validation 0.9700
+  epoch 200: train 0.9640, validation 0.9700
+Generation 6 candidate 2/10: fitness=0.9652, validation=0.9700, parameters=100, 72.3s
+  epoch 50: train 0.9680, validation 0.9720
+  epoch 100: train 0.9675, validation 0.9760
+  epoch 150: train 0.9675, validation 0.9740
+  epoch 200: train 0.9655, validation 0.9740
+Generation 6 candidate 3/10: fitness=0.9672, validation=0.9740, parameters=98, 72.1s
+  epoch 50: train 0.8715, validation 0.8720
+  epoch 100: train 0.8785, validation 0.8820
+  epoch 150: train 0.8805, validation 0.8820
+  epoch 200: train 0.8820, validation 0.8860
+Generation 6 candidate 4/10: fitness=0.8828, validation=0.8860, parameters=100, 72.4s
+  epoch 50: train 0.9585, validation 0.9520
+  epoch 100: train 0.9545, validation 0.9500
+  epoch 150: train 0.9535, validation 0.9500
+  epoch 200: train 0.9575, validation 0.9540
+Generation 6 candidate 5/10: fitness=0.9568, validation=0.9540, parameters=99, 69.8s
+  epoch 50: train 0.8695, validation 0.8740
+  epoch 100: train 0.8750, validation 0.8760
+  epoch 150: train 0.8805, validation 0.8880
+  epoch 200: train 0.8815, validation 0.8840
+Generation 6 candidate 6/10: fitness=0.8820, validation=0.8840, parameters=99, 69.2s
+  epoch 50: train 0.9445, validation 0.9240
+  epoch 100: train 0.9375, validation 0.9220
+  epoch 150: train 0.9360, validation 0.9220
+  epoch 200: train 0.9365, validation 0.9220
+Generation 6 candidate 7/10: fitness=0.9336, validation=0.9220, parameters=98, 68.2s
+  epoch 50: train 0.8720, validation 0.8720
+  epoch 100: train 0.8725, validation 0.8740
+  epoch 150: train 0.8750, validation 0.8780
+  epoch 200: train 0.8775, validation 0.8820
+Generation 6 candidate 8/10: fitness=0.8784, validation=0.8820, parameters=101, 68.5s
+  epoch 50: train 0.9660, validation 0.9700
+  epoch 100: train 0.9645, validation 0.9700
+  epoch 150: train 0.9650, validation 0.9700
+  epoch 200: train 0.9625, validation 0.9680
+Generation 6 candidate 9/10: fitness=0.9636, validation=0.9680, parameters=101, 69.7s
+  epoch 50: train 0.9665, validation 0.9700
+  epoch 100: train 0.9620, validation 0.9680
+  epoch 150: train 0.9615, validation 0.9680
+  epoch 200: train 0.9645, validation 0.9680
+Generation 6 candidate 10/10: fitness=0.9652, validation=0.9680, parameters=101, 69.1s
+Saved results\mnist_fixed_fused_seed21

@@ -1,0 +1,68 @@
+Failed to find real location of C:\Python313\python.exe
+Preparing spt on cpu
+Ground states 200/2500
+Ground states 400/2500
+Ground states 600/2500
+Ground states 800/2500
+Ground states 1000/2500
+Ground states 1200/2500
+Ground states 1400/2500
+Ground states 1600/2500
+Ground states 1800/2500
+Ground states 2000/2500
+Ground states 2200/2500
+Ground states 2400/2500
+  epoch 50: train 0.5088, validation 0.5100
+  epoch 100: train 0.5088, validation 0.5100
+  epoch 150: train 0.5088, validation 0.5100
+Generation 1 candidate 1/10: fitness=0.5090, validation=0.5100, parameters=40, 30.9s
+  epoch 50: train 0.5088, validation 0.5100
+  epoch 100: train 0.5088, validation 0.5100
+  epoch 150: train 0.5088, validation 0.5100
+Generation 1 candidate 2/10: fitness=0.5090, validation=0.5100, parameters=40, 35.1s
+  epoch 50: train 0.6131, validation 0.5900
+  epoch 100: train 0.6131, validation 0.5900
+  epoch 150: train 0.6081, validation 0.5900
+Generation 1 candidate 3/10: fitness=0.6045, validation=0.5900, parameters=46, 56.0s
+  epoch 50: train 0.6081, validation 0.5750
+  epoch 100: train 0.6081, validation 0.5800
+  epoch 150: train 0.6050, validation 0.5775
+Generation 1 candidate 4/10: fitness=0.5995, validation=0.5775, parameters=36, 41.7s
+  epoch 50: train 0.6125, validation 0.5825
+  epoch 100: train 0.6131, validation 0.5900
+  epoch 150: train 0.6119, validation 0.5850
+Generation 1 candidate 5/10: fitness=0.6065, validation=0.5850, parameters=38, 41.9s
+  epoch 50: train 0.5088, validation 0.5100
+  epoch 100: train 0.5088, validation 0.5100
+  epoch 150: train 0.5088, validation 0.5100
+Generation 1 candidate 6/10: fitness=0.5090, validation=0.5100, parameters=36, 38.2s
+  epoch 50: train 0.5088, validation 0.5100
+  epoch 100: train 0.5088, validation 0.5100
+  epoch 150: train 0.5088, validation 0.5100
+Generation 1 candidate 7/10: fitness=0.5090, validation=0.5100, parameters=35, 34.9s
+  epoch 50: train 0.5088, validation 0.5100
+  epoch 100: train 0.5088, validation 0.5100
+  epoch 150: train 0.5088, validation 0.5100
+Generation 1 candidate 8/10: fitness=0.5090, validation=0.5100, parameters=31, 22.1s
+  epoch 50: train 0.6288, validation 0.5825
+  epoch 100: train 0.6200, validation 0.5775
+  epoch 150: train 0.6144, validation 0.5800
+Generation 1 candidate 9/10: fitness=0.6075, validation=0.5800, parameters=42, 32.0s
+  epoch 50: train 0.6106, validation 0.5900
+  epoch 100: train 0.6075, validation 0.5800
+  epoch 150: train 0.6075, validation 0.5800
+Generation 1 candidate 10/10: fitness=0.6020, validation=0.5800, parameters=33, 23.4s
+  epoch 50: train 0.6238, validation 0.5700
+  epoch 100: train 0.6119, validation 0.5850
+  epoch 150: train 0.6112, validation 0.5825
+Generation 2 candidate 1/10: fitness=0.6055, validation=0.5825, parameters=45, 32.5s
+  epoch 50: train 0.6081, validation 0.5800
+  epoch 100: train 0.6025, validation 0.5825
+  epoch 150: train 0.6056, validation 0.5775
+Generation 2 candidate 2/10: fitness=0.6000, validation=0.5775, parameters=51, 36.6s
+  epoch 50: train 0.6119, validation 0.5900
+  epoch 100: train 0.6044, validation 0.5750
+  epoch 150: train 0.6075, validation 0.5800
+Generation 2 candidate 3/10: fitness=0.6020, validation=0.5800, parameters=53, 36.2s
+  epoch 50: train 0.6062, validation 0.5750
+  epoch 100: train 0.6044, validation 0.5775

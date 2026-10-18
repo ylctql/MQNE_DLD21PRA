@@ -1,0 +1,67 @@
+Failed to find real location of C:\Python313\python.exe
+[
+  {
+    "result": "cancer_fixed_minmax_seed21",
+    "circuits": 60,
+    "status": "passed",
+    "optimized_python": true,
+    "physical_restore": "PyTorch float64/complex128",
+    "input_bit_order": "msb"
+  },
+  {
+    "result": "cancer_fixed_paper_seed21",
+    "circuits": 60,
+    "status": "passed",
+    "optimized_python": true,
+    "physical_restore": "PyTorch float64/complex128",
+    "input_bit_order": "msb"
+  },
+  {
+    "result": "cancer_yao_minmax_seed21",
+    "circuits": 60,
+    "status": "passed",
+    "optimized_python": true,
+    "physical_restore": "PyTorch float64/complex128",
+    "input_bit_order": "yao_lsb"
+  },
+  {
+    "result": "mnist_paper_s11_seed21",
+    "circuits": 1,
+    "status": "passed",
+    "optimized_python": true,
+    "physical_restore": "PyTorch float64/complex128",
+    "input_bit_order": "msb"
+  },
+  {
+    "result": "mnist_paper_s11_yao_seed21",
+    "circuits": 1,
+    "status": "passed",
+    "optimized_python": true,
+    "physical_restore": "PyTorch float64/complex128",
+    "input_bit_order": "yao_lsb"
+  },
+  {
+    "result": "mnist_paper_s11_yao_seed22",
+    "circuits": 1,
+    "status": "passed",
+    "optimized_python": true,
+    "physical_restore": "PyTorch float64/complex128",
+    "input_bit_order": "yao_lsb"
+  },
+  {
+    "result": "mnist_paper_s11_yao_seed23",
+    "circuits": 1,
+    "status": "passed",
+    "optimized_python": true,
+    "physical_restore": "PyTorch float64/complex128",
+    "input_bit_order": "yao_lsb"
+  },
+  {
+    "result": "spt_legacy_control_fixed_seed21",
+    "circuits": 1,
+    "status": "passed",
+    "optimized_python": true,
+    "physical_restore": "PyTorch float64/complex128",
+    "input_bit_order": "msb"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-17",
+  "local_links_checked": 24,
+  "source_symbols_checked": 17,
+  "config_references_checked": 2,
+  "readme_before_sha256": "cb5795639f4366ce0acd668873ddf7fc0b417137ee6254f6ca96f1228d2695fe",
+  "status": "passed",
+  "protected_files_unchanged": 191,
+  "delivered_documents": [
+    "架构与实现说明.md",
+    "使用与结果解读.md"
+  ]
+}

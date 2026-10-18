@@ -1,0 +1,182 @@
+{
+  "cancer": {
+    "published_path_1based": [
+      895,
+      31,
+      801,
+      273,
+      404,
+      643,
+      423,
+      593,
+      225,
+      481,
+      673,
+      792,
+      609
+    ],
+    "invalid_transitions_under_this_numbering": [
+      [
+        404,
+        643
+      ],
+      [
+        643,
+        423
+      ],
+      [
+        593,
+        225
+      ],
+      [
+        481,
+        673
+      ],
+      [
+        673,
+        792
+      ]
+    ],
+    "block_depth": 13,
+    "R_gates": 18,
+    "elementary_single_qubit_gates": 54,
+    "CRx_gates": 14,
+    "parameters": 68
+  },
+  "mnist": {
+    "published_path_1based": [
+      6687,
+      3969,
+      4418,
+      1321,
+      6319,
+      2817,
+      5933,
+      859,
+      2183,
+      5160,
+      4641,
+      4097,
+      4388,
+      2305,
+      4388
+    ],
+    "invalid_transitions_under_this_numbering": [
+      [
+        3969,
+        4418
+      ],
+      [
+        4418,
+        1321
+      ],
+      [
+        1321,
+        6319
+      ],
+      [
+        2817,
+        5933
+      ],
+      [
+        5933,
+        859
+      ],
+      [
+        2183,
+        5160
+      ],
+      [
+        5160,
+        4641
+      ],
+      [
+        4641,
+        4097
+      ],
+      [
+        4097,
+        4388
+      ],
+      [
+        4388,
+        2305
+      ],
+      [
+        2305,
+        4388
+      ]
+    ],
+    "block_depth": 15,
+    "R_gates": 28,
+    "elementary_single_qubit_gates": 84,
+    "CRx_gates": 22,
+    "parameters": 106
+  },
+  "spt": {
+    "published_path_1based": [
+      6687,
+      1665,
+      2177,
+      2401,
+      4899,
+      3042,
+      4901
+    ],
+    "invalid_transitions_under_this_numbering": [
+      [
+        1665,
+        2177
+      ],
+      [
+        2401,
+        4899
+      ],
+      [
+        4899,
+        3042
+      ],
+      [
+        3042,
+        4901
+      ]
+    ],
+    "block_depth": 7,
+    "R_gates": 12,
+    "elementary_single_qubit_gates": 36,
+    "CRx_gates": 10,
+    "parameters": 46
+  },
+  "spt_fixed": {
+    "published_path_1based": [
+      6687,
+      3649,
+      3173,
+      737,
+      1798,
+      60,
+      1217,
+      4905,
+      1826
+    ],
+    "invalid_transitions_under_this_numbering": [
+      [
+        3173,
+        737
+      ],
+      [
+        1798,
+        60
+      ],
+      [
+        4905,
+        1826
+      ]
+    ],
+    "block_depth": 9,
+    "R_gates": 15,
+    "elementary_single_qubit_gates": 45,
+    "CRx_gates": 19,
+    "parameters": 64
+  }
+}

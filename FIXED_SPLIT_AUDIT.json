@@ -1,0 +1,20 @@
+{
+  "cancer": {
+    "pilot_train_in_full_validation": 0,
+    "pilot_validation_in_full_train": 0,
+    "master_split_sha256": "2c709c3a0efd23f2c104573a9b2ce5138606a12aced3bca1305dbb19542e044f",
+    "independent_test": false
+  },
+  "spt": {
+    "pilot_train_in_full_validation": 0,
+    "pilot_validation_in_full_train": 0,
+    "master_split_sha256": "5af951af4b9715307d2403c37e2413ad97dd0fe751763fa8ea885518378ef4f9",
+    "independent_test": true
+  },
+  "mnist": {
+    "pilot_train_in_full_validation": 0,
+    "pilot_validation_in_full_train": 0,
+    "master_split_sha256": "ce479a83d4653a6adcc218b5448accfaf8dff3beea08ef357d614738039d0722",
+    "independent_test": true
+  }
+}

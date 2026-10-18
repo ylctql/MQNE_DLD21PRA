@@ -1,0 +1,11 @@
+Failed to find real location of C:\Python313\python.exe
+Traceback (most recent call last):
+  File "C:\Users\32769\.codex\.chatgpt-projects\g-p-6accbb469bf48191a2302acd301a4fd6\revision_20261013\predict.py", line 57, in <module>
+    if __name__=='__main__':main()
+                            ~~~~^^
+  File "C:\Users\32769\.codex\.chatgpt-projects\g-p-6accbb469bf48191a2302acd301a4fd6\revision_20261013\predict.py", line 41, in main
+    verify_metrics(computed,expected)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\32769\.codex\.chatgpt-projects\g-p-6accbb469bf48191a2302acd301a4fd6\revision_20261013\predict.py", line 16, in verify_metrics
+    raise ValueError(f"Restored accuracy mismatch: {computed['accuracy']} != {expected['accuracy']}")
+ValueError: Restored accuracy mismatch: 0.6627218934911243 != 0

@@ -1,0 +1,121 @@
+{
+  "task": "spt",
+  "run_type": "circuit_retrain",
+  "best": {
+    "fitness": 0.958,
+    "final": {
+      "epoch": 50,
+      "train": {
+        "loss": 0.4384854317087416,
+        "accuracy": 0.955625
+      },
+      "validation": {
+        "loss": 0.4284907087927086,
+        "accuracy": 0.9675
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.6988127365076021,
+          "accuracy": 0.5775
+        },
+        "validation": {
+          "loss": 0.6982841969290178,
+          "accuracy": 0.5875
+        }
+      },
+      {
+        "epoch": 10,
+        "train": {
+          "loss": 0.527679332599298,
+          "accuracy": 0.909375
+        },
+        "validation": {
+          "loss": 0.5192065836032167,
+          "accuracy": 0.9175
+        }
+      },
+      {
+        "epoch": 20,
+        "train": {
+          "loss": 0.4691226180007407,
+          "accuracy": 0.96
+        },
+        "validation": {
+          "loss": 0.45864225170136225,
+          "accuracy": 0.9675
+        }
+      },
+      {
+        "epoch": 30,
+        "train": {
+          "loss": 0.44998644363367046,
+          "accuracy": 0.9575
+        },
+        "validation": {
+          "loss": 0.4398531497475059,
+          "accuracy": 0.9675
+        }
+      },
+      {
+        "epoch": 40,
+        "train": {
+          "loss": 0.4408519290847497,
+          "accuracy": 0.953125
+        },
+        "validation": {
+          "loss": 0.43084081011510805,
+          "accuracy": 0.9675
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.4384854317087416,
+          "accuracy": 0.955625
+        },
+        "validation": {
+          "loss": 0.4284907087927086,
+          "accuracy": 0.9675
+        }
+      }
+    ],
+    "training_seed": 21,
+    "seconds": 137.4170591000002,
+    "optimizer_updates": 4000,
+    "path_1based": [
+      6687,
+      785,
+      5256,
+      827,
+      3686,
+      5678,
+      1297,
+      6073,
+      4385,
+      6240,
+      4385
+    ],
+    "block_depth": 11,
+    "R_gates": 23,
+    "elementary_single_qubit_gates": 69,
+    "CRx_gates": 16,
+    "parameters": 85,
+    "generation": 1,
+    "candidate": 0
+  },
+  "independent_test": null,
+  "seconds": 137.44364700000006,
+  "circuits_trained": 1,
+  "optimizer_updates": 4000,
+  "library_nonempty": 6687,
+  "environment": {
+    "python": "3.13.6",
+    "torch": "2.11.0+cu128",
+    "numpy": "2.2.6",
+    "device": "cpu",
+    "platform": "Windows-11-10.0.26200-SP0"
+  }
+}

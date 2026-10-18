@@ -1,0 +1,124 @@
+{
+  "task": "cancer",
+  "run_type": "MQNE_search",
+  "best": {
+    "fitness": 0.6274165202108963,
+    "final": {
+      "epoch": 30,
+      "train": {
+        "loss": 0.6572379428809532,
+        "accuracy": 0.6275
+      },
+      "validation": {
+        "loss": 0.6574798280459312,
+        "accuracy": 0.6272189349112426
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7824971054782824,
+          "accuracy": 0.3725
+        },
+        "validation": {
+          "loss": 0.7823626274974073,
+          "accuracy": 0.3727810650887574
+        }
+      },
+      {
+        "epoch": 5,
+        "train": {
+          "loss": 0.702988760930564,
+          "accuracy": 0.3725
+        },
+        "validation": {
+          "loss": 0.7029619418096167,
+          "accuracy": 0.3727810650887574
+        }
+      },
+      {
+        "epoch": 10,
+        "train": {
+          "loss": 0.6686730390225526,
+          "accuracy": 0.6275
+        },
+        "validation": {
+          "loss": 0.6687440460740687,
+          "accuracy": 0.6272189349112426
+        }
+      },
+      {
+        "epoch": 15,
+        "train": {
+          "loss": 0.6603756722588585,
+          "accuracy": 0.6275
+        },
+        "validation": {
+          "loss": 0.6605236923619717,
+          "accuracy": 0.6272189349112426
+        }
+      },
+      {
+        "epoch": 20,
+        "train": {
+          "loss": 0.6589085869043564,
+          "accuracy": 0.6275
+        },
+        "validation": {
+          "loss": 0.6590975310639551,
+          "accuracy": 0.6272189349112426
+        }
+      },
+      {
+        "epoch": 25,
+        "train": {
+          "loss": 0.6580660294821837,
+          "accuracy": 0.6275
+        },
+        "validation": {
+          "loss": 0.6582832348596274,
+          "accuracy": 0.6272189349112426
+        }
+      },
+      {
+        "epoch": 30,
+        "train": {
+          "loss": 0.6572379428809532,
+          "accuracy": 0.6275
+        },
+        "validation": {
+          "loss": 0.6574798280459312,
+          "accuracy": 0.6272189349112426
+        }
+      }
+    ],
+    "training_seed": 21,
+    "seconds": 6.5264692999990075,
+    "optimizer_updates": 600,
+    "path_1based": [
+      895,
+      51,
+      678
+    ],
+    "block_depth": 3,
+    "R_gates": 9,
+    "elementary_single_qubit_gates": 27,
+    "CRx_gates": 4,
+    "parameters": 31,
+    "generation": 1,
+    "candidate": 0
+  },
+  "independent_test": null,
+  "seconds": 60.36774759999753,
+  "circuits_trained": 9,
+  "optimizer_updates": 5400,
+  "library_nonempty": 895,
+  "environment": {
+    "python": "3.13.6",
+    "torch": "2.11.0+cu128",
+    "numpy": "2.2.6",
+    "device": "cpu",
+    "platform": "Windows-11-10.0.26200-SP0"
+  }
+}

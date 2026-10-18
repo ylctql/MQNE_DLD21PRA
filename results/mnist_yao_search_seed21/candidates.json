@@ -1,0 +1,5642 @@
+[
+  {
+    "fitness": 0.5312,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6912239740362041,
+        "accuracy": 0.531
+      },
+      "validation": {
+        "loss": 0.6910993514194999,
+        "accuracy": 0.532
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 2.2710205366685967,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 2.2661953175452445,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6912263059928316,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.6910977942620118,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6912252697300757,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.691104369241372,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6912243338234034,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.6911019363866876,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6912239740362041,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.6910993514194999,
+          "accuracy": 0.532
+        }
+      }
+    ],
+    "training_seed": 21,
+    "seconds": 33.225402800000666,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      337,
+      5001,
+      1953,
+      4473
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 5,
+    "R_gates": 15,
+    "elementary_single_qubit_gates": 45,
+    "CRx_gates": 7,
+    "parameters": 52,
+    "generation": 1,
+    "candidate": 0
+  },
+  {
+    "fitness": 0.5864,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6731933726847983,
+        "accuracy": 0.581
+      },
+      "validation": {
+        "loss": 0.6644999895459862,
+        "accuracy": 0.608
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.969144239372333,
+          "accuracy": 0.469
+        },
+        "validation": {
+          "loss": 0.973734034656854,
+          "accuracy": 0.468
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6739162229566056,
+          "accuracy": 0.571
+        },
+        "validation": {
+          "loss": 0.6657100037023109,
+          "accuracy": 0.596
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6731932568862438,
+          "accuracy": 0.5825
+        },
+        "validation": {
+          "loss": 0.6644930299467781,
+          "accuracy": 0.606
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6731920598601514,
+          "accuracy": 0.582
+        },
+        "validation": {
+          "loss": 0.6644893411641537,
+          "accuracy": 0.606
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6731933726847983,
+          "accuracy": 0.581
+        },
+        "validation": {
+          "loss": 0.6644999895459862,
+          "accuracy": 0.608
+        }
+      }
+    ],
+    "training_seed": 22,
+    "seconds": 45.309645100000125,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      785,
+      5256,
+      945,
+      296
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 5,
+    "R_gates": 17,
+    "elementary_single_qubit_gates": 51,
+    "CRx_gates": 10,
+    "parameters": 61,
+    "generation": 1,
+    "candidate": 1
+  },
+  {
+    "fitness": 0.5836,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6732006716198632,
+        "accuracy": 0.5795
+      },
+      "validation": {
+        "loss": 0.66447209498932,
+        "accuracy": 0.6
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7047245462443775,
+          "accuracy": 0.469
+        },
+        "validation": {
+          "loss": 0.704248888790555,
+          "accuracy": 0.468
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6763363885379822,
+          "accuracy": 0.547
+        },
+        "validation": {
+          "loss": 0.6696203870269485,
+          "accuracy": 0.56
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6736460044498251,
+          "accuracy": 0.5635
+        },
+        "validation": {
+          "loss": 0.6652890744270551,
+          "accuracy": 0.578
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.673196162494559,
+          "accuracy": 0.576
+        },
+        "validation": {
+          "loss": 0.664518118110079,
+          "accuracy": 0.602
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6732006716198632,
+          "accuracy": 0.5795
+        },
+        "validation": {
+          "loss": 0.66447209498932,
+          "accuracy": 0.6
+        }
+      }
+    ],
+    "training_seed": 23,
+    "seconds": 42.30067270000109,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      321,
+      3882,
+      2533,
+      6288
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 5,
+    "R_gates": 15,
+    "elementary_single_qubit_gates": 45,
+    "CRx_gates": 7,
+    "parameters": 52,
+    "generation": 1,
+    "candidate": 2
+  },
+  {
+    "fitness": 0.8792,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.5468722197163478,
+        "accuracy": 0.876
+      },
+      "validation": {
+        "loss": 0.5428217174138711,
+        "accuracy": 0.892
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.9142098342373653,
+          "accuracy": 0.469
+        },
+        "validation": {
+          "loss": 0.915041514362906,
+          "accuracy": 0.468
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.5489218435197157,
+          "accuracy": 0.8675
+        },
+        "validation": {
+          "loss": 0.5449488031775804,
+          "accuracy": 0.884
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.5468833852980528,
+          "accuracy": 0.878
+        },
+        "validation": {
+          "loss": 0.5428382417135679,
+          "accuracy": 0.888
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.5468725878662082,
+          "accuracy": 0.875
+        },
+        "validation": {
+          "loss": 0.542835483540185,
+          "accuracy": 0.892
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.5468722197163478,
+          "accuracy": 0.876
+        },
+        "validation": {
+          "loss": 0.5428217174138711,
+          "accuracy": 0.892
+        }
+      }
+    ],
+    "training_seed": 24,
+    "seconds": 39.128322200000184,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      177,
+      3429,
+      5933,
+      1282
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 5,
+    "R_gates": 13,
+    "elementary_single_qubit_gates": 39,
+    "CRx_gates": 9,
+    "parameters": 48,
+    "generation": 1,
+    "candidate": 3
+  },
+  {
+    "fitness": 0.576,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6736466713533791,
+        "accuracy": 0.5725
+      },
+      "validation": {
+        "loss": 0.6652825265900643,
+        "accuracy": 0.59
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 1.30320342430693,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 1.2981579093888689,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.675615213796628,
+          "accuracy": 0.5465
+        },
+        "validation": {
+          "loss": 0.6684611065138055,
+          "accuracy": 0.558
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.674702960901654,
+          "accuracy": 0.568
+        },
+        "validation": {
+          "loss": 0.6670142828396193,
+          "accuracy": 0.574
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6740617388729656,
+          "accuracy": 0.5715
+        },
+        "validation": {
+          "loss": 0.6659671932834328,
+          "accuracy": 0.584
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6736466713533791,
+          "accuracy": 0.5725
+        },
+        "validation": {
+          "loss": 0.6652825265900643,
+          "accuracy": 0.59
+        }
+      }
+    ],
+    "training_seed": 25,
+    "seconds": 36.789823299999625,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      1425,
+      6222,
+      5281,
+      5413
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 5,
+    "R_gates": 14,
+    "elementary_single_qubit_gates": 42,
+    "CRx_gates": 5,
+    "parameters": 47,
+    "generation": 1,
+    "candidate": 4
+  },
+  {
+    "fitness": 0.5312,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6912270603904163,
+        "accuracy": 0.531
+      },
+      "validation": {
+        "loss": 0.6911079009634421,
+        "accuracy": 0.532
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.8788190716820745,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.8774124408387115,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.691235836800116,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.6911214481218017,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6912289344403434,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.6910984461770745,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6912246271289852,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.6910981312391614,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6912270603904163,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.6911079009634421,
+          "accuracy": 0.532
+        }
+      }
+    ],
+    "training_seed": 26,
+    "seconds": 33.18546279999828,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      3457,
+      2881,
+      5421,
+      4773
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 5,
+    "R_gates": 12,
+    "elementary_single_qubit_gates": 36,
+    "CRx_gates": 6,
+    "parameters": 42,
+    "generation": 1,
+    "candidate": 5
+  },
+  {
+    "fitness": 0.8904,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6230660445159126,
+        "accuracy": 0.8855
+      },
+      "validation": {
+        "loss": 0.6182234047842328,
+        "accuracy": 0.91
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.6945496669253773,
+          "accuracy": 0.516
+        },
+        "validation": {
+          "loss": 0.6947156186006481,
+          "accuracy": 0.5
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6283584629852768,
+          "accuracy": 0.8935
+        },
+        "validation": {
+          "loss": 0.6240846342888778,
+          "accuracy": 0.926
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6234795051216988,
+          "accuracy": 0.8995
+        },
+        "validation": {
+          "loss": 0.6188031716739292,
+          "accuracy": 0.916
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6231139026524289,
+          "accuracy": 0.8935
+        },
+        "validation": {
+          "loss": 0.6183260059179824,
+          "accuracy": 0.914
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6230660445159126,
+          "accuracy": 0.8855
+        },
+        "validation": {
+          "loss": 0.6182234047842328,
+          "accuracy": 0.91
+        }
+      }
+    ],
+    "training_seed": 27,
+    "seconds": 41.80704800000058,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 5,
+    "R_gates": 15,
+    "elementary_single_qubit_gates": 45,
+    "CRx_gates": 7,
+    "parameters": 52,
+    "generation": 1,
+    "candidate": 6
+  },
+  {
+    "fitness": 0.5312,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.691226606792878,
+        "accuracy": 0.531
+      },
+      "validation": {
+        "loss": 0.691107068796574,
+        "accuracy": 0.532
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7384537167739463,
+          "accuracy": 0.469
+        },
+        "validation": {
+          "loss": 0.7389463556168113,
+          "accuracy": 0.468
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.69122402406164,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.6911006499469688,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6912249618755848,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.6910979480829312,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.691243310460202,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.6911316197261638,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.691226606792878,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.691107068796574,
+          "accuracy": 0.532
+        }
+      }
+    ],
+    "training_seed": 28,
+    "seconds": 26.514759499999855,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      5281,
+      6184,
+      5281,
+      5537
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 5,
+    "R_gates": 10,
+    "elementary_single_qubit_gates": 30,
+    "CRx_gates": 3,
+    "parameters": 33,
+    "generation": 1,
+    "candidate": 7
+  },
+  {
+    "fitness": 0.5312,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6912315720274038,
+        "accuracy": 0.531
+      },
+      "validation": {
+        "loss": 0.6910995869680555,
+        "accuracy": 0.532
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 1.7818192120560266,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 1.7780696072244722,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6912242865802419,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.6911017779673712,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6912314335066435,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.6911150273992448,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6912271712673103,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.6911081000945941,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6912315720274038,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.6910995869680555,
+          "accuracy": 0.532
+        }
+      }
+    ],
+    "training_seed": 29,
+    "seconds": 30.09335639999881,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      2241,
+      1857,
+      4193,
+      4385
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 5,
+    "R_gates": 10,
+    "elementary_single_qubit_gates": 30,
+    "CRx_gates": 6,
+    "parameters": 36,
+    "generation": 1,
+    "candidate": 8
+  },
+  {
+    "fitness": 0.5868,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6731916857414576,
+        "accuracy": 0.5815
+      },
+      "validation": {
+        "loss": 0.6644941271199255,
+        "accuracy": 0.608
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.701057624940481,
+          "accuracy": 0.6855
+        },
+        "validation": {
+          "loss": 0.6963778264683551,
+          "accuracy": 0.694
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6733516579271712,
+          "accuracy": 0.5635
+        },
+        "validation": {
+          "loss": 0.6648010853489021,
+          "accuracy": 0.582
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6731953972271533,
+          "accuracy": 0.575
+        },
+        "validation": {
+          "loss": 0.6645092559254513,
+          "accuracy": 0.602
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6731917085498503,
+          "accuracy": 0.581
+        },
+        "validation": {
+          "loss": 0.6644877191446197,
+          "accuracy": 0.6
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6731916857414576,
+          "accuracy": 0.5815
+        },
+        "validation": {
+          "loss": 0.6644941271199255,
+          "accuracy": 0.608
+        }
+      }
+    ],
+    "training_seed": 30,
+    "seconds": 35.46587300000101,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      777,
+      6438,
+      1761,
+      4259
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 5,
+    "R_gates": 13,
+    "elementary_single_qubit_gates": 39,
+    "CRx_gates": 6,
+    "parameters": 45,
+    "generation": 1,
+    "candidate": 9
+  },
+  {
+    "fitness": 0.8912,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6230593955958283,
+        "accuracy": 0.8855
+      },
+      "validation": {
+        "loss": 0.6181660397782562,
+        "accuracy": 0.914
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 1.020746923609318,
+          "accuracy": 0.469
+        },
+        "validation": {
+          "loss": 1.0226750507663027,
+          "accuracy": 0.468
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6242102522808687,
+          "accuracy": 0.8935
+        },
+        "validation": {
+          "loss": 0.6189602086119312,
+          "accuracy": 0.922
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6231155539471228,
+          "accuracy": 0.8755
+        },
+        "validation": {
+          "loss": 0.6180922368568315,
+          "accuracy": 0.908
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6230693836885745,
+          "accuracy": 0.877
+        },
+        "validation": {
+          "loss": 0.6181491187816162,
+          "accuracy": 0.906
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6230593955958283,
+          "accuracy": 0.8855
+        },
+        "validation": {
+          "loss": 0.6181660397782562,
+          "accuracy": 0.914
+        }
+      }
+    ],
+    "training_seed": 31,
+    "seconds": 49.58867689999897,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5443,
+      1989
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 7,
+    "R_gates": 18,
+    "elementary_single_qubit_gates": 54,
+    "CRx_gates": 10,
+    "parameters": 64,
+    "generation": 2,
+    "candidate": 0
+  },
+  {
+    "fitness": 0.8816,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.623065275728387,
+        "accuracy": 0.8765
+      },
+      "validation": {
+        "loss": 0.6181847160797588,
+        "accuracy": 0.902
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7105745237297425,
+          "accuracy": 0.469
+        },
+        "validation": {
+          "loss": 0.7107494975231641,
+          "accuracy": 0.468
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6235613853960301,
+          "accuracy": 0.9025
+        },
+        "validation": {
+          "loss": 0.6189173711868146,
+          "accuracy": 0.92
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6231275771583601,
+          "accuracy": 0.8925
+        },
+        "validation": {
+          "loss": 0.6183024451826467,
+          "accuracy": 0.914
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6230621354812128,
+          "accuracy": 0.886
+        },
+        "validation": {
+          "loss": 0.6181970449795497,
+          "accuracy": 0.916
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.623065275728387,
+          "accuracy": 0.8765
+        },
+        "validation": {
+          "loss": 0.6181847160797588,
+          "accuracy": 0.902
+        }
+      }
+    ],
+    "training_seed": 32,
+    "seconds": 36.738141100000576,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      117,
+      4593
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 7,
+    "R_gates": 17,
+    "elementary_single_qubit_gates": 51,
+    "CRx_gates": 12,
+    "parameters": 63,
+    "generation": 2,
+    "candidate": 1
+  },
+  {
+    "fitness": 0.8928,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6230605078766418,
+        "accuracy": 0.887
+      },
+      "validation": {
+        "loss": 0.6181672404001769,
+        "accuracy": 0.916
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.6949847835169836,
+          "accuracy": 0.4695
+        },
+        "validation": {
+          "loss": 0.6953969351798118,
+          "accuracy": 0.468
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6236339891178406,
+          "accuracy": 0.8915
+        },
+        "validation": {
+          "loss": 0.6190414769951866,
+          "accuracy": 0.912
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6230719004839493,
+          "accuracy": 0.875
+        },
+        "validation": {
+          "loss": 0.6182268602280192,
+          "accuracy": 0.896
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6230752189247832,
+          "accuracy": 0.871
+        },
+        "validation": {
+          "loss": 0.6182024715878628,
+          "accuracy": 0.894
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6230605078766418,
+          "accuracy": 0.887
+        },
+        "validation": {
+          "loss": 0.6181672404001769,
+          "accuracy": 0.916
+        }
+      }
+    ],
+    "training_seed": 33,
+    "seconds": 33.45830930000011,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      3718,
+      2670
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 7,
+    "R_gates": 20,
+    "elementary_single_qubit_gates": 60,
+    "CRx_gates": 11,
+    "parameters": 71,
+    "generation": 2,
+    "candidate": 2
+  },
+  {
+    "fitness": 0.8936,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6230622216231108,
+        "accuracy": 0.8885
+      },
+      "validation": {
+        "loss": 0.6181829009260691,
+        "accuracy": 0.914
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.8434071968001383,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.8420760710805162,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6236557946168169,
+          "accuracy": 0.8885
+        },
+        "validation": {
+          "loss": 0.6190277353563445,
+          "accuracy": 0.906
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6230970531596762,
+          "accuracy": 0.8695
+        },
+        "validation": {
+          "loss": 0.6182963650714747,
+          "accuracy": 0.892
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.623061421339117,
+          "accuracy": 0.8835
+        },
+        "validation": {
+          "loss": 0.618194935597744,
+          "accuracy": 0.914
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6230622216231108,
+          "accuracy": 0.8885
+        },
+        "validation": {
+          "loss": 0.6181829009260691,
+          "accuracy": 0.914
+        }
+      }
+    ],
+    "training_seed": 34,
+    "seconds": 38.311779800000295,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5825,
+      449
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 7,
+    "R_gates": 16,
+    "elementary_single_qubit_gates": 48,
+    "CRx_gates": 11,
+    "parameters": 59,
+    "generation": 2,
+    "candidate": 3
+  },
+  {
+    "fitness": 0.892,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6230643463624719,
+        "accuracy": 0.887
+      },
+      "validation": {
+        "loss": 0.6181671869861541,
+        "accuracy": 0.912
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 1.016568086487129,
+          "accuracy": 0.469
+        },
+        "validation": {
+          "loss": 1.0189260023187878,
+          "accuracy": 0.468
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6240470601934512,
+          "accuracy": 0.8895
+        },
+        "validation": {
+          "loss": 0.6187311108287646,
+          "accuracy": 0.924
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6231211370407899,
+          "accuracy": 0.872
+        },
+        "validation": {
+          "loss": 0.6181458734601604,
+          "accuracy": 0.908
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6230623113269096,
+          "accuracy": 0.8795
+        },
+        "validation": {
+          "loss": 0.6181522800267164,
+          "accuracy": 0.912
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6230643463624719,
+          "accuracy": 0.887
+        },
+        "validation": {
+          "loss": 0.6181671869861541,
+          "accuracy": 0.912
+        }
+      }
+    ],
+    "training_seed": 35,
+    "seconds": 52.01011590000053,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      4903,
+      1433
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 7,
+    "R_gates": 17,
+    "elementary_single_qubit_gates": 51,
+    "CRx_gates": 11,
+    "parameters": 62,
+    "generation": 2,
+    "candidate": 4
+  },
+  {
+    "fitness": 0.8928,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6230631858974652,
+        "accuracy": 0.887
+      },
+      "validation": {
+        "loss": 0.618179512367585,
+        "accuracy": 0.916
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7191922402942618,
+          "accuracy": 0.469
+        },
+        "validation": {
+          "loss": 0.7195159553291038,
+          "accuracy": 0.468
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6232392533043357,
+          "accuracy": 0.87
+        },
+        "validation": {
+          "loss": 0.6185083789274455,
+          "accuracy": 0.878
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6230689596413035,
+          "accuracy": 0.8835
+        },
+        "validation": {
+          "loss": 0.6182074586342637,
+          "accuracy": 0.908
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6230597086176112,
+          "accuracy": 0.881
+        },
+        "validation": {
+          "loss": 0.618180279228591,
+          "accuracy": 0.91
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6230631858974652,
+          "accuracy": 0.887
+        },
+        "validation": {
+          "loss": 0.618179512367585,
+          "accuracy": 0.916
+        }
+      }
+    ],
+    "training_seed": 36,
+    "seconds": 46.525194300000294,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      4129,
+      4513
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 7,
+    "R_gates": 15,
+    "elementary_single_qubit_gates": 45,
+    "CRx_gates": 9,
+    "parameters": 54,
+    "generation": 2,
+    "candidate": 5
+  },
+  {
+    "fitness": 0.8796,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6230804495595849,
+        "accuracy": 0.874
+      },
+      "validation": {
+        "loss": 0.6181564331824575,
+        "accuracy": 0.902
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7072540492607763,
+          "accuracy": 0.47
+        },
+        "validation": {
+          "loss": 0.704994642774147,
+          "accuracy": 0.48
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.62626859990998,
+          "accuracy": 0.8575
+        },
+        "validation": {
+          "loss": 0.620816493488563,
+          "accuracy": 0.874
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6232535400919207,
+          "accuracy": 0.885
+        },
+        "validation": {
+          "loss": 0.6181185022337344,
+          "accuracy": 0.924
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6231067111523485,
+          "accuracy": 0.89
+        },
+        "validation": {
+          "loss": 0.6181279638328988,
+          "accuracy": 0.914
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6230804495595849,
+          "accuracy": 0.874
+        },
+        "validation": {
+          "loss": 0.6181564331824575,
+          "accuracy": 0.902
+        }
+      }
+    ],
+    "training_seed": 37,
+    "seconds": 54.183155599999736,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      3337,
+      4353
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 7,
+    "R_gates": 18,
+    "elementary_single_qubit_gates": 54,
+    "CRx_gates": 10,
+    "parameters": 64,
+    "generation": 2,
+    "candidate": 6
+  },
+  {
+    "fitness": 0.8948,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6230894766854794,
+        "accuracy": 0.8905
+      },
+      "validation": {
+        "loss": 0.6182069940196043,
+        "accuracy": 0.912
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.6963481357400155,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.693159260319058,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6253065523398534,
+          "accuracy": 0.8395
+        },
+        "validation": {
+          "loss": 0.6207247855805149,
+          "accuracy": 0.838
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6231858113281933,
+          "accuracy": 0.884
+        },
+        "validation": {
+          "loss": 0.618437802381852,
+          "accuracy": 0.898
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6230639059778127,
+          "accuracy": 0.8795
+        },
+        "validation": {
+          "loss": 0.6182086843057377,
+          "accuracy": 0.908
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6230894766854794,
+          "accuracy": 0.8905
+        },
+        "validation": {
+          "loss": 0.6182069940196043,
+          "accuracy": 0.912
+        }
+      }
+    ],
+    "training_seed": 38,
+    "seconds": 51.88757059999989,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 7,
+    "R_gates": 17,
+    "elementary_single_qubit_gates": 51,
+    "CRx_gates": 10,
+    "parameters": 61,
+    "generation": 2,
+    "candidate": 7
+  },
+  {
+    "fitness": 0.8928,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6230682445840142,
+        "accuracy": 0.8875
+      },
+      "validation": {
+        "loss": 0.6181886793892569,
+        "accuracy": 0.914
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.8519482704388103,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.8497224342289329,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6279991215393754,
+          "accuracy": 0.8505
+        },
+        "validation": {
+          "loss": 0.623380799078008,
+          "accuracy": 0.85
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6232821953634377,
+          "accuracy": 0.8765
+        },
+        "validation": {
+          "loss": 0.6185150828405813,
+          "accuracy": 0.88
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6230667557866874,
+          "accuracy": 0.8815
+        },
+        "validation": {
+          "loss": 0.6182126770748102,
+          "accuracy": 0.906
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6230682445840142,
+          "accuracy": 0.8875
+        },
+        "validation": {
+          "loss": 0.6181886793892569,
+          "accuracy": 0.914
+        }
+      }
+    ],
+    "training_seed": 39,
+    "seconds": 51.64606739999908,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      3273,
+      1507
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 7,
+    "R_gates": 17,
+    "elementary_single_qubit_gates": 51,
+    "CRx_gates": 11,
+    "parameters": 62,
+    "generation": 2,
+    "candidate": 8
+  },
+  {
+    "fitness": 0.8656,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6092498513354806,
+        "accuracy": 0.858
+      },
+      "validation": {
+        "loss": 0.6032033941974919,
+        "accuracy": 0.896
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.6703350979976224,
+          "accuracy": 0.613
+        },
+        "validation": {
+          "loss": 0.6697616518404683,
+          "accuracy": 0.606
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6095282920161526,
+          "accuracy": 0.883
+        },
+        "validation": {
+          "loss": 0.6034798518812925,
+          "accuracy": 0.924
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6092502867490384,
+          "accuracy": 0.8615
+        },
+        "validation": {
+          "loss": 0.6031720509627636,
+          "accuracy": 0.904
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6092635206012972,
+          "accuracy": 0.874
+        },
+        "validation": {
+          "loss": 0.6031965236514484,
+          "accuracy": 0.91
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6092498513354806,
+          "accuracy": 0.858
+        },
+        "validation": {
+          "loss": 0.6032033941974919,
+          "accuracy": 0.896
+        }
+      }
+    ],
+    "training_seed": 40,
+    "seconds": 31.154366699998718,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      113,
+      1583
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 7,
+    "R_gates": 18,
+    "elementary_single_qubit_gates": 54,
+    "CRx_gates": 13,
+    "parameters": 67,
+    "generation": 2,
+    "candidate": 9
+  },
+  {
+    "fitness": 0.8768,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6230774031594423,
+        "accuracy": 0.872
+      },
+      "validation": {
+        "loss": 0.6181952609373468,
+        "accuracy": 0.896
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7393810977609199,
+          "accuracy": 0.4535
+        },
+        "validation": {
+          "loss": 0.7421982980336904,
+          "accuracy": 0.446
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6234006538370238,
+          "accuracy": 0.844
+        },
+        "validation": {
+          "loss": 0.6182915338950504,
+          "accuracy": 0.872
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.623100589716675,
+          "accuracy": 0.8875
+        },
+        "validation": {
+          "loss": 0.6181638263948146,
+          "accuracy": 0.914
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6230854008985302,
+          "accuracy": 0.868
+        },
+        "validation": {
+          "loss": 0.6181970007051022,
+          "accuracy": 0.894
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6230774031594423,
+          "accuracy": 0.872
+        },
+        "validation": {
+          "loss": 0.6181952609373468,
+          "accuracy": 0.896
+        }
+      }
+    ],
+    "training_seed": 41,
+    "seconds": 30.67923250000058,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1065,
+      4423
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 9,
+    "R_gates": 20,
+    "elementary_single_qubit_gates": 60,
+    "CRx_gates": 14,
+    "parameters": 74,
+    "generation": 3,
+    "candidate": 0
+  },
+  {
+    "fitness": 0.9552,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.4798640813901209,
+        "accuracy": 0.9565
+      },
+      "validation": {
+        "loss": 0.4777987207398543,
+        "accuracy": 0.95
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7605636996839165,
+          "accuracy": 0.469
+        },
+        "validation": {
+          "loss": 0.7620144934671923,
+          "accuracy": 0.468
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.48271294234559514,
+          "accuracy": 0.9615
+        },
+        "validation": {
+          "loss": 0.4797638790945466,
+          "accuracy": 0.966
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4801255187479342,
+          "accuracy": 0.956
+        },
+        "validation": {
+          "loss": 0.4779416512367793,
+          "accuracy": 0.952
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.4798607815491938,
+          "accuracy": 0.956
+        },
+        "validation": {
+          "loss": 0.47779090403250307,
+          "accuracy": 0.95
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.4798640813901209,
+          "accuracy": 0.9565
+        },
+        "validation": {
+          "loss": 0.4777987207398543,
+          "accuracy": 0.95
+        }
+      }
+    ],
+    "training_seed": 42,
+    "seconds": 30.732953500000804,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 9,
+    "R_gates": 19,
+    "elementary_single_qubit_gates": 57,
+    "CRx_gates": 16,
+    "parameters": 73,
+    "generation": 3,
+    "candidate": 1
+  },
+  {
+    "fitness": 0.884,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6230634125355348,
+        "accuracy": 0.878
+      },
+      "validation": {
+        "loss": 0.6181765159729494,
+        "accuracy": 0.908
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7270195047868387,
+          "accuracy": 0.469
+        },
+        "validation": {
+          "loss": 0.7266875791890681,
+          "accuracy": 0.468
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6240635317527338,
+          "accuracy": 0.8825
+        },
+        "validation": {
+          "loss": 0.6190759230276965,
+          "accuracy": 0.914
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6232339533739093,
+          "accuracy": 0.8845
+        },
+        "validation": {
+          "loss": 0.6182723267997979,
+          "accuracy": 0.912
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.623066287731905,
+          "accuracy": 0.8845
+        },
+        "validation": {
+          "loss": 0.6181539366863117,
+          "accuracy": 0.916
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6230634125355348,
+          "accuracy": 0.878
+        },
+        "validation": {
+          "loss": 0.6181765159729494,
+          "accuracy": 0.908
+        }
+      }
+    ],
+    "training_seed": 43,
+    "seconds": 29.717674999999872,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      2281,
+      4681
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 9,
+    "R_gates": 20,
+    "elementary_single_qubit_gates": 60,
+    "CRx_gates": 13,
+    "parameters": 73,
+    "generation": 3,
+    "candidate": 2
+  },
+  {
+    "fitness": 0.8932,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6231079719875966,
+        "accuracy": 0.888
+      },
+      "validation": {
+        "loss": 0.6182692116678449,
+        "accuracy": 0.914
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 1.2636086689849386,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 1.2601689012979704,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6582781505167856,
+          "accuracy": 0.8155
+        },
+        "validation": {
+          "loss": 0.6560661583141056,
+          "accuracy": 0.822
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6278395670225865,
+          "accuracy": 0.909
+        },
+        "validation": {
+          "loss": 0.6236247505272496,
+          "accuracy": 0.924
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6234867151666331,
+          "accuracy": 0.897
+        },
+        "validation": {
+          "loss": 0.618777474842471,
+          "accuracy": 0.914
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6231079719875966,
+          "accuracy": 0.888
+        },
+        "validation": {
+          "loss": 0.6182692116678449,
+          "accuracy": 0.914
+        }
+      }
+    ],
+    "training_seed": 44,
+    "seconds": 30.141854700001204,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      2541,
+      2313
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 9,
+    "R_gates": 20,
+    "elementary_single_qubit_gates": 60,
+    "CRx_gates": 14,
+    "parameters": 74,
+    "generation": 3,
+    "candidate": 3
+  },
+  {
+    "fitness": 0.88,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6230738991334793,
+        "accuracy": 0.8755
+      },
+      "validation": {
+        "loss": 0.6181928977848197,
+        "accuracy": 0.898
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.8092923023940813,
+          "accuracy": 0.469
+        },
+        "validation": {
+          "loss": 0.8101136711594713,
+          "accuracy": 0.468
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6255267678616954,
+          "accuracy": 0.8925
+        },
+        "validation": {
+          "loss": 0.6211678830194213,
+          "accuracy": 0.902
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6231040753883433,
+          "accuracy": 0.8685
+        },
+        "validation": {
+          "loss": 0.6182969869412016,
+          "accuracy": 0.896
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6230603821840347,
+          "accuracy": 0.888
+        },
+        "validation": {
+          "loss": 0.6181849150800225,
+          "accuracy": 0.914
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6230738991334793,
+          "accuracy": 0.8755
+        },
+        "validation": {
+          "loss": 0.6181928977848197,
+          "accuracy": 0.898
+        }
+      }
+    ],
+    "training_seed": 45,
+    "seconds": 29.472717000000557,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      4557,
+      2209
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 9,
+    "R_gates": 20,
+    "elementary_single_qubit_gates": 60,
+    "CRx_gates": 13,
+    "parameters": 73,
+    "generation": 3,
+    "candidate": 4
+  },
+  {
+    "fitness": 0.8704,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6092364433266162,
+        "accuracy": 0.8625
+      },
+      "validation": {
+        "loss": 0.603196534341118,
+        "accuracy": 0.902
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7157107126693568,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.7127633368156002,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6108343271760563,
+          "accuracy": 0.872
+        },
+        "validation": {
+          "loss": 0.6048836361421633,
+          "accuracy": 0.9
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6092974472022852,
+          "accuracy": 0.8665
+        },
+        "validation": {
+          "loss": 0.603302426977355,
+          "accuracy": 0.906
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6092476532508989,
+          "accuracy": 0.8615
+        },
+        "validation": {
+          "loss": 0.6032243234278918,
+          "accuracy": 0.898
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6092364433266162,
+          "accuracy": 0.8625
+        },
+        "validation": {
+          "loss": 0.603196534341118,
+          "accuracy": 0.902
+        }
+      }
+    ],
+    "training_seed": 46,
+    "seconds": 28.817636400000993,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      3459,
+      3301
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 9,
+    "R_gates": 19,
+    "elementary_single_qubit_gates": 57,
+    "CRx_gates": 14,
+    "parameters": 71,
+    "generation": 3,
+    "candidate": 5
+  },
+  {
+    "fitness": 0.8704,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6231114130581827,
+        "accuracy": 0.8665
+      },
+      "validation": {
+        "loss": 0.6182461844346345,
+        "accuracy": 0.886
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 1.0492879878032786,
+          "accuracy": 0.469
+        },
+        "validation": {
+          "loss": 1.047136926943003,
+          "accuracy": 0.468
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6275329529838926,
+          "accuracy": 0.8775
+        },
+        "validation": {
+          "loss": 0.6227589912650335,
+          "accuracy": 0.892
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6231797452962059,
+          "accuracy": 0.8935
+        },
+        "validation": {
+          "loss": 0.6183745526067022,
+          "accuracy": 0.92
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6231290865536082,
+          "accuracy": 0.897
+        },
+        "validation": {
+          "loss": 0.6182533840024002,
+          "accuracy": 0.916
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6231114130581827,
+          "accuracy": 0.8665
+        },
+        "validation": {
+          "loss": 0.6182461844346345,
+          "accuracy": 0.886
+        }
+      }
+    ],
+    "training_seed": 47,
+    "seconds": 26.222724999999627,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      6184,
+      5153
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 9,
+    "R_gates": 18,
+    "elementary_single_qubit_gates": 54,
+    "CRx_gates": 11,
+    "parameters": 65,
+    "generation": 3,
+    "candidate": 6
+  },
+  {
+    "fitness": 0.8912,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6230593466091855,
+        "accuracy": 0.8855
+      },
+      "validation": {
+        "loss": 0.6181759218620476,
+        "accuracy": 0.914
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 1.273632339137018,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 1.2712402078904659,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6448136487308507,
+          "accuracy": 0.7965
+        },
+        "validation": {
+          "loss": 0.6416232095783139,
+          "accuracy": 0.81
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.623173951218121,
+          "accuracy": 0.887
+        },
+        "validation": {
+          "loss": 0.6184422228785381,
+          "accuracy": 0.91
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6230622008118987,
+          "accuracy": 0.888
+        },
+        "validation": {
+          "loss": 0.6182011578706481,
+          "accuracy": 0.914
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6230593466091855,
+          "accuracy": 0.8855
+        },
+        "validation": {
+          "loss": 0.6181759218620476,
+          "accuracy": 0.914
+        }
+      }
+    ],
+    "training_seed": 48,
+    "seconds": 32.37611469999865,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      5169,
+      2249
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 9,
+    "R_gates": 19,
+    "elementary_single_qubit_gates": 57,
+    "CRx_gates": 13,
+    "parameters": 70,
+    "generation": 3,
+    "candidate": 7
+  },
+  {
+    "fitness": 0.8952,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.623088223299203,
+        "accuracy": 0.891
+      },
+      "validation": {
+        "loss": 0.6181873728845014,
+        "accuracy": 0.912
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7135910603143186,
+          "accuracy": 0.4475
+        },
+        "validation": {
+          "loss": 0.7126161456909689,
+          "accuracy": 0.438
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6257566714784838,
+          "accuracy": 0.8895
+        },
+        "validation": {
+          "loss": 0.6209619320152735,
+          "accuracy": 0.928
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6235862114097843,
+          "accuracy": 0.9
+        },
+        "validation": {
+          "loss": 0.6187354045060324,
+          "accuracy": 0.928
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6231240397047242,
+          "accuracy": 0.8675
+        },
+        "validation": {
+          "loss": 0.6182420980599878,
+          "accuracy": 0.888
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.623088223299203,
+          "accuracy": 0.891
+        },
+        "validation": {
+          "loss": 0.6181873728845014,
+          "accuracy": 0.912
+        }
+      }
+    ],
+    "training_seed": 49,
+    "seconds": 55.1924596000008,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      3457,
+      4661
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 9,
+    "R_gates": 19,
+    "elementary_single_qubit_gates": 57,
+    "CRx_gates": 13,
+    "parameters": 70,
+    "generation": 3,
+    "candidate": 8
+  },
+  {
+    "fitness": 0.8932,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.6230599130000467,
+        "accuracy": 0.8875
+      },
+      "validation": {
+        "loss": 0.618163294721234,
+        "accuracy": 0.916
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7512969652505298,
+          "accuracy": 0.469
+        },
+        "validation": {
+          "loss": 0.7500763150506525,
+          "accuracy": 0.468
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6240875357604359,
+          "accuracy": 0.8815
+        },
+        "validation": {
+          "loss": 0.6189967885435417,
+          "accuracy": 0.916
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.6231889117689413,
+          "accuracy": 0.8935
+        },
+        "validation": {
+          "loss": 0.6182062475882144,
+          "accuracy": 0.926
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.6230682622339933,
+          "accuracy": 0.886
+        },
+        "validation": {
+          "loss": 0.6181492522594132,
+          "accuracy": 0.916
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.6230599130000467,
+          "accuracy": 0.8875
+        },
+        "validation": {
+          "loss": 0.618163294721234,
+          "accuracy": 0.916
+        }
+      }
+    ],
+    "training_seed": 50,
+    "seconds": 54.77605589999985,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      2443,
+      661
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 9,
+    "R_gates": 20,
+    "elementary_single_qubit_gates": 60,
+    "CRx_gates": 15,
+    "parameters": 75,
+    "generation": 3,
+    "candidate": 9
+  },
+  {
+    "fitness": 0.9512,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.47965080235622876,
+        "accuracy": 0.953
+      },
+      "validation": {
+        "loss": 0.4775132158218507,
+        "accuracy": 0.944
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.9662218263310175,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.9630243202294415,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.5088488485864238,
+          "accuracy": 0.962
+        },
+        "validation": {
+          "loss": 0.505927336735628,
+          "accuracy": 0.974
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4831954669704769,
+          "accuracy": 0.9605
+        },
+        "validation": {
+          "loss": 0.4803516155415555,
+          "accuracy": 0.962
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.48292107990019795,
+          "accuracy": 0.957
+        },
+        "validation": {
+          "loss": 0.48014495806408497,
+          "accuracy": 0.96
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.47965080235622876,
+          "accuracy": 0.953
+        },
+        "validation": {
+          "loss": 0.4775132158218507,
+          "accuracy": 0.944
+        }
+      }
+    ],
+    "training_seed": 51,
+    "seconds": 35.93515519999892,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      1055,
+      33
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 11,
+    "R_gates": 21,
+    "elementary_single_qubit_gates": 63,
+    "CRx_gates": 23,
+    "parameters": 86,
+    "generation": 4,
+    "candidate": 0
+  },
+  {
+    "fitness": 0.9536,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.4798667259996062,
+        "accuracy": 0.955
+      },
+      "validation": {
+        "loss": 0.47785848684870175,
+        "accuracy": 0.948
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.6871084930547973,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.6848043220256178,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.4819165112787332,
+          "accuracy": 0.955
+        },
+        "validation": {
+          "loss": 0.47974018836292914,
+          "accuracy": 0.946
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4799971418189301,
+          "accuracy": 0.955
+        },
+        "validation": {
+          "loss": 0.4779286563325979,
+          "accuracy": 0.95
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.4798790193800571,
+          "accuracy": 0.955
+        },
+        "validation": {
+          "loss": 0.47787050868637465,
+          "accuracy": 0.95
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.4798667259996062,
+          "accuracy": 0.955
+        },
+        "validation": {
+          "loss": 0.47785848684870175,
+          "accuracy": 0.948
+        }
+      }
+    ],
+    "training_seed": 52,
+    "seconds": 34.06189629999972,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      1577,
+      2053
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 11,
+    "R_gates": 21,
+    "elementary_single_qubit_gates": 63,
+    "CRx_gates": 20,
+    "parameters": 83,
+    "generation": 4,
+    "candidate": 1
+  },
+  {
+    "fitness": 0.954,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.4798610158775473,
+        "accuracy": 0.955
+      },
+      "validation": {
+        "loss": 0.4778300108067367,
+        "accuracy": 0.95
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7152810604694837,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.7140718717875256,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.4843046556788901,
+          "accuracy": 0.95
+        },
+        "validation": {
+          "loss": 0.48189107601160536,
+          "accuracy": 0.946
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4798739919294177,
+          "accuracy": 0.957
+        },
+        "validation": {
+          "loss": 0.4777423872328626,
+          "accuracy": 0.95
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.47998442928259427,
+          "accuracy": 0.9515
+        },
+        "validation": {
+          "loss": 0.47805209587443365,
+          "accuracy": 0.942
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.4798610158775473,
+          "accuracy": 0.955
+        },
+        "validation": {
+          "loss": 0.4778300108067367,
+          "accuracy": 0.95
+        }
+      }
+    ],
+    "training_seed": 53,
+    "seconds": 63.37878079999973,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      3901,
+      4779
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 11,
+    "R_gates": 24,
+    "elementary_single_qubit_gates": 72,
+    "CRx_gates": 19,
+    "parameters": 91,
+    "generation": 4,
+    "candidate": 2
+  },
+  {
+    "fitness": 0.9504,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.47763504229071235,
+        "accuracy": 0.953
+      },
+      "validation": {
+        "loss": 0.4758020739042962,
+        "accuracy": 0.94
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7228871917320451,
+          "accuracy": 0.469
+        },
+        "validation": {
+          "loss": 0.7247313102817887,
+          "accuracy": 0.468
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.48004559084198023,
+          "accuracy": 0.959
+        },
+        "validation": {
+          "loss": 0.4779518693172525,
+          "accuracy": 0.958
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.479316157486086,
+          "accuracy": 0.952
+        },
+        "validation": {
+          "loss": 0.47741693343048786,
+          "accuracy": 0.94
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.47827031902126993,
+          "accuracy": 0.956
+        },
+        "validation": {
+          "loss": 0.4763252910512686,
+          "accuracy": 0.948
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.47763504229071235,
+          "accuracy": 0.953
+        },
+        "validation": {
+          "loss": 0.4758020739042962,
+          "accuracy": 0.94
+        }
+      }
+    ],
+    "training_seed": 54,
+    "seconds": 71.94584870000108,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      178,
+      4081
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 11,
+    "R_gates": 21,
+    "elementary_single_qubit_gates": 63,
+    "CRx_gates": 21,
+    "parameters": 84,
+    "generation": 4,
+    "candidate": 3
+  },
+  {
+    "fitness": 0.9576,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.48353365479159205,
+        "accuracy": 0.957
+      },
+      "validation": {
+        "loss": 0.48063022221896684,
+        "accuracy": 0.96
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7144472392766889,
+          "accuracy": 0.5345
+        },
+        "validation": {
+          "loss": 0.7197629217684796,
+          "accuracy": 0.522
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.5054562630881551,
+          "accuracy": 0.932
+        },
+        "validation": {
+          "loss": 0.5036363723860298,
+          "accuracy": 0.924
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4835556249067868,
+          "accuracy": 0.9565
+        },
+        "validation": {
+          "loss": 0.4807169729976614,
+          "accuracy": 0.958
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.48353551431434466,
+          "accuracy": 0.9565
+        },
+        "validation": {
+          "loss": 0.4806278909705163,
+          "accuracy": 0.96
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.48353365479159205,
+          "accuracy": 0.957
+        },
+        "validation": {
+          "loss": 0.48063022221896684,
+          "accuracy": 0.96
+        }
+      }
+    ],
+    "training_seed": 55,
+    "seconds": 71.17865340000026,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      2691,
+      2466
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 11,
+    "R_gates": 21,
+    "elementary_single_qubit_gates": 63,
+    "CRx_gates": 20,
+    "parameters": 83,
+    "generation": 4,
+    "candidate": 4
+  },
+  {
+    "fitness": 0.9568,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.48353691019604556,
+        "accuracy": 0.9565
+      },
+      "validation": {
+        "loss": 0.48063344284573895,
+        "accuracy": 0.958
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.711006963177069,
+          "accuracy": 0.5295
+        },
+        "validation": {
+          "loss": 0.7103940554757965,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.48559218372177226,
+          "accuracy": 0.954
+        },
+        "validation": {
+          "loss": 0.4819489861502556,
+          "accuracy": 0.96
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4835337122789099,
+          "accuracy": 0.9565
+        },
+        "validation": {
+          "loss": 0.4806213960996355,
+          "accuracy": 0.96
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.4835316205384023,
+          "accuracy": 0.9565
+        },
+        "validation": {
+          "loss": 0.4806070188086452,
+          "accuracy": 0.96
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.48353691019604556,
+          "accuracy": 0.9565
+        },
+        "validation": {
+          "loss": 0.48063344284573895,
+          "accuracy": 0.958
+        }
+      }
+    ],
+    "training_seed": 56,
+    "seconds": 62.51575729999968,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      6145,
+      2753
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 11,
+    "R_gates": 21,
+    "elementary_single_qubit_gates": 63,
+    "CRx_gates": 19,
+    "parameters": 82,
+    "generation": 4,
+    "candidate": 5
+  },
+  {
+    "fitness": 0.954,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.47991374404164694,
+        "accuracy": 0.955
+      },
+      "validation": {
+        "loss": 0.47788010064652475,
+        "accuracy": 0.95
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.9905676914895377,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.9870747287326178,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.48164202097554604,
+          "accuracy": 0.9535
+        },
+        "validation": {
+          "loss": 0.4795242025667842,
+          "accuracy": 0.946
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4800896336191692,
+          "accuracy": 0.954
+        },
+        "validation": {
+          "loss": 0.47806687257681835,
+          "accuracy": 0.946
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.48008068057074993,
+          "accuracy": 0.959
+        },
+        "validation": {
+          "loss": 0.4778982617581819,
+          "accuracy": 0.962
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.47991374404164694,
+          "accuracy": 0.955
+        },
+        "validation": {
+          "loss": 0.47788010064652475,
+          "accuracy": 0.95
+        }
+      }
+    ],
+    "training_seed": 57,
+    "seconds": 57.542955700000675,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      889,
+      5195
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 11,
+    "R_gates": 22,
+    "elementary_single_qubit_gates": 66,
+    "CRx_gates": 20,
+    "parameters": 86,
+    "generation": 4,
+    "candidate": 6
+  },
+  {
+    "fitness": 0.9548,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.4798401308839404,
+        "accuracy": 0.956
+      },
+      "validation": {
+        "loss": 0.4777803405194774,
+        "accuracy": 0.95
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.6751666315821678,
+          "accuracy": 0.486
+        },
+        "validation": {
+          "loss": 0.6734446977941536,
+          "accuracy": 0.482
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.4856611063702981,
+          "accuracy": 0.9575
+        },
+        "validation": {
+          "loss": 0.4833138018925908,
+          "accuracy": 0.958
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4800495449763681,
+          "accuracy": 0.9555
+        },
+        "validation": {
+          "loss": 0.47796017271304553,
+          "accuracy": 0.95
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.4798498675359963,
+          "accuracy": 0.9575
+        },
+        "validation": {
+          "loss": 0.47776319837359543,
+          "accuracy": 0.954
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.4798401308839404,
+          "accuracy": 0.956
+        },
+        "validation": {
+          "loss": 0.4777803405194774,
+          "accuracy": 0.95
+        }
+      }
+    ],
+    "training_seed": 58,
+    "seconds": 59.992238999999245,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      5563,
+      1097
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 11,
+    "R_gates": 22,
+    "elementary_single_qubit_gates": 66,
+    "CRx_gates": 20,
+    "parameters": 86,
+    "generation": 4,
+    "candidate": 7
+  },
+  {
+    "fitness": 0.9548,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.4798490684086526,
+        "accuracy": 0.956
+      },
+      "validation": {
+        "loss": 0.4777854890553357,
+        "accuracy": 0.95
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7125890158717576,
+          "accuracy": 0.5305
+        },
+        "validation": {
+          "loss": 0.7141723500365317,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.4842241336646033,
+          "accuracy": 0.958
+        },
+        "validation": {
+          "loss": 0.48111290115024496,
+          "accuracy": 0.962
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.48236380430745646,
+          "accuracy": 0.9575
+        },
+        "validation": {
+          "loss": 0.4796913745126724,
+          "accuracy": 0.962
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.47990337571908304,
+          "accuracy": 0.956
+        },
+        "validation": {
+          "loss": 0.4778483321075375,
+          "accuracy": 0.952
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.4798490684086526,
+          "accuracy": 0.956
+        },
+        "validation": {
+          "loss": 0.4777854890553357,
+          "accuracy": 0.95
+        }
+      }
+    ],
+    "training_seed": 59,
+    "seconds": 62.58384190000106,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      3673,
+      2343
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 11,
+    "R_gates": 23,
+    "elementary_single_qubit_gates": 69,
+    "CRx_gates": 20,
+    "parameters": 89,
+    "generation": 4,
+    "candidate": 8
+  },
+  {
+    "fitness": 0.95,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.4800012650631316,
+        "accuracy": 0.952
+      },
+      "validation": {
+        "loss": 0.47805669408947754,
+        "accuracy": 0.942
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.8601342145485799,
+          "accuracy": 0.469
+        },
+        "validation": {
+          "loss": 0.8583050232252242,
+          "accuracy": 0.468
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.48352562665782406,
+          "accuracy": 0.9545
+        },
+        "validation": {
+          "loss": 0.48095746513252197,
+          "accuracy": 0.958
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4798780543455103,
+          "accuracy": 0.956
+        },
+        "validation": {
+          "loss": 0.4778082352623468,
+          "accuracy": 0.95
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.4798632517052031,
+          "accuracy": 0.957
+        },
+        "validation": {
+          "loss": 0.4777878583398485,
+          "accuracy": 0.95
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.4800012650631316,
+          "accuracy": 0.952
+        },
+        "validation": {
+          "loss": 0.47805669408947754,
+          "accuracy": 0.942
+        }
+      }
+    ],
+    "training_seed": 60,
+    "seconds": 61.499608199999784,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      923,
+      50
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 11,
+    "R_gates": 21,
+    "elementary_single_qubit_gates": 63,
+    "CRx_gates": 23,
+    "parameters": 86,
+    "generation": 4,
+    "candidate": 9
+  },
+  {
+    "fitness": 0.958,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.4795472214831169,
+        "accuracy": 0.9585
+      },
+      "validation": {
+        "loss": 0.47748703213420196,
+        "accuracy": 0.956
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.6966008460451636,
+          "accuracy": 0.5135
+        },
+        "validation": {
+          "loss": 0.6963198519976859,
+          "accuracy": 0.49
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.48040916234003883,
+          "accuracy": 0.9535
+        },
+        "validation": {
+          "loss": 0.47845024432363126,
+          "accuracy": 0.948
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4797835557094245,
+          "accuracy": 0.9545
+        },
+        "validation": {
+          "loss": 0.4777948818683865,
+          "accuracy": 0.948
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.4797969600838599,
+          "accuracy": 0.9525
+        },
+        "validation": {
+          "loss": 0.4778742846971111,
+          "accuracy": 0.942
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.4795472214831169,
+          "accuracy": 0.9585
+        },
+        "validation": {
+          "loss": 0.47748703213420196,
+          "accuracy": 0.956
+        }
+      }
+    ],
+    "training_seed": 61,
+    "seconds": 70.0398554000003,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      2691,
+      2466,
+      111,
+      4719
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 13,
+    "R_gates": 25,
+    "elementary_single_qubit_gates": 75,
+    "CRx_gates": 25,
+    "parameters": 100,
+    "generation": 5,
+    "candidate": 0
+  },
+  {
+    "fitness": 0.9476,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.4775703036650567,
+        "accuracy": 0.9495
+      },
+      "validation": {
+        "loss": 0.47578022549210375,
+        "accuracy": 0.94
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.6999400497807575,
+          "accuracy": 0.492
+        },
+        "validation": {
+          "loss": 0.7021615597135746,
+          "accuracy": 0.462
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.4803444262530438,
+          "accuracy": 0.9545
+        },
+        "validation": {
+          "loss": 0.47815570968341264,
+          "accuracy": 0.95
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4788333816197238,
+          "accuracy": 0.953
+        },
+        "validation": {
+          "loss": 0.47694363930217815,
+          "accuracy": 0.934
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.4778290147548778,
+          "accuracy": 0.9545
+        },
+        "validation": {
+          "loss": 0.4759641099389098,
+          "accuracy": 0.942
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.4775703036650567,
+          "accuracy": 0.9495
+        },
+        "validation": {
+          "loss": 0.47578022549210375,
+          "accuracy": 0.94
+        }
+      }
+    ],
+    "training_seed": 62,
+    "seconds": 66.7474930999997,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      2691,
+      2466,
+      3211,
+      6057
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 13,
+    "R_gates": 24,
+    "elementary_single_qubit_gates": 72,
+    "CRx_gates": 23,
+    "parameters": 95,
+    "generation": 5,
+    "candidate": 1
+  },
+  {
+    "fitness": 0.9572,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.48353167516213597,
+        "accuracy": 0.9565
+      },
+      "validation": {
+        "loss": 0.48062485527065835,
+        "accuracy": 0.96
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.6873076687012223,
+          "accuracy": 0.4765
+        },
+        "validation": {
+          "loss": 0.6835205635466043,
+          "accuracy": 0.478
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.4904377208828068,
+          "accuracy": 0.935
+        },
+        "validation": {
+          "loss": 0.487943713650931,
+          "accuracy": 0.928
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4838570514047015,
+          "accuracy": 0.957
+        },
+        "validation": {
+          "loss": 0.48097288018110834,
+          "accuracy": 0.96
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.4835484872004334,
+          "accuracy": 0.957
+        },
+        "validation": {
+          "loss": 0.4806038122060678,
+          "accuracy": 0.96
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.48353167516213597,
+          "accuracy": 0.9565
+        },
+        "validation": {
+          "loss": 0.48062485527065835,
+          "accuracy": 0.96
+        }
+      }
+    ],
+    "training_seed": 63,
+    "seconds": 71.06435359999887,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      2691,
+      2466,
+      3180,
+      2818
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 13,
+    "R_gates": 25,
+    "elementary_single_qubit_gates": 75,
+    "CRx_gates": 24,
+    "parameters": 99,
+    "generation": 5,
+    "candidate": 2
+  },
+  {
+    "fitness": 0.9476,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.47749709123267886,
+        "accuracy": 0.9495
+      },
+      "validation": {
+        "loss": 0.4756538327859861,
+        "accuracy": 0.94
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.6836843073074892,
+          "accuracy": 0.5425
+        },
+        "validation": {
+          "loss": 0.6776601357441139,
+          "accuracy": 0.544
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.48220752459503535,
+          "accuracy": 0.944
+        },
+        "validation": {
+          "loss": 0.4790438293670073,
+          "accuracy": 0.938
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.479237327264902,
+          "accuracy": 0.94
+        },
+        "validation": {
+          "loss": 0.47703247865875453,
+          "accuracy": 0.932
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.477703458655845,
+          "accuracy": 0.9515
+        },
+        "validation": {
+          "loss": 0.47568345989914196,
+          "accuracy": 0.942
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.47749709123267886,
+          "accuracy": 0.9495
+        },
+        "validation": {
+          "loss": 0.4756538327859861,
+          "accuracy": 0.94
+        }
+      }
+    ],
+    "training_seed": 64,
+    "seconds": 65.17971380000017,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      2691,
+      2466,
+      2689,
+      195
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 13,
+    "R_gates": 22,
+    "elementary_single_qubit_gates": 66,
+    "CRx_gates": 25,
+    "parameters": 91,
+    "generation": 5,
+    "candidate": 3
+  },
+  {
+    "fitness": 0.9568,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.48354294197255965,
+        "accuracy": 0.9565
+      },
+      "validation": {
+        "loss": 0.4806613827808964,
+        "accuracy": 0.958
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.6984196489615552,
+          "accuracy": 0.3335
+        },
+        "validation": {
+          "loss": 0.6992845227636235,
+          "accuracy": 0.332
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.48951132826727306,
+          "accuracy": 0.9365
+        },
+        "validation": {
+          "loss": 0.48768441195279105,
+          "accuracy": 0.926
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4849632770308053,
+          "accuracy": 0.955
+        },
+        "validation": {
+          "loss": 0.48237337589929064,
+          "accuracy": 0.95
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.48362973339453014,
+          "accuracy": 0.957
+        },
+        "validation": {
+          "loss": 0.4807593747231566,
+          "accuracy": 0.958
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.48354294197255965,
+          "accuracy": 0.9565
+        },
+        "validation": {
+          "loss": 0.4806613827808964,
+          "accuracy": 0.958
+        }
+      }
+    ],
+    "training_seed": 65,
+    "seconds": 66.52634099999887,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      2691,
+      2466,
+      1745,
+      3306
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 13,
+    "R_gates": 24,
+    "elementary_single_qubit_gates": 72,
+    "CRx_gates": 24,
+    "parameters": 96,
+    "generation": 5,
+    "candidate": 4
+  },
+  {
+    "fitness": 0.9576,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.483532780517197,
+        "accuracy": 0.957
+      },
+      "validation": {
+        "loss": 0.4806347141640514,
+        "accuracy": 0.96
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.6676707663878206,
+          "accuracy": 0.734
+        },
+        "validation": {
+          "loss": 0.667456939116989,
+          "accuracy": 0.736
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.48506419271815154,
+          "accuracy": 0.9505
+        },
+        "validation": {
+          "loss": 0.48161737089118356,
+          "accuracy": 0.948
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4835412328181504,
+          "accuracy": 0.9565
+        },
+        "validation": {
+          "loss": 0.4805935168546527,
+          "accuracy": 0.96
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.4835330682039598,
+          "accuracy": 0.957
+        },
+        "validation": {
+          "loss": 0.48061667041899875,
+          "accuracy": 0.96
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.483532780517197,
+          "accuracy": 0.957
+        },
+        "validation": {
+          "loss": 0.4806347141640514,
+          "accuracy": 0.96
+        }
+      }
+    ],
+    "training_seed": 66,
+    "seconds": 65.0950085000004,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      2691,
+      2466,
+      4132,
+      2737
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 13,
+    "R_gates": 24,
+    "elementary_single_qubit_gates": 72,
+    "CRx_gates": 23,
+    "parameters": 95,
+    "generation": 5,
+    "candidate": 5
+  },
+  {
+    "fitness": 0.9468,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.477908544284555,
+        "accuracy": 0.949
+      },
+      "validation": {
+        "loss": 0.47608942446724417,
+        "accuracy": 0.938
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.67773809141129,
+          "accuracy": 0.59
+        },
+        "validation": {
+          "loss": 0.6749767500900846,
+          "accuracy": 0.584
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.4824075423324043,
+          "accuracy": 0.948
+        },
+        "validation": {
+          "loss": 0.47993763177049426,
+          "accuracy": 0.94
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4793544044188335,
+          "accuracy": 0.952
+        },
+        "validation": {
+          "loss": 0.4771307051523107,
+          "accuracy": 0.94
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.47826539457987305,
+          "accuracy": 0.956
+        },
+        "validation": {
+          "loss": 0.4762650385211789,
+          "accuracy": 0.94
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.477908544284555,
+          "accuracy": 0.949
+        },
+        "validation": {
+          "loss": 0.47608942446724417,
+          "accuracy": 0.938
+        }
+      }
+    ],
+    "training_seed": 67,
+    "seconds": 70.61752410000008,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      2691,
+      2466,
+      499,
+      6028
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 13,
+    "R_gates": 27,
+    "elementary_single_qubit_gates": 81,
+    "CRx_gates": 24,
+    "parameters": 105,
+    "generation": 5,
+    "candidate": 6
+  },
+  {
+    "fitness": 0.9572,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.47984290644526284,
+        "accuracy": 0.958
+      },
+      "validation": {
+        "loss": 0.47773095716837755,
+        "accuracy": 0.954
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.655732548585796,
+          "accuracy": 0.62
+        },
+        "validation": {
+          "loss": 0.6532681670149507,
+          "accuracy": 0.63
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.48606586760765974,
+          "accuracy": 0.962
+        },
+        "validation": {
+          "loss": 0.48363452171902616,
+          "accuracy": 0.964
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.48003279348577954,
+          "accuracy": 0.9585
+        },
+        "validation": {
+          "loss": 0.4778969034383683,
+          "accuracy": 0.956
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.47984114905233055,
+          "accuracy": 0.9555
+        },
+        "validation": {
+          "loss": 0.47778899624911275,
+          "accuracy": 0.95
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.47984290644526284,
+          "accuracy": 0.958
+        },
+        "validation": {
+          "loss": 0.47773095716837755,
+          "accuracy": 0.954
+        }
+      }
+    ],
+    "training_seed": 68,
+    "seconds": 62.359561100000064,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      2691,
+      2466,
+      1275,
+      113
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 13,
+    "R_gates": 22,
+    "elementary_single_qubit_gates": 66,
+    "CRx_gates": 27,
+    "parameters": 93,
+    "generation": 5,
+    "candidate": 7
+  },
+  {
+    "fitness": 0.9552,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.47984941854044505,
+        "accuracy": 0.9565
+      },
+      "validation": {
+        "loss": 0.4777671909211439,
+        "accuracy": 0.95
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.6941134811505678,
+          "accuracy": 0.437
+        },
+        "validation": {
+          "loss": 0.694568477537218,
+          "accuracy": 0.444
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.4825841501154849,
+          "accuracy": 0.9575
+        },
+        "validation": {
+          "loss": 0.4799412930672472,
+          "accuracy": 0.96
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4801188013163448,
+          "accuracy": 0.9545
+        },
+        "validation": {
+          "loss": 0.4780209062235517,
+          "accuracy": 0.95
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.4798674906317208,
+          "accuracy": 0.955
+        },
+        "validation": {
+          "loss": 0.4778104118474226,
+          "accuracy": 0.95
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.47984941854044505,
+          "accuracy": 0.9565
+        },
+        "validation": {
+          "loss": 0.4777671909211439,
+          "accuracy": 0.95
+        }
+      }
+    ],
+    "training_seed": 69,
+    "seconds": 65.84208289999879,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      2691,
+      2466,
+      2052,
+      402
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 13,
+    "R_gates": 24,
+    "elementary_single_qubit_gates": 72,
+    "CRx_gates": 25,
+    "parameters": 97,
+    "generation": 5,
+    "candidate": 8
+  },
+  {
+    "fitness": 0.95,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.477737223934053,
+        "accuracy": 0.9525
+      },
+      "validation": {
+        "loss": 0.4759233619907924,
+        "accuracy": 0.94
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7159135093448198,
+          "accuracy": 0.5615
+        },
+        "validation": {
+          "loss": 0.7115671572534181,
+          "accuracy": 0.548
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.48507486010604134,
+          "accuracy": 0.9615
+        },
+        "validation": {
+          "loss": 0.48146090256191726,
+          "accuracy": 0.96
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.47953020621154235,
+          "accuracy": 0.952
+        },
+        "validation": {
+          "loss": 0.4771989089128633,
+          "accuracy": 0.94
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.4780356323383561,
+          "accuracy": 0.956
+        },
+        "validation": {
+          "loss": 0.47608851497936755,
+          "accuracy": 0.944
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.477737223934053,
+          "accuracy": 0.9525
+        },
+        "validation": {
+          "loss": 0.4759233619907924,
+          "accuracy": 0.94
+        }
+      }
+    ],
+    "training_seed": 70,
+    "seconds": 60.75627590000113,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      2691,
+      2466,
+      4033,
+      3810
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 13,
+    "R_gates": 22,
+    "elementary_single_qubit_gates": 66,
+    "CRx_gates": 24,
+    "parameters": 90,
+    "generation": 5,
+    "candidate": 9
+  },
+  {
+    "fitness": 0.9456,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.47749845141569386,
+        "accuracy": 0.948
+      },
+      "validation": {
+        "loss": 0.47576107606205675,
+        "accuracy": 0.936
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7184304050254041,
+          "accuracy": 0.469
+        },
+        "validation": {
+          "loss": 0.7179150070320945,
+          "accuracy": 0.468
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.48050166368337616,
+          "accuracy": 0.9455
+        },
+        "validation": {
+          "loss": 0.4779418860195109,
+          "accuracy": 0.938
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4776095825185397,
+          "accuracy": 0.95
+        },
+        "validation": {
+          "loss": 0.47571336521930596,
+          "accuracy": 0.94
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.47754594691201085,
+          "accuracy": 0.9525
+        },
+        "validation": {
+          "loss": 0.47565865613850794,
+          "accuracy": 0.942
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.47749845141569386,
+          "accuracy": 0.948
+        },
+        "validation": {
+          "loss": 0.47576107606205675,
+          "accuracy": 0.936
+        }
+      }
+    ],
+    "training_seed": 71,
+    "seconds": 61.47243239999989,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      2691,
+      2466,
+      111,
+      4719,
+      681,
+      1697
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 15,
+    "R_gates": 25,
+    "elementary_single_qubit_gates": 75,
+    "CRx_gates": 30,
+    "parameters": 105,
+    "generation": 6,
+    "candidate": 0
+  },
+  {
+    "fitness": 0.9568,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.48354337986600704,
+        "accuracy": 0.9565
+      },
+      "validation": {
+        "loss": 0.4806507487897818,
+        "accuracy": 0.958
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7882642304568754,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.7886112180076416,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.5293545643088668,
+          "accuracy": 0.959
+        },
+        "validation": {
+          "loss": 0.5267888532225282,
+          "accuracy": 0.954
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4844667165910273,
+          "accuracy": 0.956
+        },
+        "validation": {
+          "loss": 0.48177156586580155,
+          "accuracy": 0.956
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.48360017372672964,
+          "accuracy": 0.9565
+        },
+        "validation": {
+          "loss": 0.4807228897431168,
+          "accuracy": 0.958
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.48354337986600704,
+          "accuracy": 0.9565
+        },
+        "validation": {
+          "loss": 0.4806507487897818,
+          "accuracy": 0.958
+        }
+      }
+    ],
+    "training_seed": 72,
+    "seconds": 58.40759520000029,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      2691,
+      2466,
+      111,
+      4719,
+      2345,
+      5081
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 15,
+    "R_gates": 29,
+    "elementary_single_qubit_gates": 87,
+    "CRx_gates": 28,
+    "parameters": 115,
+    "generation": 6,
+    "candidate": 1
+  },
+  {
+    "fitness": 0.9468,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.4774875989362868,
+        "accuracy": 0.949
+      },
+      "validation": {
+        "loss": 0.4757095274823958,
+        "accuracy": 0.938
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7810244185924268,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.7809015356492923,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.479230271669578,
+          "accuracy": 0.9565
+        },
+        "validation": {
+          "loss": 0.477118090832363,
+          "accuracy": 0.956
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4779306408356779,
+          "accuracy": 0.956
+        },
+        "validation": {
+          "loss": 0.47602378205656415,
+          "accuracy": 0.948
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.4775527771330825,
+          "accuracy": 0.9505
+        },
+        "validation": {
+          "loss": 0.47575432984057514,
+          "accuracy": 0.94
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.4774875989362868,
+          "accuracy": 0.949
+        },
+        "validation": {
+          "loss": 0.4757095274823958,
+          "accuracy": 0.938
+        }
+      }
+    ],
+    "training_seed": 73,
+    "seconds": 54.13654900000074,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      2691,
+      2466,
+      111,
+      4719,
+      2065,
+      3161
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 15,
+    "R_gates": 28,
+    "elementary_single_qubit_gates": 84,
+    "CRx_gates": 29,
+    "parameters": 113,
+    "generation": 6,
+    "candidate": 2
+  },
+  {
+    "fitness": 0.948,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.4774694102617016,
+        "accuracy": 0.95
+      },
+      "validation": {
+        "loss": 0.4756662703678763,
+        "accuracy": 0.94
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7727182125006904,
+          "accuracy": 0.469
+        },
+        "validation": {
+          "loss": 0.7750739940824728,
+          "accuracy": 0.468
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.48189920743692666,
+          "accuracy": 0.9505
+        },
+        "validation": {
+          "loss": 0.4793611643894173,
+          "accuracy": 0.946
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.47767520521706663,
+          "accuracy": 0.9515
+        },
+        "validation": {
+          "loss": 0.47566226450290333,
+          "accuracy": 0.942
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.47748980554793674,
+          "accuracy": 0.9475
+        },
+        "validation": {
+          "loss": 0.47568412906544716,
+          "accuracy": 0.936
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.4774694102617016,
+          "accuracy": 0.95
+        },
+        "validation": {
+          "loss": 0.4756662703678763,
+          "accuracy": 0.94
+        }
+      }
+    ],
+    "training_seed": 74,
+    "seconds": 55.69377390000045,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      2691,
+      2466,
+      111,
+      4719,
+      439,
+      3585
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 15,
+    "R_gates": 27,
+    "elementary_single_qubit_gates": 81,
+    "CRx_gates": 30,
+    "parameters": 111,
+    "generation": 6,
+    "candidate": 3
+  },
+  {
+    "fitness": 0.9576,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.48353189927791396,
+        "accuracy": 0.957
+      },
+      "validation": {
+        "loss": 0.4806253926053648,
+        "accuracy": 0.96
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7054811428135478,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.7075580640966239,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.49213877574360426,
+          "accuracy": 0.958
+        },
+        "validation": {
+          "loss": 0.4896883216323968,
+          "accuracy": 0.962
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4835404940304043,
+          "accuracy": 0.957
+        },
+        "validation": {
+          "loss": 0.48063664889136043,
+          "accuracy": 0.96
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.48353242354238646,
+          "accuracy": 0.957
+        },
+        "validation": {
+          "loss": 0.48062200775128217,
+          "accuracy": 0.96
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.48353189927791396,
+          "accuracy": 0.957
+        },
+        "validation": {
+          "loss": 0.4806253926053648,
+          "accuracy": 0.96
+        }
+      }
+    ],
+    "training_seed": 75,
+    "seconds": 50.242015300000276,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      2691,
+      2466,
+      111,
+      4719,
+      2529,
+      481
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 15,
+    "R_gates": 25,
+    "elementary_single_qubit_gates": 75,
+    "CRx_gates": 30,
+    "parameters": 105,
+    "generation": 6,
+    "candidate": 4
+  },
+  {
+    "fitness": 0.9508,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.4777785591665925,
+        "accuracy": 0.953
+      },
+      "validation": {
+        "loss": 0.4759541732052436,
+        "accuracy": 0.942
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.806440037375138,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.8075924161767518,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.48292057102191643,
+          "accuracy": 0.9595
+        },
+        "validation": {
+          "loss": 0.4799786475467658,
+          "accuracy": 0.962
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4813566750314161,
+          "accuracy": 0.9575
+        },
+        "validation": {
+          "loss": 0.47882231330563896,
+          "accuracy": 0.96
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.4785042363454186,
+          "accuracy": 0.956
+        },
+        "validation": {
+          "loss": 0.4765192053578613,
+          "accuracy": 0.948
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.4777785591665925,
+          "accuracy": 0.953
+        },
+        "validation": {
+          "loss": 0.4759541732052436,
+          "accuracy": 0.942
+        }
+      }
+    ],
+    "training_seed": 76,
+    "seconds": 51.312180900000385,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      2691,
+      2466,
+      111,
+      4719,
+      1473,
+      2545
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 15,
+    "R_gates": 26,
+    "elementary_single_qubit_gates": 78,
+    "CRx_gates": 29,
+    "parameters": 107,
+    "generation": 6,
+    "candidate": 5
+  },
+  {
+    "fitness": 0.9484,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.47751008245051174,
+        "accuracy": 0.9505
+      },
+      "validation": {
+        "loss": 0.4756959795754094,
+        "accuracy": 0.94
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7305570559049211,
+          "accuracy": 0.3125
+        },
+        "validation": {
+          "loss": 0.733710307157362,
+          "accuracy": 0.312
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.4779513817976589,
+          "accuracy": 0.956
+        },
+        "validation": {
+          "loss": 0.4760401226263303,
+          "accuracy": 0.948
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4776832162887828,
+          "accuracy": 0.954
+        },
+        "validation": {
+          "loss": 0.4758427589867527,
+          "accuracy": 0.942
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.4775713449424442,
+          "accuracy": 0.951
+        },
+        "validation": {
+          "loss": 0.4757500843760596,
+          "accuracy": 0.94
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.47751008245051174,
+          "accuracy": 0.9505
+        },
+        "validation": {
+          "loss": 0.4756959795754094,
+          "accuracy": 0.94
+        }
+      }
+    ],
+    "training_seed": 77,
+    "seconds": 57.44873000000007,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      2691,
+      2466,
+      111,
+      4719,
+      123,
+      2874
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 15,
+    "R_gates": 28,
+    "elementary_single_qubit_gates": 84,
+    "CRx_gates": 31,
+    "parameters": 115,
+    "generation": 6,
+    "candidate": 6
+  },
+  {
+    "fitness": 0.9536,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.47974010911671666,
+        "accuracy": 0.9545
+      },
+      "validation": {
+        "loss": 0.4777175677392745,
+        "accuracy": 0.95
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.749242770433514,
+          "accuracy": 0.531
+        },
+        "validation": {
+          "loss": 0.7503214162279149,
+          "accuracy": 0.532
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.49592043431141725,
+          "accuracy": 0.9425
+        },
+        "validation": {
+          "loss": 0.4938177696599183,
+          "accuracy": 0.942
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4798638257666232,
+          "accuracy": 0.9535
+        },
+        "validation": {
+          "loss": 0.47790595664760727,
+          "accuracy": 0.944
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.4797588818495215,
+          "accuracy": 0.9565
+        },
+        "validation": {
+          "loss": 0.4777171556054418,
+          "accuracy": 0.95
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.47974010911671666,
+          "accuracy": 0.9545
+        },
+        "validation": {
+          "loss": 0.4777175677392745,
+          "accuracy": 0.95
+        }
+      }
+    ],
+    "training_seed": 78,
+    "seconds": 57.30988979999893,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      2691,
+      2466,
+      111,
+      4719,
+      3457,
+      4647
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 15,
+    "R_gates": 27,
+    "elementary_single_qubit_gates": 81,
+    "CRx_gates": 28,
+    "parameters": 109,
+    "generation": 6,
+    "candidate": 7
+  },
+  {
+    "fitness": 0.948,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.47748654277713637,
+        "accuracy": 0.95
+      },
+      "validation": {
+        "loss": 0.4756923807959946,
+        "accuracy": 0.94
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7384193498044604,
+          "accuracy": 0.469
+        },
+        "validation": {
+          "loss": 0.7367457782947893,
+          "accuracy": 0.468
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.47901723190158485,
+          "accuracy": 0.949
+        },
+        "validation": {
+          "loss": 0.4774350683512032,
+          "accuracy": 0.942
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4774697731244357,
+          "accuracy": 0.949
+        },
+        "validation": {
+          "loss": 0.47570829702606493,
+          "accuracy": 0.938
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.4776080412554775,
+          "accuracy": 0.953
+        },
+        "validation": {
+          "loss": 0.4757581589803085,
+          "accuracy": 0.942
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.47748654277713637,
+          "accuracy": 0.95
+        },
+        "validation": {
+          "loss": 0.4756923807959946,
+          "accuracy": 0.94
+        }
+      }
+    ],
+    "training_seed": 79,
+    "seconds": 49.56043839999984,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      2691,
+      2466,
+      111,
+      4719,
+      4037,
+      4644
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 15,
+    "R_gates": 28,
+    "elementary_single_qubit_gates": 84,
+    "CRx_gates": 28,
+    "parameters": 112,
+    "generation": 6,
+    "candidate": 8
+  },
+  {
+    "fitness": 0.948,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.47747174998926334,
+        "accuracy": 0.95
+      },
+      "validation": {
+        "loss": 0.47567949644894586,
+        "accuracy": 0.94
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.74421960245438,
+          "accuracy": 0.469
+        },
+        "validation": {
+          "loss": 0.7465200644549932,
+          "accuracy": 0.468
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.47912471516434113,
+          "accuracy": 0.945
+        },
+        "validation": {
+          "loss": 0.4769121633347301,
+          "accuracy": 0.936
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.4774883734292599,
+          "accuracy": 0.949
+        },
+        "validation": {
+          "loss": 0.4756668063446469,
+          "accuracy": 0.94
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.4774719818464885,
+          "accuracy": 0.949
+        },
+        "validation": {
+          "loss": 0.47568125828137764,
+          "accuracy": 0.94
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.47747174998926334,
+          "accuracy": 0.95
+        },
+        "validation": {
+          "loss": 0.47567949644894586,
+          "accuracy": 0.94
+        }
+      }
+    ],
+    "training_seed": 80,
+    "seconds": 64.87601829999949,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      5045,
+      3169,
+      1057,
+      598,
+      2691,
+      2466,
+      111,
+      4719,
+      725,
+      3248
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 15,
+    "R_gates": 30,
+    "elementary_single_qubit_gates": 90,
+    "CRx_gates": 30,
+    "parameters": 120,
+    "generation": 6,
+    "candidate": 9
+  }
+]

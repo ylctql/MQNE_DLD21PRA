@@ -1,0 +1,104 @@
+{
+  "task": "spt",
+  "run_type": "MQNE_search",
+  "best": {
+    "fitness": 0.993,
+    "final": {
+      "epoch": 150,
+      "train": {
+        "loss": 0.36584516712441084,
+        "accuracy": 0.99375
+      },
+      "validation": {
+        "loss": 0.3513266087998835,
+        "accuracy": 0.99
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7002548937101278,
+          "accuracy": 0.229375
+        },
+        "validation": {
+          "loss": 0.6996975576168128,
+          "accuracy": 0.2425
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.3683442792363343,
+          "accuracy": 0.999375
+        },
+        "validation": {
+          "loss": 0.3535593914611181,
+          "accuracy": 1.0
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.3659701303001508,
+          "accuracy": 0.99375
+        },
+        "validation": {
+          "loss": 0.35134175169396625,
+          "accuracy": 0.9925
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.36584516712441084,
+          "accuracy": 0.99375
+        },
+        "validation": {
+          "loss": 0.3513266087998835,
+          "accuracy": 0.99
+        }
+      }
+    ],
+    "training_seed": 52,
+    "seconds": 19.49741929999982,
+    "optimizer_updates": 12000,
+    "path_1based": [
+      6687,
+      1313,
+      1426,
+      3112,
+      5413,
+      3619,
+      3302,
+      5420,
+      3651
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 9,
+    "R_gates": 21,
+    "elementary_single_qubit_gates": 63,
+    "CRx_gates": 16,
+    "parameters": 79,
+    "generation": 4,
+    "candidate": 0
+  },
+  "independent_test": {
+    "loss": 0.36554079116707455,
+    "accuracy": 0.992
+  },
+  "seconds": 1581.4671261999993,
+  "circuits_trained": 60,
+  "optimizer_updates": 720000,
+  "protocol": "fixed_v2",
+  "backend": "numba",
+  "source_architecture": null,
+  "library_nonempty": 6687,
+  "environment": {
+    "python": "3.13.6",
+    "torch": "2.11.0+cu128",
+    "numpy": "2.2.6",
+    "device": "cpu",
+    "platform": "Windows-11-10.0.26200-SP0"
+  }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "optimized": false,
+    "exit_code": 1,
+    "exception": "ValueError",
+    "verification_artifacts_written": false,
+    "status": "passed"
+  },
+  {
+    "optimized": true,
+    "exit_code": 1,
+    "exception": "ValueError",
+    "verification_artifacts_written": false,
+    "status": "passed"
+  }
+]

@@ -1,0 +1,8 @@
+# Top-level package versions used in this reproduction.
+# The original runtime's torch build is 2.11.0+cu128; select CUDA wheel as needed.
+numpy==2.2.6
+scipy==1.16.2
+torch==2.11.0
+scikit-learn==1.8.0
+matplotlib==3.10.8
+Pillow==11.3.0

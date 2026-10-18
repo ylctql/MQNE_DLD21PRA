@@ -1,0 +1,1026 @@
+[
+  {
+    "File": "datasets_v2.py",
+    "SHA256": "AF8B54B41E91D97D87C7BFB83E5CFE70765A7AA80A3B4FC01F59DA4DDBAD2244"
+  },
+  {
+    "File": "environment_fixed_v2.json",
+    "SHA256": "7C00BD2C23CF94DD9581B9BC39EF7F890415A9E9DDA661792D7446830C5284B5"
+  },
+  {
+    "File": "FIX_VERIFICATION.log",
+    "SHA256": "6E93F431241F669F72C53E0F7B71785030558341FB563EBB4EFD2A532930B39F"
+  },
+  {
+    "File": "FIXED_SPLIT_AUDIT.json",
+    "SHA256": "5E264C798AD8C74DBCA05E472FCF49F244A41489A0DD71438DB53BC2C770A994"
+  },
+  {
+    "File": "make_fixed_report.py",
+    "SHA256": "F529F866C686032C697222F59DA337C4711A8702468738AF00B0E71CFFDBD79F"
+  },
+  {
+    "File": "mqne.py",
+    "SHA256": "5EFB20E26E32CE65ACE8620567AF25ED9FF44D77FA095A187AA700295D2B5E63"
+  },
+  {
+    "File": "native_backend_primitive.py",
+    "SHA256": "25271DA9470265EE40BAFBE8555E269F021B453CBCEAC76E78EEFB99246C6E23"
+  },
+  {
+    "File": "native_backend.py",
+    "SHA256": "E5CE1692553DE00CEBF87864E40BE5462C7F80A86641182E0B8829AB8061F415"
+  },
+  {
+    "File": "OPTIMIZED_CHECKS.log",
+    "SHA256": "BF1AF67EE69D8BB1B26A31E27F1903E945E26DF5A29F60E4042B951D186237B3"
+  },
+  {
+    "File": "predict.py",
+    "SHA256": "FA06F1DDE6A6BD97663AE922E000F1C8D7F27F749CD4651F938A9097C91CD56D"
+  },
+  {
+    "File": "README.md",
+    "SHA256": "5839A52030261991D22F20532B9A464AA87B9C820F54ACF4A0327AD57D65BF11"
+  },
+  {
+    "File": "REPRODUCTION_FIXED_20261013.md",
+    "SHA256": "5A2E9B48550F779CFE47BF4825F5791563B6ACEC7A8EA7B0CE45862ED861F218"
+  },
+  {
+    "File": "requirements.txt",
+    "SHA256": "3C14B59199BF441D3495A0155A6DA24F7B06471D18C80D51027BBE1FAD1D1DC9"
+  },
+  {
+    "File": "run_reference.py",
+    "SHA256": "408FF2C513D032D77114F6A9E0D8732BEA16479109437004A9049E7748375E80"
+  },
+  {
+    "File": "run.ps1",
+    "SHA256": "EAC30C61A38FD15D22D5390A1904A4DE4B3C61A28E4C32DE9D00F58736A78D62"
+  },
+  {
+    "File": "summarize.py",
+    "SHA256": "C2CC9F40BCFBC7A088CB81D06E97FA670B83C9ABBDFC3F152168BC07412E5E2D"
+  },
+  {
+    "File": "test_fixes.py",
+    "SHA256": "2BDDC39CC2E7CF6ABDC1305E11632B4822F2DB0A61194E2EB3F47719D27CF5B3"
+  },
+  {
+    "File": "test_mqne.py",
+    "SHA256": "A02161545B4AA338DE40BAF8E616BB2F71BE26F89568F779AFECC8815BEDA48A"
+  },
+  {
+    "File": "verify_corruption.py",
+    "SHA256": "14E708F5627DE8D952FDA345D35CEDE101453ACEB6BE4168800597961A0F4471"
+  },
+  {
+    "File": "verify_finished.py",
+    "SHA256": "4321BD06B7B47982A59B99EF6AE455644F99431ED9D697BE604064A375A95026"
+  },
+  {
+    "File": "YAO_MAPPING_CHECK.log",
+    "SHA256": "7A22B163B4201198A6BE51856B5E20D26FBC54DE4F2343BF97ABCFF9F7F36B69"
+  },
+  {
+    "File": "configs/cancer_fixed_minmax.json",
+    "SHA256": "DF3A8DF576729C64A05F1FCB327B645DAC842990106EC8C647D7C9EA2AE16E49"
+  },
+  {
+    "File": "configs/cancer_fixed_paper.json",
+    "SHA256": "A38FD92724F0D37254B2BC29AB24CA27CCC0221C8CC308F044764DF5787E0B01"
+  },
+  {
+    "File": "configs/cancer_yao_minmax.json",
+    "SHA256": "9D885BF2789EB10DE1DD579DA388E8FE6D0BFD02807D496E04D17F7CFE7F6228"
+  },
+  {
+    "File": "configs/mnist_fixed_paper.json",
+    "SHA256": "3BEAA0C9DA13A670D0164605EF9F09199D90BC8F6FD557EAC36DB90D4FD462D8"
+  },
+  {
+    "File": "configs/mnist_yao_paper.json",
+    "SHA256": "B58DBBD40AF83090503503E1DA2E9C347F2860182EE40B874AE5254422672721"
+  },
+  {
+    "File": "configs/spt_fixed_paper.json",
+    "SHA256": "85522AC730EB6A8ED1089A0A14BD8C413E9F9396B2639022D0EFD75B4D981957"
+  },
+  {
+    "File": "configs/spt_fixed_seed22.json",
+    "SHA256": "7D1FE27B20D493FC7708638EA274DB11A62CADCAB24FAC0C146C6007920DF701"
+  },
+  {
+    "File": "data/spt_v2_2500_split20261013.npz",
+    "SHA256": "122E56AB5DFFE145058293F407210FE6A2E9A1CD1DEF29312F58F85EB053DA8D"
+  },
+  {
+    "File": "data/partitions_v2/cancer_20261013.json",
+    "SHA256": "B157172762CAC71E563F9496064A9867CB066AFC453D53851D5BEAB1B74A5932"
+  },
+  {
+    "File": "data/partitions_v2/mnist_20261013.json",
+    "SHA256": "B7B74EE8BEAA7D889B7B412017D5D9A0B635AC3C174015E542BD2641036BB74D"
+  },
+  {
+    "File": "data/partitions_v2/spt_20261013.json",
+    "SHA256": "7F3F5313DA661AF593E5F2A7AB24846F60A0ED6A41F56706BA0A025D5939F3C5"
+  },
+  {
+    "File": "figures/fixed_search_comparison.png",
+    "SHA256": "F7D9C4CE5CDC0BB7E907367F321CF7E9A86F9F5421112381302662EB05004358"
+  },
+  {
+    "File": "figures/mnist_resources_accuracy.png",
+    "SHA256": "2B255F7850BDB5520BFA85D18CF1B2624CFBA0C36076FCE3D0069591A584ECDB"
+  },
+  {
+    "File": "figures/spt_phase_predictions.png",
+    "SHA256": "3C7D289DE69D61BBE6ABCD2C9B7E0CF777FAD6BC29D10587A094DE7207CB4D08"
+  },
+  {
+    "File": "figures/spt_test_errors.json",
+    "SHA256": "754B2B873061D8D0C4C6BF75F6406A0C1155B8AF922D4ED7886CF0507484C68E"
+  },
+  {
+    "File": "figures/paper/SI-6.png",
+    "SHA256": "1F227DBE8F316F2CA5B95F85E04FA0DB50A160094C5141AE84E476CF6C9B94AA"
+  },
+  {
+    "File": "fix_evidence_20261013/cancer_fixed_minmax_seed21_restored.log",
+    "SHA256": "AA6D6C1E99C94442CC9FA36127203F5160432E279924FBEDCEB699FAE4E58795"
+  },
+  {
+    "File": "fix_evidence_20261013/cancer_fixed_paper_seed21_restored.log",
+    "SHA256": "55953C1C9915D156B7C1D23B44D2908B991A4973AD67A93063B58F6B008246F1"
+  },
+  {
+    "File": "fix_evidence_20261013/cancer_yao_minmax_seed21_restored.log",
+    "SHA256": "A3805A3DBBC5DFFD245449C6F801B626EB3C19D63F4353E1846C3E1C9F107173"
+  },
+  {
+    "File": "fix_evidence_20261013/corrupted_record_normal.log",
+    "SHA256": "C8049212A6EFFA5BD91934D4E0C717D496C4D2C92DA5B343E192D66076DF647E"
+  },
+  {
+    "File": "fix_evidence_20261013/corrupted_record_optimized.log",
+    "SHA256": "C8049212A6EFFA5BD91934D4E0C717D496C4D2C92DA5B343E192D66076DF647E"
+  },
+  {
+    "File": "fix_evidence_20261013/corruption_regression.json",
+    "SHA256": "8B33AF423C46EC69A7DBA5B30439F95780045CB008374F77C3852986B1028655"
+  },
+  {
+    "File": "fix_evidence_20261013/final_source_sha256.json",
+    "SHA256": "2BF74D368092CE311DA79A4CA653FE8AE68611F32B3940602B8D912CA42B41CF"
+  },
+  {
+    "File": "fix_evidence_20261013/finished_result_checks.json",
+    "SHA256": "AD0BCBC7DB427CE1337361F03D994615C98CABFBC46665AFC880A5DDB3D92046"
+  },
+  {
+    "File": "fix_evidence_20261013/mnist_brickwork10_yao_seed21_restored.log",
+    "SHA256": "D2DFF487246E93A635028B54FC3C7E9F828058EF02365C275DCE9D2D99975E05"
+  },
+  {
+    "File": "fix_evidence_20261013/mnist_fixed_fused_seed21_restored.log",
+    "SHA256": "160940DDB498B49B9F065107FE83AB8FB9A23939CF58B8C6C4A8E67D4EC8394F"
+  },
+  {
+    "File": "fix_evidence_20261013/mnist_paper_s11_seed21_restored.log",
+    "SHA256": "25D00D93CC099631B0D294F01FF9F741F6B627DAA111B7CCE08604FEF59AE10D"
+  },
+  {
+    "File": "fix_evidence_20261013/mnist_paper_s11_yao_seed21_restored.log",
+    "SHA256": "416C5853A8D82993C78CE0C087522A1B3E0D00C555D85CBAD95D41982802A897"
+  },
+  {
+    "File": "fix_evidence_20261013/mnist_paper_s11_yao_seed22_restored.log",
+    "SHA256": "C0792B08456E7F1BA4B36B129562E7738332C5B443F7620C6247BD844153C196"
+  },
+  {
+    "File": "fix_evidence_20261013/mnist_paper_s11_yao_seed23_restored.log",
+    "SHA256": "C6DDA3A90A1DC63B06D28B8602D7C46EFDA5F8EE5BB4EA6B06D585B600AA01D4"
+  },
+  {
+    "File": "fix_evidence_20261013/mnist_yao_search_seed21_restored.log",
+    "SHA256": "AA4C76AF1926F12E7AA53CABFC78010FA26C9FCAC4ADB04BFB12389166DFA7C7"
+  },
+  {
+    "File": "fix_evidence_20261013/spt_fixed_fused_seed21_restored.log",
+    "SHA256": "05287ECEFD613CBF8E6BFD7121BE5F201165B3F0579D799621C6B6305B4952BF"
+  },
+  {
+    "File": "fix_evidence_20261013/spt_fixed_seed22_restored.log",
+    "SHA256": "C39A383F30218A9AAE6729130EB5750120C8C12565A13EC36F323DCF46FB5503"
+  },
+  {
+    "File": "fix_evidence_20261013/spt_legacy_control_fixed_seed21_restored.log",
+    "SHA256": "3FEFDC12D5968D6CE076DF58EBF3FEE40C150E1437B1E1CBA40342ED4EBAF305"
+  },
+  {
+    "File": "fix_evidence_20261013/spt_state_checks.json",
+    "SHA256": "4387CE5CE5A222879F66F036C26AF29E420E248E0BCE1B325C06C2872D0F3CC2"
+  },
+  {
+    "File": "logs/cancer_fixed_minmax.log",
+    "SHA256": "7EC53C8D427E441FA5AD04CAF2904185140388863298CA68811B359E2E0DB8E3"
+  },
+  {
+    "File": "logs/cancer_fixed_paper.log",
+    "SHA256": "E546FC3720F60169148AC8ADEC141986ACDCD3ADE0752418034D528622E8FA0D"
+  },
+  {
+    "File": "logs/cancer_yao_minmax.log",
+    "SHA256": "F7A993FF61FAB30301EF0ADF13E273870A0715A23044DC8BCDD0E8F6433AD068"
+  },
+  {
+    "File": "logs/corruption_check.log",
+    "SHA256": "4AB79D146AB780758D5A2E0BFC4201C05E3A40DE55931AA1135E2FBE0081B35B"
+  },
+  {
+    "File": "logs/mnist_brickwork10_yao_seed21.log",
+    "SHA256": "A2EA8553A86DFB086F3AD6792104193D743F0698D73B9DA70F94712A6C7667C8"
+  },
+  {
+    "File": "logs/mnist_fixed_fused.log",
+    "SHA256": "E9E198FB5C571170626A9C67E30E1DD9C3771783B180C99F277A046A53AFC053"
+  },
+  {
+    "File": "logs/mnist_fixed_paper.log",
+    "SHA256": "5DF13489D770AACF3EDE12F2E6B24459F1A5CAD65A2E606D081E9F71F1D698B9"
+  },
+  {
+    "File": "logs/mnist_paper_s11_seed21.log",
+    "SHA256": "1DFD72865FBEDA98F0622AE12C5B9A7460AD210060B5D9CE5826E97DFA6F765E"
+  },
+  {
+    "File": "logs/mnist_paper_s11_yao_seed21.log",
+    "SHA256": "6180ABA2CCD1621E59CBBDACEC05AD23E99C403FC2A6A73B96D1FC6CD2917018"
+  },
+  {
+    "File": "logs/mnist_paper_s11_yao_seed22.log",
+    "SHA256": "C44868EFCF6BA2A36547FBFAB20FC1E9D29778EDD63630DA03467DB3B7917C01"
+  },
+  {
+    "File": "logs/mnist_paper_s11_yao_seed23.log",
+    "SHA256": "38A70A61561C20C5E46FDD0C8A0F29E28C77DC5D364AB015B11A0555021A63FD"
+  },
+  {
+    "File": "logs/mnist_yao_search.log",
+    "SHA256": "B8E2DB95F1EAF1951AF29180E1F18A13C1620AA08F66A3D7736D6F4E37A5FBEF"
+  },
+  {
+    "File": "logs/report_generation.log",
+    "SHA256": "3093D9D38D1C8AE6FF00715F93F657BB3310BC380F28EA360DB1D8BB2487C2C5"
+  },
+  {
+    "File": "logs/restore_checks_final.log",
+    "SHA256": "9A009B8EEDD9E201FEB30CB9560095FD6AF7012E84174E9CF2791358B2E00BC3"
+  },
+  {
+    "File": "logs/restore_checks.log",
+    "SHA256": "F56EA3CC089F7A269AAF9963BF2D46265ABCA40DDAC9EFE406FD47A7A917A22D"
+  },
+  {
+    "File": "logs/spt_fixed_fused.log",
+    "SHA256": "0D58FB9AA790C5553580E8E9222651569D58E868410B8FE5FD596AB32080D320"
+  },
+  {
+    "File": "logs/spt_fixed_paper.log",
+    "SHA256": "C571CA883360006FEC392B9A0A170A20D21B740092F6C41493176CEDEEA7E2A8"
+  },
+  {
+    "File": "logs/spt_fixed_seed22.log",
+    "SHA256": "7CA3766E6084D2D6AE255FFBFED5E9022977C685B97094FD1038D0170DE42C12"
+  },
+  {
+    "File": "logs/spt_legacy_control_fixed.log",
+    "SHA256": "B45A20AC38C2B7522EFDBD5255DA01DA8E21914E041632EF7799DD349FCD1D02"
+  },
+  {
+    "File": "references/spt_legacy_control.json",
+    "SHA256": "2CCA0915643C61E200497B5E832BE38AAAF888DEFB1552BB01789A97C2681D81"
+  },
+  {
+    "File": "results/fixed_run_index.json",
+    "SHA256": "E161B6B056DBA096265B957CAF2DEEE7751862FE7924A6E62D5E5BB827BEB9B9"
+  },
+  {
+    "File": "results/cancer_fixed_minmax_seed21/best_circuit.json",
+    "SHA256": "80975AA04AB2EBB7E2A7E66F2D837DB384773EC625C28A97A73B1D5194D58FEC"
+  },
+  {
+    "File": "results/cancer_fixed_minmax_seed21/best_parameters.pt",
+    "SHA256": "A95F8DDB88A3D4A3FE9800CBE002306F1FB7781FFDA94A443FC523E5A24C6D1E"
+  },
+  {
+    "File": "results/cancer_fixed_minmax_seed21/candidates.json",
+    "SHA256": "14B1901B80232AB2F88C8AE9E704544FE76101443AA184FA50A8A192D6CFF67F"
+  },
+  {
+    "File": "results/cancer_fixed_minmax_seed21/circuit.png",
+    "SHA256": "42AFEF683CB264A27CE2DB383B23F83CEC3BA196519F74236FD7CFAFA0384257"
+  },
+  {
+    "File": "results/cancer_fixed_minmax_seed21/config.json",
+    "SHA256": "DF3A8DF576729C64A05F1FCB327B645DAC842990106EC8C647D7C9EA2AE16E49"
+  },
+  {
+    "File": "results/cancer_fixed_minmax_seed21/data_manifest.json",
+    "SHA256": "897FE61A4116456DDC395351AD90731308906F9FB27FC2F15832A8487144BE4D"
+  },
+  {
+    "File": "results/cancer_fixed_minmax_seed21/fitness.png",
+    "SHA256": "34666630352913808FE42625F6F9D0743CAD542DE95BCBC1E52E83D1D9563AAD"
+  },
+  {
+    "File": "results/cancer_fixed_minmax_seed21/restored_verification.json",
+    "SHA256": "323098E96019F700404C5F24A7921A2A14D2E1E12DA23C2C6030C539E2F1FEB6"
+  },
+  {
+    "File": "results/cancer_fixed_minmax_seed21/summary.json",
+    "SHA256": "440E0B6F519DC6016B73BE0C0D67E482AE8ED843A8D8806B0D65737FC31DBB0B"
+  },
+  {
+    "File": "results/cancer_fixed_minmax_seed21/train_predictions.csv",
+    "SHA256": "A43A8C41F96657D86C26B505207CA5D0040A38EF369050804191DE605B945C63"
+  },
+  {
+    "File": "results/cancer_fixed_minmax_seed21/training.png",
+    "SHA256": "C96B0F9DFBA2FEBBBA859751E0135F3043C0BAC91107F0A596D98E7950F899CE"
+  },
+  {
+    "File": "results/cancer_fixed_minmax_seed21/validation_predictions.csv",
+    "SHA256": "0DCFFB50F2E555D424395421B273E48392B07DB4A581A2E064A8F5D74F6F3D9D"
+  },
+  {
+    "File": "results/cancer_fixed_paper_seed21/best_circuit.json",
+    "SHA256": "491C0766D78F6CC16D15B525B18F21009CB11FEFA43FC50DB0212D40839E8598"
+  },
+  {
+    "File": "results/cancer_fixed_paper_seed21/best_parameters.pt",
+    "SHA256": "8C4EC4C474912A3865281F529D95949199ADF079A28D9F42081E1256C4CEBB85"
+  },
+  {
+    "File": "results/cancer_fixed_paper_seed21/candidates.json",
+    "SHA256": "4CFD149425A7D101A59FEFE6D887C9B2073A43F7AA674975CB530BBB9F43FF9A"
+  },
+  {
+    "File": "results/cancer_fixed_paper_seed21/circuit.png",
+    "SHA256": "2A2B5AD44D9E542BF3B6DB16F5632D31383D66AB4D41717FA081B9C813541F7E"
+  },
+  {
+    "File": "results/cancer_fixed_paper_seed21/config.json",
+    "SHA256": "A38FD92724F0D37254B2BC29AB24CA27CCC0221C8CC308F044764DF5787E0B01"
+  },
+  {
+    "File": "results/cancer_fixed_paper_seed21/data_manifest.json",
+    "SHA256": "B4DBFAD53BDC1F8B9D111CEEAE9C713AF620C9F19E76B947A581E08C966696BC"
+  },
+  {
+    "File": "results/cancer_fixed_paper_seed21/fitness.png",
+    "SHA256": "027A3A432F43173046D7B4D13D1506E851641B64CD413FA38F7EC68BCB6E06EB"
+  },
+  {
+    "File": "results/cancer_fixed_paper_seed21/restored_verification.json",
+    "SHA256": "F22429CDE736E58C531C2A1FB6EF8C10CBFFD7D5B23BA51C9CE1EF4CBB5DB4CD"
+  },
+  {
+    "File": "results/cancer_fixed_paper_seed21/summary.json",
+    "SHA256": "D25748E7B1DE5080582D74504367B2C11C8348E225C4974A802E9593CC06D77D"
+  },
+  {
+    "File": "results/cancer_fixed_paper_seed21/train_predictions.csv",
+    "SHA256": "27D03A89EC6E8E4242124A570C83D4515CFE2C5AA4FD91397B3E1FB47708C63E"
+  },
+  {
+    "File": "results/cancer_fixed_paper_seed21/training.png",
+    "SHA256": "FA7C17B5F1DF138ABED7EF782F8966C7D5707EE65C3CCF424608A63266F22F55"
+  },
+  {
+    "File": "results/cancer_fixed_paper_seed21/validation_predictions.csv",
+    "SHA256": "6B499F99947AD2CE73CA07EE0282C04AFA15ABFACFD08670C048D5AE24D7C331"
+  },
+  {
+    "File": "results/cancer_yao_minmax_seed21/best_circuit.json",
+    "SHA256": "4A9D458F1323744CFC0421165AF88B2A87A15166BFEC90732E6E44D6D5E93D1E"
+  },
+  {
+    "File": "results/cancer_yao_minmax_seed21/best_parameters.pt",
+    "SHA256": "BDCE48C1EFB0A243289D17F9CF4B676638D82B84826F8413FA1162947E9BD4E8"
+  },
+  {
+    "File": "results/cancer_yao_minmax_seed21/candidates.json",
+    "SHA256": "586614269080CC32932549C350730E67E647C3FBC558A2FE53834DEC3C5CB999"
+  },
+  {
+    "File": "results/cancer_yao_minmax_seed21/circuit.png",
+    "SHA256": "95948826983417A7855C6C3AB72B1B37413D8AD499AA60BEB87CE105AA96E77F"
+  },
+  {
+    "File": "results/cancer_yao_minmax_seed21/config.json",
+    "SHA256": "9D885BF2789EB10DE1DD579DA388E8FE6D0BFD02807D496E04D17F7CFE7F6228"
+  },
+  {
+    "File": "results/cancer_yao_minmax_seed21/data_manifest.json",
+    "SHA256": "5348904FB5C3FC14D41B9BEB1AFAD18FA553120599DD3B78EF16E0A09CE30920"
+  },
+  {
+    "File": "results/cancer_yao_minmax_seed21/fitness.png",
+    "SHA256": "79790465F8D17633CDA562A75B36D4B974E2EC2E9E71032D14F080550C006161"
+  },
+  {
+    "File": "results/cancer_yao_minmax_seed21/restored_verification.json",
+    "SHA256": "BD42684E098C9BBE53ED242667D4279FC61CCCCADC97351FF46FE53E0BA7AB85"
+  },
+  {
+    "File": "results/cancer_yao_minmax_seed21/summary.json",
+    "SHA256": "027AADFC1449452F95A322B305DCA1DDE92382264723B0B40AD418368E099386"
+  },
+  {
+    "File": "results/cancer_yao_minmax_seed21/train_predictions.csv",
+    "SHA256": "6B9D238E268AD3FD56A8DBEF143AE3FB8D8098FF5FC8211852FDBCC994E69AFB"
+  },
+  {
+    "File": "results/cancer_yao_minmax_seed21/training.png",
+    "SHA256": "B81EF23DFE6B42FBD691582273CB1A42179101F27B9507DA8AE5C294F6B7F1A4"
+  },
+  {
+    "File": "results/cancer_yao_minmax_seed21/validation_predictions.csv",
+    "SHA256": "0B3D4990FC910F284B28277BE32E98FBA3CBC62BF0CC3CE2BE38B241B22C5E25"
+  },
+  {
+    "File": "results/mnist_brickwork10_yao_seed21/best_circuit.json",
+    "SHA256": "C4C8345BED178E682392FCCDA232136FEFE0086DFBDD137276B0CD2794CD95E0"
+  },
+  {
+    "File": "results/mnist_brickwork10_yao_seed21/best_parameters.pt",
+    "SHA256": "1641D4E84B78DA51FDB590E81F53A05A7C35493D6615412A5DA0E84098A0E82F"
+  },
+  {
+    "File": "results/mnist_brickwork10_yao_seed21/candidates.json",
+    "SHA256": "F0B33B7C1890086F751DA22D31E9766690A7730A6511CB4FA2874E6E58F37E50"
+  },
+  {
+    "File": "results/mnist_brickwork10_yao_seed21/circuit.png",
+    "SHA256": "CAADC200965088BA5310C869DE92062809A88D71640F092A2F0D5238D800B702"
+  },
+  {
+    "File": "results/mnist_brickwork10_yao_seed21/config.json",
+    "SHA256": "B58DBBD40AF83090503503E1DA2E9C347F2860182EE40B874AE5254422672721"
+  },
+  {
+    "File": "results/mnist_brickwork10_yao_seed21/data_manifest.json",
+    "SHA256": "DA741319F4183963A019F10CE9A1D5A7BF219B0CCB590F9A16D3A10815B2A648"
+  },
+  {
+    "File": "results/mnist_brickwork10_yao_seed21/fitness.png",
+    "SHA256": "76A0E9929896EDDABB9961B5C4B15DE81D2FC97FF4258D70371732A8F0245D53"
+  },
+  {
+    "File": "results/mnist_brickwork10_yao_seed21/restored_verification.json",
+    "SHA256": "2BD1337287CCA6BD15BCBF3637DBC2CE6393B464F60924054193F58B1A600098"
+  },
+  {
+    "File": "results/mnist_brickwork10_yao_seed21/summary.json",
+    "SHA256": "D6B976F4C0AF7598CB26466709D1D8689019EE3406DCDAAD330FB5FA41833E31"
+  },
+  {
+    "File": "results/mnist_brickwork10_yao_seed21/test_predictions.csv",
+    "SHA256": "2C4F160A2C87BC75A853EC60CD5552D8B77DFE7B22466FA158F8DDA134A541AA"
+  },
+  {
+    "File": "results/mnist_brickwork10_yao_seed21/train_predictions.csv",
+    "SHA256": "D8DA672EE2877484243120F1A6C6EE4570A84EC440A576BB9DD8AA7386340B61"
+  },
+  {
+    "File": "results/mnist_brickwork10_yao_seed21/training.png",
+    "SHA256": "A83AA185106EA1D58B3BB043242B13B0233F77189B01E8695AA05D8A5672147B"
+  },
+  {
+    "File": "results/mnist_brickwork10_yao_seed21/validation_predictions.csv",
+    "SHA256": "2B5FD756BF31C56E873EB251731648635DCA750769499B0D207EBC582115E57E"
+  },
+  {
+    "File": "results/mnist_fixed_fused_seed21/best_circuit.json",
+    "SHA256": "53FA7F2775639C778621A78F3A0A37B0844966EEE1CA82B9A7DFA42DAC0C7AE2"
+  },
+  {
+    "File": "results/mnist_fixed_fused_seed21/best_parameters.pt",
+    "SHA256": "82E19D4D1CD27EFD0B84A2253F8B79D11F1B1E2FD88AE0852E7618E75D5A26DC"
+  },
+  {
+    "File": "results/mnist_fixed_fused_seed21/candidates.json",
+    "SHA256": "6968BC80BBBC6454F861FF90B6FD5FCB0AF1ECB1BDA30C1212FCBA975EC93878"
+  },
+  {
+    "File": "results/mnist_fixed_fused_seed21/circuit.png",
+    "SHA256": "67E421BF2FBCE461178F35FAB5D8A3F67D4D5625B81E8EAF24088407DDE74ECB"
+  },
+  {
+    "File": "results/mnist_fixed_fused_seed21/config.json",
+    "SHA256": "3BEAA0C9DA13A670D0164605EF9F09199D90BC8F6FD557EAC36DB90D4FD462D8"
+  },
+  {
+    "File": "results/mnist_fixed_fused_seed21/data_manifest.json",
+    "SHA256": "52F2FDC4E8E7403E3EDA0CD3EBE951FB407709E49F99F65054293D74CF2BD908"
+  },
+  {
+    "File": "results/mnist_fixed_fused_seed21/fitness.png",
+    "SHA256": "D45CC565AB23AAFA4009134D035EC04F8FAFC7231929E109B48ACA48A321AE7C"
+  },
+  {
+    "File": "results/mnist_fixed_fused_seed21/restored_verification.json",
+    "SHA256": "B2E9042D4972472D2B2CE24E630D354000D733BC9627D85A1182D588FEC64ECD"
+  },
+  {
+    "File": "results/mnist_fixed_fused_seed21/summary.json",
+    "SHA256": "D94DF77873EC82A092FF30AF3E154AA28B6FAAC1F2A4E9B6A7D05626F43EF383"
+  },
+  {
+    "File": "results/mnist_fixed_fused_seed21/test_predictions.csv",
+    "SHA256": "FE4662FDB735FB1CDE47A96AD4F5AACFF8E5F36F3791EAE8428333A94231CAC7"
+  },
+  {
+    "File": "results/mnist_fixed_fused_seed21/train_predictions.csv",
+    "SHA256": "0AEE443F105F784E7AF1F39A47A4C910134ED47F6E372112BA1328CBF3AF0A2A"
+  },
+  {
+    "File": "results/mnist_fixed_fused_seed21/training.png",
+    "SHA256": "1BE12C186AB959FB79FDBCFE44BACCB29D4D9EA2BC692235B94EF159167B481E"
+  },
+  {
+    "File": "results/mnist_fixed_fused_seed21/validation_predictions.csv",
+    "SHA256": "AB9D59AF238536863D8E9C8D3C89A94DAF2801213CAAD4B1781FB33BD307F7D3"
+  },
+  {
+    "File": "results/mnist_fixed_paper_seed21/best_circuit.json",
+    "SHA256": "3DEF70ADF2867B2B6A0820D4E472D3F951EB42347C7B28C4E38C0D470CFE5009"
+  },
+  {
+    "File": "results/mnist_fixed_paper_seed21/best_parameters.pt",
+    "SHA256": "DD58677EE730B4035E18A073313CDAB3C3DCBBE071BB996022A8D9901BFA444E"
+  },
+  {
+    "File": "results/mnist_fixed_paper_seed21/candidates.json",
+    "SHA256": "7E24FCDC2CCAAFC529E7CF089A7F58E3F5581CAA690F2D62EDB4FC8D4132C8A9"
+  },
+  {
+    "File": "results/mnist_fixed_paper_seed21/config.json",
+    "SHA256": "3BEAA0C9DA13A670D0164605EF9F09199D90BC8F6FD557EAC36DB90D4FD462D8"
+  },
+  {
+    "File": "results/mnist_fixed_paper_seed21/data_manifest.json",
+    "SHA256": "52F2FDC4E8E7403E3EDA0CD3EBE951FB407709E49F99F65054293D74CF2BD908"
+  },
+  {
+    "File": "results/mnist_paper_s11_seed21/best_circuit.json",
+    "SHA256": "27162E00FA749681987AD917FAB7638BB2E26E628ACAD1C2B3573F4808E2D58C"
+  },
+  {
+    "File": "results/mnist_paper_s11_seed21/best_parameters.pt",
+    "SHA256": "7F70B2309777ED4FC9E284ECED760B35EFF3B4A22AFEB33D5EAE5CD6AFF41678"
+  },
+  {
+    "File": "results/mnist_paper_s11_seed21/candidates.json",
+    "SHA256": "52CDAD585BEEDB8D3962A4431DEC68997F0BC45205DACCC6FC5CA90528F6E962"
+  },
+  {
+    "File": "results/mnist_paper_s11_seed21/circuit.png",
+    "SHA256": "371D2512484C596436B60C4D46ABEBEAC293F97A31754560328FC714AFD9D8D5"
+  },
+  {
+    "File": "results/mnist_paper_s11_seed21/config.json",
+    "SHA256": "3BEAA0C9DA13A670D0164605EF9F09199D90BC8F6FD557EAC36DB90D4FD462D8"
+  },
+  {
+    "File": "results/mnist_paper_s11_seed21/data_manifest.json",
+    "SHA256": "52F2FDC4E8E7403E3EDA0CD3EBE951FB407709E49F99F65054293D74CF2BD908"
+  },
+  {
+    "File": "results/mnist_paper_s11_seed21/fitness.png",
+    "SHA256": "E372BA80185E43736DC5E244E9B512CD23CC3EE38AAC044E4B8924BA7BAD8389"
+  },
+  {
+    "File": "results/mnist_paper_s11_seed21/restored_verification.json",
+    "SHA256": "3769EB37FDA4B5D5007756FDC07E9D178AAC52975F51782E7C9501B7AB295D5C"
+  },
+  {
+    "File": "results/mnist_paper_s11_seed21/summary.json",
+    "SHA256": "6C61D96EE4D049E0A927220F973785B9BDE5969FF1626DAB1294A696CF948C7E"
+  },
+  {
+    "File": "results/mnist_paper_s11_seed21/test_predictions.csv",
+    "SHA256": "9DEE1F78E13127F2AE6D38DA706ACED33024ED75FB9CD70DCFBD2C403F740427"
+  },
+  {
+    "File": "results/mnist_paper_s11_seed21/train_predictions.csv",
+    "SHA256": "0C77B7F9796373A177D14B3E66DF096A11BA54E7CD4CE4F72E01D425CC1DCCE2"
+  },
+  {
+    "File": "results/mnist_paper_s11_seed21/training.png",
+    "SHA256": "A6EADDE8FCFE7DB9A082FC62A670B74785C11F6AAC04DD775222ABF28B0AC5DD"
+  },
+  {
+    "File": "results/mnist_paper_s11_seed21/validation_predictions.csv",
+    "SHA256": "7135C8F2ACE8E683EC203CCF2D905F11385452717F823845977CD821F4F3501D"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed21/best_circuit.json",
+    "SHA256": "BD6F061B661E79700E05A5D62C0D0519C63D96F9F679BCBC123840DBBB8626B7"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed21/best_parameters.pt",
+    "SHA256": "3C32DB80A8D43A8029FD836F4DED6B2B2B0E313949B39409C7C95B540C335B40"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed21/candidates.json",
+    "SHA256": "98DC0B8C8231856FB989246318853C0072F593A6544AF636C0132E2DB3E0ED93"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed21/circuit.png",
+    "SHA256": "371D2512484C596436B60C4D46ABEBEAC293F97A31754560328FC714AFD9D8D5"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed21/config.json",
+    "SHA256": "B58DBBD40AF83090503503E1DA2E9C347F2860182EE40B874AE5254422672721"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed21/data_manifest.json",
+    "SHA256": "DA741319F4183963A019F10CE9A1D5A7BF219B0CCB590F9A16D3A10815B2A648"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed21/fitness.png",
+    "SHA256": "2B7A633EBF93E158ED4D0261A6763D07C610861DB054696F12E24B9F77B0DC10"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed21/restored_verification.json",
+    "SHA256": "45C524C66BCE35D166B1C481400C58656FF72BEF74D4C472212EF34D2E0AF919"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed21/summary.json",
+    "SHA256": "F145A6C1C3952245CA9D720C1D94F0D086BE18C431AFE9CDCAC35FEBDF5FAA54"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed21/test_predictions.csv",
+    "SHA256": "6E9D26249D79979AD31685A71B4B153A68032275F9FCF6A036E5EB2A86A71CA5"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed21/train_predictions.csv",
+    "SHA256": "3D301531B1090E0E3689D634E3B9100CC2793C4966CD56ED2EECF4E25E65140B"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed21/training.png",
+    "SHA256": "8AEF59305CEDF7328B86508B913CB644D5D3617337D840B0FCF467F791E3BB8A"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed21/validation_predictions.csv",
+    "SHA256": "7C026C857E3148A41A0CE3C0DF0D08DFACAD19138FECE987535A96552F6FF057"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed22/best_circuit.json",
+    "SHA256": "5ED899CC7623659C484D80B3CC308A14F98E801455CC38A25EE9AACA1A499AC6"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed22/best_parameters.pt",
+    "SHA256": "BD5FF23A7297E2F74130ABD89F7ABEB4D3E76BAA5CBE539A802ADCDBA1CC85C4"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed22/candidates.json",
+    "SHA256": "036EA8A24D04001BB9C1F68DEF24644EB2EC09781B6C9EB16E89624166BB47A7"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed22/circuit.png",
+    "SHA256": "371D2512484C596436B60C4D46ABEBEAC293F97A31754560328FC714AFD9D8D5"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed22/config.json",
+    "SHA256": "43C40F6C40BD3A1C32BD70931CCD970A03B5FE20AABA0F9ACF0FF1A308070859"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed22/data_manifest.json",
+    "SHA256": "DA741319F4183963A019F10CE9A1D5A7BF219B0CCB590F9A16D3A10815B2A648"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed22/fitness.png",
+    "SHA256": "0FAF25F2FEB03DAA09CB1E93BF6F1922C6597C8E038AFCB87C7BF4B6CF8591B3"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed22/restored_verification.json",
+    "SHA256": "890547611244BA6599C54DA443DDC7FC7ADD6C130F7784D20ED06C45040541C1"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed22/summary.json",
+    "SHA256": "CA4F029C11C8BF2171847BF309F7A86EC4C968801270146FC5293CA3007157A9"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed22/test_predictions.csv",
+    "SHA256": "82688835AA0FD789F0307953120A5508BD8F2AFE74F923BE9F0243EFF3748C2A"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed22/train_predictions.csv",
+    "SHA256": "A202C372DEA0A32E0A2267AAFBD67CD344287E781E9F322C49DBFE6C2E6D8C41"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed22/training.png",
+    "SHA256": "A334EBF0121BB0C3DB95E7989E7E7C3663850CE9B6D433CDFD30A607EA79AFF7"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed22/validation_predictions.csv",
+    "SHA256": "1158F7C8D5A95976B22FCCF29179E5703BF3A7FB45EECCB7A71C1A5DFB986028"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed23/best_circuit.json",
+    "SHA256": "541140E6853506F0A6C733B07310A5C6D8F3B11D1067746741AAE4AC5BEA9764"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed23/best_parameters.pt",
+    "SHA256": "4775BECD547E2BE83957BA348CA1C6DF20D34A781D07DBF5F88AFA94EC474A68"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed23/candidates.json",
+    "SHA256": "CECD9CC46298C6CBDD8667A582B3A32619E58DE43BB3BC12B621688F1F260B3A"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed23/circuit.png",
+    "SHA256": "371D2512484C596436B60C4D46ABEBEAC293F97A31754560328FC714AFD9D8D5"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed23/config.json",
+    "SHA256": "D2169D11A4A6CFC57C64102AEAE655B43FA6752774146ECE1B4615C1A1A61CDE"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed23/data_manifest.json",
+    "SHA256": "DA741319F4183963A019F10CE9A1D5A7BF219B0CCB590F9A16D3A10815B2A648"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed23/fitness.png",
+    "SHA256": "7E23EB4EC260BD384081A99F15ACEBB4B8FAECFF49DC0284CD10F2AE6A678023"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed23/restored_verification.json",
+    "SHA256": "95D57D8CEBAA268DF9409D4F1F2CC747C1628FE645A6D3844F76F93EA7FA3F41"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed23/summary.json",
+    "SHA256": "08BE480B33C3543FC130B984623DB8BA8265BA7354D0FC5054F8B021FE9952E3"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed23/test_predictions.csv",
+    "SHA256": "444A122712CA58C20EBFB58BC0DC1362626C478DE710E68D0FDE3C084EF8BA0D"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed23/train_predictions.csv",
+    "SHA256": "49901DB467B26A4D5BC4D77C52EFB6D12F7E60F991FBBE95277B628C170742B6"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed23/training.png",
+    "SHA256": "4AA33FF7E5E22449CD10D4FCFF00C40B567C9E68AA88FD6D75A844D5285D156E"
+  },
+  {
+    "File": "results/mnist_paper_s11_yao_seed23/validation_predictions.csv",
+    "SHA256": "5384F21D11F28A85216314D6F9947E951B6E492021F7A3231B502F5B81FD4FEF"
+  },
+  {
+    "File": "results/mnist_yao_search_seed21/best_circuit.json",
+    "SHA256": "D358602085B3238887B08A6324CBBEA9823BC51AA02403789E39F10C53B9E210"
+  },
+  {
+    "File": "results/mnist_yao_search_seed21/best_parameters.pt",
+    "SHA256": "84D4B38E2D0B3ECABDBF4E537BE8F12303005E6BE46576CC28121B18838B2B42"
+  },
+  {
+    "File": "results/mnist_yao_search_seed21/candidates.json",
+    "SHA256": "625BE474887B4828CE4D711A9126168A2423C0AF6E23328F9539EF4DF61BF503"
+  },
+  {
+    "File": "results/mnist_yao_search_seed21/circuit.png",
+    "SHA256": "F9D7DDA59E34205C919A7394A12A10BB506CD89AD21B8E6F888CA8A5529E610D"
+  },
+  {
+    "File": "results/mnist_yao_search_seed21/config.json",
+    "SHA256": "B58DBBD40AF83090503503E1DA2E9C347F2860182EE40B874AE5254422672721"
+  },
+  {
+    "File": "results/mnist_yao_search_seed21/data_manifest.json",
+    "SHA256": "DA741319F4183963A019F10CE9A1D5A7BF219B0CCB590F9A16D3A10815B2A648"
+  },
+  {
+    "File": "results/mnist_yao_search_seed21/fitness.png",
+    "SHA256": "C6C8FEE987631ED9C6CC08803CF2179267A8F83949C6A62CC1FCB9F0DF2FE67A"
+  },
+  {
+    "File": "results/mnist_yao_search_seed21/restored_verification.json",
+    "SHA256": "3DE9232EDDB90E5BC9626DD138C4606DE99EAF44B90BD2272268F9553AC7AF2D"
+  },
+  {
+    "File": "results/mnist_yao_search_seed21/summary.json",
+    "SHA256": "225130BF319A9FFB7E2C9DB3DD1B544BE44017806CD0896F231E5759A4F489DD"
+  },
+  {
+    "File": "results/mnist_yao_search_seed21/test_predictions.csv",
+    "SHA256": "59A6C3AE968A35C820801988F7A43E982C873156B56D8FA433C119AAE8014503"
+  },
+  {
+    "File": "results/mnist_yao_search_seed21/train_predictions.csv",
+    "SHA256": "4CE2CA84B33E06D7CDC741D9A2887CA05C9A9C73585288B35A0073FF74EEB675"
+  },
+  {
+    "File": "results/mnist_yao_search_seed21/training.png",
+    "SHA256": "76D8B1FB8E002733039B365EDEF14FE6CD6F2F1F55D4A7C496C289107D884AB0"
+  },
+  {
+    "File": "results/mnist_yao_search_seed21/validation_predictions.csv",
+    "SHA256": "04E9C552A8BFFB74AE5FA5BAA5E32827D8B2AA800D46493BE178F21779F9950F"
+  },
+  {
+    "File": "results/spt_fixed_fused_seed21/best_circuit.json",
+    "SHA256": "E171CB190E381F0D10C54F171FB1C252E9706ECE0396799EF0442306A72A5548"
+  },
+  {
+    "File": "results/spt_fixed_fused_seed21/best_parameters.pt",
+    "SHA256": "BA20EC0283870E770727ED78334E5145F41F5EFBED1F4826DE1A10540930F4AA"
+  },
+  {
+    "File": "results/spt_fixed_fused_seed21/candidates.json",
+    "SHA256": "ABB49F4B4EAADDA6A917A36904889C52566BCC5AA14D06D665A854A11506BE92"
+  },
+  {
+    "File": "results/spt_fixed_fused_seed21/circuit.png",
+    "SHA256": "996C380F4645DFA52DFF7BB57FEB481245A527AACD14EE424CF028A64043D526"
+  },
+  {
+    "File": "results/spt_fixed_fused_seed21/config.json",
+    "SHA256": "85522AC730EB6A8ED1089A0A14BD8C413E9F9396B2639022D0EFD75B4D981957"
+  },
+  {
+    "File": "results/spt_fixed_fused_seed21/data_manifest.json",
+    "SHA256": "63498335BACE753BF4D71892051F7CB40315DC05DA0B890A3B8492077E8E5089"
+  },
+  {
+    "File": "results/spt_fixed_fused_seed21/fitness.png",
+    "SHA256": "5B23ED7A9D8C622637889B46EE5D94F72FC1AA5D30195796D81159761AFB7405"
+  },
+  {
+    "File": "results/spt_fixed_fused_seed21/restored_verification.json",
+    "SHA256": "DABAD8C82BF314538D2CADF16B7D3768161D2490A0C1A2B72EA635626606E67B"
+  },
+  {
+    "File": "results/spt_fixed_fused_seed21/summary.json",
+    "SHA256": "5F1DECF92E52A46EDDB3317E6112C2139C02095B298A182EA8879EF3978784CA"
+  },
+  {
+    "File": "results/spt_fixed_fused_seed21/test_predictions.csv",
+    "SHA256": "A5948AE284C81A9FCBBB0BD7F15EF892AA1722D86ECA19A6531417CDDF5307B9"
+  },
+  {
+    "File": "results/spt_fixed_fused_seed21/train_predictions.csv",
+    "SHA256": "853EF178903CDD81A90E495845FEA54A17CF6D652B1E1FE8D81BBF5175FB67EE"
+  },
+  {
+    "File": "results/spt_fixed_fused_seed21/training.png",
+    "SHA256": "7389089E76A8515674E496764A8483318B39C37275CD04B67FBD73F2F870CA47"
+  },
+  {
+    "File": "results/spt_fixed_fused_seed21/validation_predictions.csv",
+    "SHA256": "7F76A07FEC62898160B55D22D0DC1C47D25EEFF2BAB86809204C0FCF1C54E6D4"
+  },
+  {
+    "File": "results/spt_fixed_paper_seed21/best_circuit.json",
+    "SHA256": "56F0AEA5C4BC8CD2AA4DAFA762ACB2B8AF5887A61194ED5EEDDBF92127ACC71E"
+  },
+  {
+    "File": "results/spt_fixed_paper_seed21/best_parameters.pt",
+    "SHA256": "488DCFC3A603D92D8A1D908362672AA176C86BFBDFB3BFB1FA6F2CBAF82F81FD"
+  },
+  {
+    "File": "results/spt_fixed_paper_seed21/candidates.json",
+    "SHA256": "92F35CC22C2556E0D74A46FE5682A6BD33CB7FA07E319D4BC102C99E5C9FE663"
+  },
+  {
+    "File": "results/spt_fixed_paper_seed21/config.json",
+    "SHA256": "85522AC730EB6A8ED1089A0A14BD8C413E9F9396B2639022D0EFD75B4D981957"
+  },
+  {
+    "File": "results/spt_fixed_paper_seed21/data_manifest.json",
+    "SHA256": "63498335BACE753BF4D71892051F7CB40315DC05DA0B890A3B8492077E8E5089"
+  },
+  {
+    "File": "results/spt_fixed_seed22/best_circuit.json",
+    "SHA256": "EC0FB4811E7E72F8D5FE9BCC2598E65548D722FDB1DAC85578E33AE7173004E9"
+  },
+  {
+    "File": "results/spt_fixed_seed22/best_parameters.pt",
+    "SHA256": "B32DA8CBA365B07AF17CA2217AEF01CBF7587FC2F7FE42C8520FF2856D0E7723"
+  },
+  {
+    "File": "results/spt_fixed_seed22/candidates.json",
+    "SHA256": "B14F45A1D64869A3515C20F8E1B16500B662F54916B1EA32F16D0E2FFF6FBBAC"
+  },
+  {
+    "File": "results/spt_fixed_seed22/circuit.png",
+    "SHA256": "728E006BFFF858161BB4349B025C1660C0436E37F71C69709F4705F236902F8D"
+  },
+  {
+    "File": "results/spt_fixed_seed22/config.json",
+    "SHA256": "7D1FE27B20D493FC7708638EA274DB11A62CADCAB24FAC0C146C6007920DF701"
+  },
+  {
+    "File": "results/spt_fixed_seed22/data_manifest.json",
+    "SHA256": "AC4DF91707F689C80A2C49B1B75A1FB4265AE15CEF2C066DD695314AC6A30F13"
+  },
+  {
+    "File": "results/spt_fixed_seed22/fitness.png",
+    "SHA256": "4CEBBDCC868300E195F927A52A25A5C5183380B7A8E498EF51050C9E57FFAB73"
+  },
+  {
+    "File": "results/spt_fixed_seed22/restored_verification.json",
+    "SHA256": "4AB8457385022916BE3A4E446051B012AFE318987948D6F57880E7C127D70B55"
+  },
+  {
+    "File": "results/spt_fixed_seed22/summary.json",
+    "SHA256": "228A5425E35C857EFA1E8906A6E19FA52EA3672BABB0AE33FE27C47F11DC473F"
+  },
+  {
+    "File": "results/spt_fixed_seed22/test_predictions.csv",
+    "SHA256": "5D03CD3BCD349FAC690C802979565C7FB1CEF4C84D57A39C2023FED6AA22CC88"
+  },
+  {
+    "File": "results/spt_fixed_seed22/train_predictions.csv",
+    "SHA256": "6023E974646E89351FF7FDAB0EB7C7C8B28CCA2BF29358085951AD604563F005"
+  },
+  {
+    "File": "results/spt_fixed_seed22/training.png",
+    "SHA256": "981805ECEE6A8CF086532EBF29BCD0E9E4F9E4FC3F56549FBAC9B040C195B7A6"
+  },
+  {
+    "File": "results/spt_fixed_seed22/validation_predictions.csv",
+    "SHA256": "E211D6F855B3ADEEC5701923699CEBE589192C5E2E06371A3205158A0CB93286"
+  },
+  {
+    "File": "results/spt_legacy_control_fixed_seed21/best_circuit.json",
+    "SHA256": "16C33AE2604046814C7EA004461FB7F4262CD3889ECEA0671767E215047A0330"
+  },
+  {
+    "File": "results/spt_legacy_control_fixed_seed21/best_parameters.pt",
+    "SHA256": "03DF0DBDC86BD2F84983D0D397C01354DD161912364B897DC1FD857D9B57BDB6"
+  },
+  {
+    "File": "results/spt_legacy_control_fixed_seed21/candidates.json",
+    "SHA256": "18BB9C59A26D7E094B524E7778CF10EEDFB09EE1ADB59F64027FBF868FCF4191"
+  },
+  {
+    "File": "results/spt_legacy_control_fixed_seed21/circuit.png",
+    "SHA256": "5C3A8E056F9095F52399A1C7C5ACF748E2413C9E33701F154A00C42F3EC86E82"
+  },
+  {
+    "File": "results/spt_legacy_control_fixed_seed21/config.json",
+    "SHA256": "85522AC730EB6A8ED1089A0A14BD8C413E9F9396B2639022D0EFD75B4D981957"
+  },
+  {
+    "File": "results/spt_legacy_control_fixed_seed21/data_manifest.json",
+    "SHA256": "AC4DF91707F689C80A2C49B1B75A1FB4265AE15CEF2C066DD695314AC6A30F13"
+  },
+  {
+    "File": "results/spt_legacy_control_fixed_seed21/fitness.png",
+    "SHA256": "53977C441C5355D84CA02E32DAF22B9E5DB0CF1E489F8A425E3A2C06204EED78"
+  },
+  {
+    "File": "results/spt_legacy_control_fixed_seed21/restored_verification.json",
+    "SHA256": "D76179A3F76867AC884C6D7D823D08BAD9109E93933DDCC95140534479781810"
+  },
+  {
+    "File": "results/spt_legacy_control_fixed_seed21/summary.json",
+    "SHA256": "464474D42B6115C7B46BA9DA878355C13A427DAD9882F93A8F9803FC65ECD3B0"
+  },
+  {
+    "File": "results/spt_legacy_control_fixed_seed21/test_predictions.csv",
+    "SHA256": "0FE3793A528BFE13C5A9A9C4951DFF907F661BBA3C583FDB3FAC9F9ACE94409B"
+  },
+  {
+    "File": "results/spt_legacy_control_fixed_seed21/train_predictions.csv",
+    "SHA256": "3DE7615508960EE59397E4B995FA0A0833D960386CDBDF7EBB9559851978DAB8"
+  },
+  {
+    "File": "results/spt_legacy_control_fixed_seed21/training.png",
+    "SHA256": "B6D40FA30CA8C57174AC15C1ED99FA6B1A629473FD83C355C1E9D433681DA475"
+  },
+  {
+    "File": "results/spt_legacy_control_fixed_seed21/validation_predictions.csv",
+    "SHA256": "ED856EF0F44AAF8315E3B06372BBB02D378772B323ED45574F8D92EA9E3EB500"
+  },
+  {
+    "File": "fix_evidence_20261013/migration_mnist_restored.log",
+    "SHA256": "47D7AE461E798C0117BA498D1498715D413B830DD7B2F9648AE79F38C4FAB8F1"
+  },
+  {
+    "File": "fix_evidence_20261013/migration_spt_restored.log",
+    "SHA256": "B947F97C09427749206903408B94D6659F0EF7D3F580BBAE1EC56F5569CE9C50"
+  },
+  {
+    "File": "fix_evidence_20261013/datasets_v2_before_temp_nonce.py",
+    "SHA256": "04F2A718F336823FD6E80FB5E5DA1716CC9B07697B7014D91158FBF1A451E9C3"
+  }
+]

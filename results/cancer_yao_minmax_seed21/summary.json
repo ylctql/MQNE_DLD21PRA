@@ -1,0 +1,105 @@
+{
+  "task": "cancer",
+  "run_type": "MQNE_search",
+  "best": {
+    "fitness": 0.7469244288224957,
+    "final": {
+      "epoch": 150,
+      "train": {
+        "loss": 0.5289351769655609,
+        "accuracy": 0.7625
+      },
+      "validation": {
+        "loss": 0.5334520138802171,
+        "accuracy": 0.7100591715976331
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.6753964488092504,
+          "accuracy": 0.6275
+        },
+        "validation": {
+          "loss": 0.6754078664819202,
+          "accuracy": 0.6272189349112426
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.5954602346695619,
+          "accuracy": 0.6275
+        },
+        "validation": {
+          "loss": 0.5939762781021942,
+          "accuracy": 0.6272189349112426
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.5733303253718052,
+          "accuracy": 0.655
+        },
+        "validation": {
+          "loss": 0.5748726430447945,
+          "accuracy": 0.6331360946745562
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.5289351769655609,
+          "accuracy": 0.7625
+        },
+        "validation": {
+          "loss": 0.5334520138802171,
+          "accuracy": 0.7100591715976331
+        }
+      }
+    ],
+    "training_seed": 78,
+    "seconds": 2.132571399999506,
+    "optimizer_updates": 3000,
+    "path_1based": [
+      895,
+      51,
+      678,
+      641,
+      377,
+      779,
+      353,
+      321,
+      235,
+      57,
+      741,
+      289,
+      53
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 13,
+    "R_gates": 14,
+    "elementary_single_qubit_gates": 42,
+    "CRx_gates": 22,
+    "parameters": 64,
+    "generation": 6,
+    "candidate": 7
+  },
+  "independent_test": null,
+  "seconds": 94.86923149999893,
+  "circuits_trained": 60,
+  "optimizer_updates": 180000,
+  "protocol": "fixed_v2",
+  "backend": "numba",
+  "source_architecture": null,
+  "library_nonempty": 895,
+  "environment": {
+    "python": "3.13.6",
+    "torch": "2.11.0+cu128",
+    "numpy": "2.2.6",
+    "device": "cpu",
+    "platform": "Windows-11-10.0.26200-SP0"
+  }
+}

@@ -1,0 +1,63 @@
+Failed to find real location of C:\Python313\python.exe
+{
+  "train": {
+    "metrics": {
+      "loss": 0.4702539787670345,
+      "accuracy": 0.9545
+    },
+    "confusion_matrix_true_rows": [
+      [
+        1058,
+        4
+      ],
+      [
+        87,
+        851
+      ]
+    ],
+    "probability_range": [
+      0.1915563843944259,
+      0.7288313718310688
+    ]
+  },
+  "validation": {
+    "metrics": {
+      "loss": 0.4649329809857543,
+      "accuracy": 0.962
+    },
+    "confusion_matrix_true_rows": [
+      [
+        266,
+        0
+      ],
+      [
+        19,
+        215
+      ]
+    ],
+    "probability_range": [
+      0.20193971855072673,
+      0.7163140497275563
+    ]
+  },
+  "test": {
+    "metrics": {
+      "loss": 0.4731231194583685,
+      "accuracy": 0.952
+    },
+    "confusion_matrix_true_rows": [
+      [
+        264,
+        1
+      ],
+      [
+        23,
+        212
+      ]
+    ],
+    "probability_range": [
+      0.2551660864519446,
+      0.7207654459130187
+    ]
+  }
+}

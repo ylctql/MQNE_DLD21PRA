@@ -1,0 +1,12 @@
+Failed to find real location of C:\Python313\python.exe
+Fetching validated MNIST file train-images-idx3-ubyte.gz
+Fetching validated MNIST file train-images-idx3-ubyte.gz
+Fetching validated MNIST file train-labels-idx1-ubyte.gz
+Fetching validated MNIST file t10k-images-idx3-ubyte.gz
+Fetching validated MNIST file t10k-labels-idx1-ubyte.gz
+Fetching validated MNIST file train-images-idx3-ubyte.gz
+.....
+----------------------------------------------------------------------
+Ran 5 tests in 0.065s
+
+OK

@@ -1,0 +1,121 @@
+{
+  "task": "mnist",
+  "run_type": "MQNE_search",
+  "best": {
+    "fitness": 0.9672,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.40665587317802776,
+        "accuracy": 0.9655
+      },
+      "validation": {
+        "loss": 0.40218516010472455,
+        "accuracy": 0.974
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7016445422847853,
+          "accuracy": 0.4875
+        },
+        "validation": {
+          "loss": 0.70182078929012,
+          "accuracy": 0.486
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.4188044627781227,
+          "accuracy": 0.97
+        },
+        "validation": {
+          "loss": 0.4125834688562453,
+          "accuracy": 0.978
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.40690908176785057,
+          "accuracy": 0.9655
+        },
+        "validation": {
+          "loss": 0.402398665513987,
+          "accuracy": 0.972
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.4067407978861436,
+          "accuracy": 0.97
+        },
+        "validation": {
+          "loss": 0.4022434578599863,
+          "accuracy": 0.976
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.40665587317802776,
+          "accuracy": 0.9655
+        },
+        "validation": {
+          "loss": 0.40218516010472455,
+          "accuracy": 0.974
+        }
+      }
+    ],
+    "training_seed": 71,
+    "seconds": 71.73676140000134,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      897,
+      6378,
+      3041,
+      2410,
+      117,
+      4593,
+      553,
+      5565,
+      1067,
+      31,
+      4578,
+      6304,
+      4257,
+      4449
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 15,
+    "R_gates": 25,
+    "elementary_single_qubit_gates": 75,
+    "CRx_gates": 26,
+    "parameters": 101,
+    "generation": 6,
+    "candidate": 0
+  },
+  "independent_test": {
+    "loss": 0.39268396232110925,
+    "accuracy": 0.978
+  },
+  "seconds": 3201.7886906000003,
+  "circuits_trained": 60,
+  "optimizer_updates": 804000,
+  "protocol": "fixed_v2",
+  "backend": "numba",
+  "source_architecture": null,
+  "library_nonempty": 6687,
+  "environment": {
+    "python": "3.13.6",
+    "torch": "2.11.0+cu128",
+    "numpy": "2.2.6",
+    "device": "cpu",
+    "platform": "Windows-11-10.0.26200-SP0"
+  }
+}

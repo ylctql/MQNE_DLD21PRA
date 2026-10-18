@@ -1,0 +1,22 @@
+{
+  "seed": 21,
+  "device": "cpu",
+  "threads": 1,
+  "population": 3,
+  "survivors": 1,
+  "generations": 3,
+  "extension_length": 2,
+  "learning_rate": 0.0015,
+  "initialization": "random",
+  "training_unit": "epoch",
+  "fitness": "combined",
+  "fitness_threshold": 1.01,
+  "evaluation_interval": 5,
+  "task": "cancer",
+  "initial_length": 3,
+  "epochs": 30,
+  "batch_size": 20,
+  "train_samples": 400,
+  "validation_samples": 169,
+  "crx_initialization": "zero"
+}

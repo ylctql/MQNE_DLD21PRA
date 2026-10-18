@@ -1,0 +1,176 @@
+{
+  "task": "spt",
+  "run_type": "MQNE_search",
+  "best": {
+    "fitness": 0.99,
+    "final": {
+      "epoch": 50,
+      "train": {
+        "loss": 0.6351041494979849,
+        "accuracy": 0.9875
+      },
+      "validation": {
+        "loss": 0.6386944195001119,
+        "accuracy": 1.0
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7650892353035113,
+          "accuracy": 0.5
+        },
+        "validation": {
+          "loss": 0.7644341818790842,
+          "accuracy": 0.5
+        }
+      },
+      {
+        "epoch": 5,
+        "train": {
+          "loss": 0.7291601820508762,
+          "accuracy": 0.5
+        },
+        "validation": {
+          "loss": 0.7285913793795542,
+          "accuracy": 0.5
+        }
+      },
+      {
+        "epoch": 10,
+        "train": {
+          "loss": 0.7043865192276935,
+          "accuracy": 0.5
+        },
+        "validation": {
+          "loss": 0.7042030595715543,
+          "accuracy": 0.5
+        }
+      },
+      {
+        "epoch": 15,
+        "train": {
+          "loss": 0.6896806364347079,
+          "accuracy": 0.5
+        },
+        "validation": {
+          "loss": 0.689972802157035,
+          "accuracy": 0.5
+        }
+      },
+      {
+        "epoch": 20,
+        "train": {
+          "loss": 0.680857831501066,
+          "accuracy": 0.5
+        },
+        "validation": {
+          "loss": 0.6815782011231527,
+          "accuracy": 0.5
+        }
+      },
+      {
+        "epoch": 25,
+        "train": {
+          "loss": 0.6750853271798664,
+          "accuracy": 0.66875
+        },
+        "validation": {
+          "loss": 0.6761674220432307,
+          "accuracy": 0.65
+        }
+      },
+      {
+        "epoch": 30,
+        "train": {
+          "loss": 0.6700014680408277,
+          "accuracy": 1.0
+        },
+        "validation": {
+          "loss": 0.671426892616925,
+          "accuracy": 0.975
+        }
+      },
+      {
+        "epoch": 35,
+        "train": {
+          "loss": 0.6639881081338769,
+          "accuracy": 1.0
+        },
+        "validation": {
+          "loss": 0.6658126474501642,
+          "accuracy": 0.95
+        }
+      },
+      {
+        "epoch": 40,
+        "train": {
+          "loss": 0.6562518404525315,
+          "accuracy": 1.0
+        },
+        "validation": {
+          "loss": 0.6585546729817194,
+          "accuracy": 0.975
+        }
+      },
+      {
+        "epoch": 45,
+        "train": {
+          "loss": 0.6465299091489086,
+          "accuracy": 1.0
+        },
+        "validation": {
+          "loss": 0.6494342054801051,
+          "accuracy": 1.0
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.6351041494979849,
+          "accuracy": 0.9875
+        },
+        "validation": {
+          "loss": 0.6386944195001119,
+          "accuracy": 1.0
+        }
+      }
+    ],
+    "training_seed": 34,
+    "seconds": 15.46871629999805,
+    "optimizer_updates": 400,
+    "path_1based": [
+      6687,
+      785,
+      5256,
+      827,
+      3686,
+      5678,
+      1297,
+      6073,
+      4385,
+      6240,
+      4385
+    ],
+    "block_depth": 11,
+    "R_gates": 23,
+    "elementary_single_qubit_gates": 69,
+    "CRx_gates": 16,
+    "parameters": 85,
+    "generation": 5,
+    "candidate": 1
+  },
+  "independent_test": null,
+  "seconds": 218.94872269999905,
+  "circuits_trained": 18,
+  "optimizer_updates": 7200,
+  "library_nonempty": 6687,
+  "environment": {
+    "python": "3.13.6",
+    "torch": "2.11.0+cu128",
+    "numpy": "2.2.6",
+    "device": "cpu",
+    "platform": "Windows-11-10.0.26200-SP0"
+  }
+}

@@ -1,0 +1,116 @@
+[
+  {
+    "fitness": 0.9852,
+    "final": {
+      "epoch": 200,
+      "train": {
+        "loss": 0.22646337042718107,
+        "accuracy": 0.9865
+      },
+      "validation": {
+        "loss": 0.22042986773376616,
+        "accuracy": 0.98
+      }
+    },
+    "history": [
+      {
+        "epoch": 0,
+        "train": {
+          "loss": 0.7293065565362528,
+          "accuracy": 0.469
+        },
+        "validation": {
+          "loss": 0.7301771504469695,
+          "accuracy": 0.468
+        }
+      },
+      {
+        "epoch": 50,
+        "train": {
+          "loss": 0.24726720493010357,
+          "accuracy": 0.982
+        },
+        "validation": {
+          "loss": 0.24202149960951788,
+          "accuracy": 0.978
+        }
+      },
+      {
+        "epoch": 100,
+        "train": {
+          "loss": 0.2364956982002019,
+          "accuracy": 0.984
+        },
+        "validation": {
+          "loss": 0.23109931524638314,
+          "accuracy": 0.982
+        }
+      },
+      {
+        "epoch": 150,
+        "train": {
+          "loss": 0.23223253350818715,
+          "accuracy": 0.986
+        },
+        "validation": {
+          "loss": 0.22645741255822616,
+          "accuracy": 0.982
+        }
+      },
+      {
+        "epoch": 200,
+        "train": {
+          "loss": 0.22646337042718107,
+          "accuracy": 0.9865
+        },
+        "validation": {
+          "loss": 0.22042986773376616,
+          "accuracy": 0.98
+        }
+      }
+    ],
+    "training_seed": 21,
+    "seconds": 246.32275520000076,
+    "optimizer_updates": 13400,
+    "path_1based": [
+      6687,
+      1,
+      129,
+      6687,
+      1,
+      129,
+      6687,
+      1,
+      129,
+      6687,
+      1,
+      129,
+      6687,
+      1,
+      129,
+      6687,
+      1,
+      129,
+      6687,
+      1,
+      129,
+      6687,
+      1,
+      129,
+      6687,
+      1,
+      129,
+      6687,
+      1,
+      129
+    ],
+    "backend": "numba_adjoint",
+    "block_depth": 30,
+    "R_gates": 90,
+    "elementary_single_qubit_gates": 270,
+    "CRx_gates": 80,
+    "parameters": 350,
+    "generation": 1,
+    "candidate": 0
+  }
+]

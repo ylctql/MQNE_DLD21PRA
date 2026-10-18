@@ -1,0 +1,12 @@
+Failed to find real location of C:\Python313\python.exe
+test_autograd_finite_difference (test_mqne.PhysicsTests.test_autograd_finite_difference) ... ok
+test_cluster_ising_dense_spectrum (test_mqne.PhysicsTests.test_cluster_ising_dense_spectrum) ... ok
+test_gates_unitarity_and_control (test_mqne.PhysicsTests.test_gates_unitarity_and_control) ... ok
+test_library_counts_and_start (test_mqne.PhysicsTests.test_library_counts_and_start) ... ok
+test_successors_against_scalar_rules (test_mqne.PhysicsTests.test_successors_against_scalar_rules) ... ok
+test_zero_extension_preserves_parent (test_mqne.PhysicsTests.test_zero_extension_preserves_parent) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 2.602s
+
+OK

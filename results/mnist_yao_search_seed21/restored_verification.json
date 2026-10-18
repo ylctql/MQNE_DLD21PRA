@@ -1,0 +1,62 @@
+{
+  "train": {
+    "metrics": {
+      "loss": 0.47954722148311685,
+      "accuracy": 0.9585
+    },
+    "confusion_matrix_true_rows": [
+      [
+        1055,
+        7
+      ],
+      [
+        76,
+        862
+      ]
+    ],
+    "probability_range": [
+      0.1917708413200303,
+      0.7434970353887088
+    ]
+  },
+  "validation": {
+    "metrics": {
+      "loss": 0.4774870321342019,
+      "accuracy": 0.956
+    },
+    "confusion_matrix_true_rows": [
+      [
+        266,
+        0
+      ],
+      [
+        22,
+        212
+      ]
+    ],
+    "probability_range": [
+      0.2317882822944523,
+      0.72553867229787
+    ]
+  },
+  "test": {
+    "metrics": {
+      "loss": 0.4802063400594658,
+      "accuracy": 0.96
+    },
+    "confusion_matrix_true_rows": [
+      [
+        264,
+        1
+      ],
+      [
+        19,
+        216
+      ]
+    ],
+    "probability_range": [
+      0.25073608097534067,
+      0.7506611881092493
+    ]
+  }
+}

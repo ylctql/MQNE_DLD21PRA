@@ -1,0 +1,26 @@
+[
+  {
+    "lambda_value": 1.0079861931229313,
+    "label": 1,
+    "probability_class1": 0.4983330703172735,
+    "prediction": 0
+  },
+  {
+    "lambda_value": 1.0103043898813173,
+    "label": 1,
+    "probability_class1": 0.49988196668808726,
+    "prediction": 0
+  },
+  {
+    "lambda_value": 1.0074656317930673,
+    "label": 1,
+    "probability_class1": 0.4979848895187873,
+    "prediction": 0
+  },
+  {
+    "lambda_value": 1.0009906201885446,
+    "label": 1,
+    "probability_class1": 0.493643408886448,
+    "prediction": 0
+  }
+]

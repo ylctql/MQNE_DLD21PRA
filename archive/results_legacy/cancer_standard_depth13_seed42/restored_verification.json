@@ -1,0 +1,42 @@
+{
+  "train": {
+    "metrics": {
+      "loss": 0.6025109715134195,
+      "accuracy": 0.65
+    },
+    "confusion_matrix_true_rows": [
+      [
+        249,
+        2
+      ],
+      [
+        138,
+        11
+      ]
+    ],
+    "probability_range": [
+      0.18193790240787666,
+      0.5378934720392778
+    ]
+  },
+  "validation": {
+    "metrics": {
+      "loss": 0.6363498680928708,
+      "accuracy": 0.6390532544378699
+    },
+    "confusion_matrix_true_rows": [
+      [
+        105,
+        1
+      ],
+      [
+        60,
+        3
+      ]
+    ],
+    "probability_range": [
+      0.20969222385364622,
+      0.5271243583096227
+    ]
+  }
+}
